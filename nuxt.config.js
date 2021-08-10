@@ -23,7 +23,7 @@ export default {
     // PROD/Learning Services/GT test/ADT_finance/ADT_test → base: '/ProdContent/cninv000000000018107/'
     
     // base: '/ProdContent/cninv000000000016763/'
-    // base: 'd2l/le/content/7764/viewContent/8158/View'
+     base: 'd2l/le/content/'
     // base: '/ProdContent/cninv000000000017454/'
     // base: '/ProdContent/cninv000000000018107/'
     // base: '/adt_finance-R1/'
