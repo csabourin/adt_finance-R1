@@ -41,6 +41,7 @@
     <b-modal OkOnly centered okOnly id="completionModal" modal-class="successModal" body-class="successBody" header-class="successHeadFoot" footer-class="successHeadFoot" content-class="successContent">
       <div class="successImage" />
       <div v-html="$t('congratulations')"></div>
+      <div>{{learnerName}}</div>
     </b-modal>
   </div>
 </template>
@@ -71,6 +72,9 @@ export default {
     contentMap
   },
   computed: {
+    learnerName(){
+      return this.$store.state.scorm.name
+    },
     thatPoint() {
       return parseInt(this.$store.state.currentPlaying.homepage)
     },

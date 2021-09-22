@@ -6,14 +6,14 @@
           xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
                               http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
                               http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
-   <organizations default="ORGE441F">
+   <organizations default="ADTM5">
 
-      <organization identifier="ORGE441F">
+      <organization identifier="ADTM5">
 
-         <title>Power Builders</title>
+         <title>Autority Delegation Training</title>
 
          <item identifier="E441F_I01" identifierref="RE441F_S01"  isvisible="true">
-            <title>Commodity</title>
+            <title>Finance Module</title>
             <metadata>
                <schema>ADL SCORM</schema>
                <schemaversion>1.2</schemaversion>
@@ -27,12 +27,12 @@
    </organizations>
    <resources>
 
-      <resource identifier="RE441F_S01" type="webcontent" adlcp:scormtype="sco" href="en/">
+      <resource identifier="RE441F_S01" type="webcontent" adlcp:scormtype="sco" href="index.html">
          <metadata>
             <schema>ADL SCORM</schema>
             <schemaversion>1.2</schemaversion>
          </metadata>
-         <file href="en/" />
+         <file href="index.html" />
       </resource>
    </resources>
 </manifest>

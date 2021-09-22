@@ -1,4 +1,7 @@
 export default {
+  rootDir : './',
+  srcDir : './',
+  
   mode: 'spa',
   /*
    ** Headers of the page
@@ -11,7 +14,7 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,400i,700i&display=swap' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto:400,500,700,900,400i,700i&display=swap' },
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css' }
@@ -26,7 +29,8 @@ export default {
     // base: 'd2l/le/content/'
     // base: '/ProdContent/cninv000000000017454/'
     // base: '/ProdContent/cninv000000000018107/'
-    // base: '/adt_finance-R1/'
+     base: './',
+     mode: "hash"
   },
   /*
    ** Customize the progress-bar color
@@ -41,6 +45,7 @@ export default {
    ** Plugins to load before mounting the App
    */
   plugins: [
+  '~/plugins/SCORM_API_wrapper.js',
   '~/plugins/fontawesome.js',
    { src: '~plugins/ga.js', mode: 'client' }],
   /*
@@ -126,9 +131,9 @@ export default {
      ** You can extend webpack config here
      */
     extend(config, ctx) {
-    //    if(!ctx.isDev) {
-    //   config.output.publicPath = '_nuxt/'
-    // }
+       if(!ctx.isDev) {
+       config.output.publicPath = '_nuxt/'
+     }
       config.module.rules.push({
         test: /\.(pdf|docx|xlsx)(\?.*)?$/,
         loader: 'file-loader',
@@ -141,6 +146,7 @@ export default {
           loader: 'file-loader'
         }]
       })
+      return config
     }
   }
 }
