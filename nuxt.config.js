@@ -29,7 +29,7 @@ export default {
     // base: 'd2l/le/content/'
     // base: '/ProdContent/cninv000000000017454/'
     // base: '/ProdContent/cninv000000000018107/'
-     base: './',
+     //base: './',
      mode: "hash"
   },
   /*

@@ -3,7 +3,7 @@
     <transition appear mode="out-in" name="fade">
       <div>
         <div v-show="currentState">
-          <button @click="setParentOpen" class="closeSideMenuButton" id="closeSideMenuButton">
+          <button @click="setParentOpen" class="closeSideMenuButton" ref="closeSideMenuButton">
             <span class="v-inv">{{$t('navMenuCollapse')}}</span>
           </button>
           <menu style="list-style: none; margin-top: 30px;">
@@ -61,7 +61,7 @@
           </menu>
         </div>
         <div class="clickMe closedMenuBox">
-          <a v-show="!currentState" @click="setParentOpen" @mouseover="arrowVisible = true" @mouseout="arrowVisible = false" href="#closeSideMenuButton" id="sideMenuClosed" :aria-label="$t('navMenuExpand')" aria-live="polite">
+          <a v-show="!currentState" @click.prevent="setParentOpen" @mouseover="arrowVisible = true" @mouseout="arrowVisible = false" href="#closeSideMenuButton" id="sideMenuClosed" :aria-label="$t('navMenuExpand')" aria-live="polite">
           <!-- <span class="v-inv">{{$t('navMenuExpand')}}</span> -->
           <div class="color1">
             <h2>{{$t('plan')}}</h2>
@@ -91,7 +91,8 @@
     },
     methods:{
       setParentOpen(){
-        this.$emit('menu-toggle')
+        this.$emit('menu-toggle'),
+        this.$refs.closeSideMenuButton.focus({preventScroll:true})
       },
       setAriaCurrent() {
         this.$nextTick(function() {

@@ -74,7 +74,7 @@
             <p>{{ item }}</p><br>
 
             <!-- Play button -->
-            <a v-if="modalArray[index]" :href="'#'+vId" @click="seek" class="playButton" :key="index" :data-start="Math.ceil(startTime[index]+0.5)+.01" :data-end="endTime[index]" :title="$t('playSegment') + ' - ' +navBarTracks[index]" v-b-tooltip.hover.bottom="$t('playSegment')"><img src="~/assets/VideoIcon.svg" :data-start="Math.ceil(startTime[index]+0.5)+.01" :data-end="endTime[index]" :alt="$t('playIcon')" width="48" height="48"><span class="v-inv">{{$t('playSegment')}}: {{navBarTracks[index]}}</span></a>
+            <button v-if="modalArray[index]" @click="seek" class="playButton" :key="index" :data-start="Math.ceil(startTime[index]+0.5)+.01" :data-end="endTime[index]" :title="$t('playSegment') + ' - ' +navBarTracks[index]" v-b-tooltip.hover.bottom="$t('playSegment')"><img src="~/assets/VideoIcon.svg" :data-start="Math.ceil(startTime[index]+0.5)+.01" :data-end="endTime[index]" :alt="$t('playIcon')" width="48" height="48"><span class="v-inv">{{$t('playSegment')}}: {{navBarTracks[index]}}</span></button>
 
             <!-- If the popup is a quiz -->
             <button v-if="modalArray[index] && isInArray(index, currentPageQuiz)" class="activityButton" @click.prevent="accessibleModal(index)" :title="$t('jumpQuiz') + ' - ' + navBarTracks[index]" v-b-tooltip.hover.bottom="$t('jumpQuiz')"><img src="~/assets/QuizIcon.svg" :alt="$t('quizIcon')" width="48" height="48"></button>
@@ -478,6 +478,7 @@ export default {
         setTimeout(function() {
           videoPlayer.play()
           that.showPlayOverlay = false;
+          this.$refs.vId.focus({preventScroll: true})
         }, 250)
         this.justSeeked = false
 
