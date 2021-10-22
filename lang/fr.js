@@ -2,7 +2,7 @@
 export default {
   searchBar: "Recherche",
   symbolicIdentifier: "Identificateur symbolique",
-  finRoles: "La saine gestion des fonds publics",
+  finRoles: "Utiliser les fonds publics de manière responsable ",
   skipToMain:"Passer au contenu principal",
   plan: "Planification",
   spend: "Dépenses",
