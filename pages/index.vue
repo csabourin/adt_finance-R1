@@ -4,7 +4,7 @@
       <b-col cols="12" lg="8" xl="7">
         <p>&nbsp;</p>
         <div style="margin-left: -30px; margin-right: -30px;">
-          <videoplayer enVideoFile="https://video.csps-efpc.gc.ca/p/101/serveFlavor/entryId/0_gbial2y9/flavorId/0_gglnvh1p/name/a.mp4" frVideoFile="https://video.csps-efpc.gc.ca/p/101/serveFlavor/entryId/0_0olxxf6u/flavorId/0_us3jc52b/name/a.mp4" posterFile="video_poster.PNG" ccFile="intro_captions.vtt" toResume="setHomepage" :restartAt="thatPoint" />
+          <videoplayer enVideoFile="https://video.csps-efpc.gc.ca/p/101/serveFlavor/entryId/0_ephxllo0/flavorId/0_z42oid4s/name/a.mp4" frVideoFile="https://video.csps-efpc.gc.ca/p/101/serveFlavor/entryId/0_2bqyngtn/flavorId/0_3fto2owf/name/a.mp4" posterFile="video_poster.PNG" ccFile="ADT_INTRO_CAPTION.vtt" toResume="setHomepage" :restartAt="thatPoint" />
         </div>
         <div role="tablist" class="transcriptionBox" style="width: 100%;">
           <b-card no-body class="mb-1 text-left">
