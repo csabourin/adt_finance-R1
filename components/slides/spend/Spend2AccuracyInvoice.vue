@@ -2,7 +2,6 @@
 	<div>
     <b-container>
       <b-row>
-        <b-col xl="7" lg="6" style="border: 1px solid #212529;"><SalesInvoice /></b-col>
         <b-col>
 		 <b-card>
       <p v-html="$t('instructions')" />
@@ -20,6 +19,7 @@
       </div>
 </b-card>
 </b-col>
+<b-col xl="12" lg="12" style="border: 1px solid #212529;"><SalesInvoice /></b-col>
 
 </b-row>
 </b-container>
@@ -51,7 +51,7 @@
 </script>
 <i18n>{
   "en": {
-  "instructions":"Answer the following questions by looking at the invoice provided.",
+  "instructions":"Answer the following questions by looking at the invoice provided below.",
     "q1": {
       "text": "You have received 15 pairs of rose-coloured glasses. The other five pairs are backordered. Do you pay the invoice for the full order of 20 pairs?",
       "options": {
@@ -90,7 +90,7 @@
     }
   },
   "fr": {
-  "instructions":"Répondez aux questions suivantes en consultant la facture fournie.",
+  "instructions":"Répondez aux questions suivantes en consultant la facture fournie ci-dessous.",
     "q1": {
       "text": "Vous avez reçu 15 paires de lunettes roses. Les 5 autres paires sont en rupture de stock. Payez-vous la facture pour la commande compl&egrave;te de 20 paires?",
       "options": {

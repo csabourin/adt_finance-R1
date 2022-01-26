@@ -62,7 +62,7 @@ export default {
     '@nuxtjs/axios',
     ['nuxt-i18n', {
   strategy: 'prefix',
-  defaultLocale: 'en'
+  defaultLocale: 'fr'
 }],
     ['vue-scrollto/nuxt', {container: "#scrollDiv",
      duration: 750,

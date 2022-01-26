@@ -1,75 +1,366 @@
 <template >
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 700">
- <g>
-  <title>{{$t('Invoice')}}</title>
-  <path d="m-1,-1l614,0l0,794l-614,0l0,-794z" fill="none"/>
-  <g>
-   <path d="m12.5,1.3c0,0 523.5,0 523.5,0c0,0 0,684.7 0,684.7c0,0 -523.5,0 -523.5,0c0,0 0,-684.7 0,-684.7" fill="#fff"/>
-   <path d="m495.7,321.6c0,0 0,278.2 0,278.2m-80.9,-0.4c0,0 81.3,0 81.3,0m-81.3,-18.6c0,0 81.3,0 81.3,0m-81.3,-18.5c0,0 81.3,0 81.3,0m-81.3,-18.6c0,0 81.3,0 81.3,0m-81.3,-18.5c0,0 81.3,0 81.3,0m-484.3,-18.5c0,0 484.3,0 484.3,0m-484.3,-166.9c0,0 484.3,0 484.3,0m-0.4,-79.6c0,0 0,37.1 0,37.1m-483.9,-0.3c0,0 484.3,0 484.3,0m-484.3,-18.6c0,0 484.3,0 484.3,0m-80.9,43.2c0,0 0,278.2 0,278.2m0,-339.6c0,0 0,37.1 0,37.1m-80.6,24.3c0,0 0,185.4 0,185.4m0,-246.8c0,0 0,37.1 0,37.1m-80.6,-37.1c0,0 0,37.1 0,37.1m-80.6,-37.1c0,0 0,37.1 0,37.1m-80.6,24.3c0,0 0,185.4 0,185.4m0,-246.8c0,0 0,37.1 0,37.1m-80.6,24.3c0,0 0,185.4 0,185.4m0,-246.8c0,0 0,37.1 0,37.1" stroke-width="0.7" stroke-miterlimit="10" stroke="#3c3c3c" fill="none"/>
-   <path d="m11.8,320.9c0,0 484.3,0 484.3,0m-484.3,-61.4c0,0 484.3,0 484.3,0" stroke-width="1.4" stroke-miterlimit="10" stroke="#3c3c3c" fill="none"/>
-   <text x="15" y="38" font-size="16.7" font-family="Arial" font-weight="700">{{$t('ABC')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 371 : 365" y="33" font-size="26" font-family="Arial" font-weight="900" fill="gray">{{$t('Invoice')}}</text>
-   <text x="15" y="51" font-size="9.3" font-family="Arial" font-weight="700" font-style="italic">{{$t('tagline')}}</text>
-   <text x="337" y="64" font-size="9.3" font-family="Arial" font-weight="700">{{$t('date')}}</text>
-   <text x="418" y="64" font-size="9.3" font-family="Arial" font-weight="500">{{$t('18-10-19')}}</text>
-   <text x="15" y="75" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('address1')}}</text>
-   <text x="337" y="76" font-size="9.3" font-family="Arial" font-weight="700">{{$t('Invoice')}} #</text>
-   <text x="418" y="76" font-size="9.3" font-family="Arial" font-weight="500">{{$t('invoice#')}}</text>
-   <text x="15" y="87" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('city1')}}</text>
-   <text x="15" y="100" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('phone1')}}</text>
-   <text x="15" y="136" font-size="9.3" font-family="Arial" font-weight="700">{{$t('billTo')}}</text>
-   <text x="256" y="136" font-size="9.3" font-family="Arial" font-weight="700">{{$t('shipTo')}}</text>
-   <text x="15" y="148" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('boss1')}}</text>
-   <text x="256" y="148" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('boss1')}}</text>
-   <text x="15" y="160" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('impDep')}}</text>
-   <text x="256" y="160" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('impDep')}}</text>
-   <text x="15" y="172" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('parlHill')}}</text>
-   <text x="256" y="172" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('parlHill')}}</text>
-   <text x="15" y="184" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('ottawa')}}</text>
-   <text x="256" y="184" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('ottawa')}}</text>
-   <text x="15" y="197" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('phone2')}}</text>
-   <text x="256" y="197" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('phone2')}}</text>
-   <text x="15" y="233" font-size="9.3" font-family="Arial" font-weight="700">{{$t('comments')}}</text>
-   <text x="220" y="233" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('none')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 17 : 28" y="272" font-size="9.3" font-family="Arial" font-weight="700">{{$t('salesperson')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 102 : 96" y="272" :font-size="this.$i18n.locale == 'en' ? 9.3 : 7.7" font-family="Arial" font-weight="700">{{$t('poNumber')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 189 : 175" y="272" :font-size="this.$i18n.locale == 'en' ? 9.3 : 7.7" font-family="Arial" font-weight="700">{{$t('shipDate')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 274 : 255" y="272" :font-size="this.$i18n.locale == 'en' ? 9.3 : 7.5" font-family="Arial" font-weight="700">{{$t('shipVia')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 346 : 341" y="272" font-size="9.3" font-family="Arial" font-weight="700">{{$t('fobPoint')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 439 : 436" y="272" font-size="9.3" font-family="Arial" font-weight="700">{{$t('terms')}}</text>
-   <text x="31" y="291" font-size="9.3" font-family="Arial" font-weight="500">Bob Sales</text>
-   <text x="112" y="291" font-size="9.3" font-family="Arial" font-weight="500">10203040</text>
-   <text :x="this.$i18n.locale == 'en' ? 190 : 187" y="291" font-size="9.3" font-family="Arial" font-weight="500">{{$t('10-10-19')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 274 : 257.5" y="291" font-size="9.3" font-family="Arial" font-weight="500">{{$t('snail')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 425 : 417" y="291" :font-size="this.$i18n.locale == 'en' ? 9.3 : 7.8" font-family="Arial" font-weight="500">{{$t('due')}}</text>
-   <text x="28" y="334" font-size="9.3" font-family="Arial" font-weight="700">{{$t('quantity')}}</text>
-   <text x="182" y="334" font-size="9.3" font-family="Arial" font-weight="700">{{$t('desc')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 348 : 336.5" y="334" font-size="9.3" font-family="Arial" font-weight="700">{{$t('unitPrice')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 435 : 432" y="334" font-size="9.3" font-family="Arial" font-weight="700">{{$t('amount')}}</text>
-   <text x="50" y="352" font-size="9.3" font-family="Arial" font-weight="500">5</text>
-   <text x="95" y="352" font-size="9.3" font-family="Arial" font-weight="500">{{$t('highlighters')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 387 : 385" y="352" font-size="9.3" font-family="Arial" font-weight="500">{{$t('2')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 462 : 460" y="352" font-size="9.3" font-family="Arial" font-weight="500">{{$t('10')}}</text>
-   <text x="47" y="371" font-size="9.3" font-family="Arial" font-weight="500">20</text>
-   <text x="95" y="371" font-size="9.3" font-family="Arial" font-weight="500">{{$t('glasses')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 381 : 379" y="371" font-size="9.3" font-family="Arial" font-weight="500">{{$t('25')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 457 : 455" y="371" font-size="9.3" font-family="Arial" font-weight="500">{{$t('500')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 359 : 350" y="519" font-size="9.3" font-family="Arial" font-weight="500">{{$t('subtotal')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 458 : 454" y="519" font-size="9.3" font-family="Arial" font-weight="500">{{$t('510')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 362 : 319" y="538" font-size="9.3" font-family="Arial" font-weight="500">{{$t('taxRate')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 460 : 456" y="538" font-size="9.3" font-family="Arial" font-weight="500">{{$t('13')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 357 : 333" y="556" font-size="9.3" font-family="Arial" font-weight="500">{{$t('tax')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 463 : 459" y="556" font-size="9.3" font-family="Arial" font-weight="500">{{$t('66')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 304 : 209" y="575" font-size="9.3" font-family="Arial" font-weight="500">{{$t('shipping')}}</text>
-   <text x="477" y="575" font-size="9.3" font-family="Arial" font-weight="500">-</text>
-   <text x="380" y="593" font-size="9.3" font-family="Arial" font-weight="700">{{$t('total')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 458 : 454" y="593" font-size="9.3" font-family="Arial" font-weight="500">{{$t('576')}}</text>
-   <text x="15" y="622" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('checks')}}</text>
-   <text :x="this.$i18n.locale == 'en' ? 122 : 156" y="622" font-size="9.3" font-family="Arial" font-weight="700">{{$t('ABC')}}</text>
-   <text x="15" y="635" font-size="9.3" font-family="Calibri" font-weight="500">{{$t('questions')}}</text>
-  </g>
- </g>
-</svg>
+<body>
+  <span v-if="$i18n.locale=='en'">
+	<div class="list">
+		<div class="row">
+			<div class="col-4">
+				<p style="font-size: 20px;"><b>ABC Enterprise</b></p>
+				<p><i>We have everything from A to C</i></p>
+			</div>
+			<div class="col-4"></div>
+			<div class="col-4"><p class="invoice">INVOICE</p></div>
+		</div>
+		
+		<div class="row">
+			<div class="col-4">
+				<p>3rd Rock from the Sun Avenue<br />
+				You-Are-Here, Ontario<br />
+				Phone: 123.456.7890 Fax: 123.456.7891</p>
+			</div>
+			<div class="col-4"></div>
+			<div class="col-4">
+				<p class="invoiceSub">INVOICE #007</p>
+				<p class="invoiceSub">DATE: 2019-10-18</p>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="col-4">
+				<p><b>BILL TO:</b><br />
+				Boss Number 1<br />
+				Important Department<br />
+				Parliament Hill<br />
+				Ottawa, ON<br />
+				Phone: 123-456-7890<br />
+				</p>
+			</div>
+			<div class="col-4">
+				<p><b>SHIP TO:</b><br />
+				Boss Number 1<br />
+				Important Department<br />
+				Parliament Hill<br />
+				Ottawa, ON<br />
+				Phone: 123-456-7890<br />
+				</p>
+			</div>
+			<div class="col-4">
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="col-4">
+				<p><b>COMMENTS OR SPECIAL INSTRUCTIONS:</b><br />
+				None</p>
+			</div>
+			<div class="col-4">
+				
+			</div>
+			<div class="col-4">
+			</div>
+		</div>
+		
+		<div class="row">
+			<table align="center" class="table1">
+				<tr>
+					<th>SALESPERSON</th>
+					<th>P.O. NUMBER</th>
+					<th>SHIP DATE</th>
+					<th>SHIPPED VIA</th>
+					<th>F.O.B. POINT</th>
+					<th>TERMS</th>
+				</tr>
+				<tr>
+					<td>Bob Sales</td>
+					<td>10203040</td>
+					<td>2019-10-10</td>
+					<td>Snail Mail</td>
+					<td></td>
+					<td>Due on receipt</td>
+				</tr>
+			</table>
+		</div>
+		<br />
+		<div class="row">
+			<table align="center" class="table2">
+				<tr>
+					<th>QUANTITY</th>
+					<th>DESCRIPTION</th>
+					<th>UNIT PRICE</th>
+					<th>TOTAL</th>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td class="descriptionText">Polk-a-dot highlighters</td>
+					<td class="unitText">2.00</td>
+					<td class="totalText">10.00</td>
+				</tr>
+				<tr>
+					<td>20</td>
+					<td class="descriptionText">Pairs of rose colored glasses</td>
+					<td class="unitText">25.00</td>
+					<td class="totalText">500.00</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr class="total">
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorderText">SUBTOTAL</td>
+					<td class="totalText">$510.00</td>
+				</tr>
+				<tr class="total">
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorderText">TAX RATE</td>
+					<td class="totalText">13.00%</td>
+				</tr>
+				<tr class="total">
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorderText">SALES TAX</td>
+					<td class="totalText">66.30</td>
+				</tr>
+				<tr class="total">
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorderText">SHIPPING &amp; HANDLING</td>
+					<td class="totalText">-</td>
+				</tr>
+				<tr class="total">
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorder">&nbsp;</td>
+					<td class="NoBorderText"><b>TOTAL</b></td>
+					<td class="totalText"><b>$576.30</b></td>
+				</tr>
+			</table>
+		</div>
+		
+		<div class="row">
+			<p>Make all checks payable to ABC Enterprise <br />
+			If you have any questions concerning this invoice, contact Bob at 123-456-7890 or Bob@ABCEnterprises.ca</p>
+		</div>
+		<br />
+		<div class="row" align="center">
+			<b>THANK YOU FOR YOUR BUSINESS!</b>
+		</div>
+		<br />
+	</div>
+  </span>
+  <span v-if="$i18n.locale=='fr'">
+    <div class="list">
+      <div class="row">
+        <div class="col-4">
+          <p style="font-size: 20px;"><b>Entreprise ABC</b></p>
+          <p><i>Tous pour vous de A à C</i></p>
+        </div>
+        <div class="col-4"></div>
+        <div class="col-4"><p class="invoice">FACTURE</p></div>
+      </div>
+      
+      <div class="row">
+        <div class="col-4">
+          <p>Avenue du soleil<br />
+          Vous-êtes-ici, Ontario<br />
+          Téléphone: 123.456.7890 Fax: 123.456.7891</p>
+        </div>
+        <div class="col-4"></div>
+        <div class="col-4">
+          <p class="invoiceSub">NO DE LA FACTURE : 007</p>
+          <p class="invoiceSub">DATE : 18 OCT 2019</p>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="col-4">
+          <p><b>FACTURER À :</b><br />
+          Patron numéro 1<br />
+          Ministère important<br />
+          Colline du Parlement<br />
+          Ottawa (ON)<br />
+          Téléphone : 123-456-7890<br />
+          </p>
+        </div>
+        <div class="col-4">
+          <p><b>EXPÉDIER À :</b><br />
+          Patron numéro 1<br />
+          Ministère important<br />
+          Colline du Parlement<br />
+          Ottawa (ON)<br />
+          Téléphone : 123-456-7890<br />
+          </p>
+        </div>
+        <div class="col-4">
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="col-4">
+          <p><b>Commentaires ou instructions spéciales</b><br />
+          Aucun</p>
+        </div>
+        <div class="col-4">
+          
+        </div>
+        <div class="col-4">
+        </div>
+      </div>
+      
+      <div class="row">
+        <table align="center" class="table1">
+          <tr>
+            <th>VENDEUR</th>
+            <th>NO DE COMMANDE</th>
+            <th>DATE D’EXPÉDITION</th>
+            <th>MODE D’EXPÉDITION</th>
+            <th>POINT DE FAB</th>
+            <th>TERMES</th>
+          </tr>
+          <tr>
+            <td>Bob Sales</td>
+            <td>10203040</td>
+            <td>10 oct 2019</td>
+            <td>Courrier ordinaire</td>
+            <td></td>
+            <td>Payable sur réception</td>
+          </tr>
+        </table>
+      </div>
+      <br />
+      <div class="row">
+        <table align="center" class="table2">
+          <tr>
+            <th>QUANTITÉ</th>
+            <th>DESCRIPTION</th>
+            <th>PRIX PAR UNITÉ</th>
+            <th>MONTANT</th>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td class="descriptionText">Surligneurs</td>
+            <td class="unitText">2.00</td>
+            <td class="totalText">10.00</td>
+          </tr>
+          <tr>
+            <td>20</td>
+            <td class="descriptionText">Paires de lunettes roses</td>
+            <td class="unitText">25.00</td>
+            <td class="totalText">500.00</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr class="total">
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorderText">SOUS-TOTAL</td>
+            <td class="totalText">$510.00</td>
+          </tr>
+          <tr class="total">
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorderText">TAUX DE TAXATION</td>
+            <td class="totalText">13.00%</td>
+          </tr>
+          <tr class="total">
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorderText">TAXE DE VENTE</td>
+            <td class="totalText">66.30</td>
+          </tr>
+          <tr class="total">
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorderText">FRAIS D'EXPÉDITION ET DE MANUTENTION</td>
+            <td class="totalText">-</td>
+          </tr>
+          <tr class="total">
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorder">&nbsp;</td>
+            <td class="NoBorderText"><b>TOTAL</b></td>
+            <td class="totalText"><b>$576.30</b></td>
+          </tr>
+        </table>
+      </div>
+      
+      <div class="row">
+        <p>Libellez tous les chèques à l'ordre d'Entreprise ABC <br />
+        Si vous avez des questions concernant cette facture, communiquez avec Bob au 123-456-7890 ou à Bob@EntreprisesABC.ca</p>
+      </div>
+      <br />
+      <div class="row" align="center">
+        <b>NOUS VOUS REMERCIONS POUR VOTRE SOUTIEN!</b>
+      </div>
+      <br />
+    </div>
+  </span>
+</body>
 </template>
 <i18n>
   {
@@ -177,45 +468,100 @@
 </i18n>
 
 <style>
+    .col-05{width: 6.66%}
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
 
-  /* Arial Bold */
-  @font-face{
-    font-family: "Arial";
-    font-weight: 700;
-    font-style: normal;
-    src: url("~assets/arialbd.ttf");
-  }
-  
-  /* Arial Bold Italic */
-  @font-face{
-    font-family: "Arial";
-    font-weight: 700;
-    font-style: italic;
-    src: url("~assets/arialbi.ttf");
-  }
-  
-  /* Arial Black */
-  @font-face{
-    font-family: "Arial";
-    font-weight: 900;
-    font-style: normal;
-    src: url("~assets/ariblk.ttf");
-  }
-  
-  /* Arial Regular */
-  @font-face{
-    font-family: "Arial";
-    font-weight: 500;
-    font-style: normal;
-    src: url("~assets/arial.ttf");
-  }
-  
-  /* Calibri Regular */
-  @font-face{
-    font-family: "Calibri";
-    font-weight: 500;
-    font-style: normal;
-    src: url("~assets/calibri.ttf");
-  }
+    [class*="col-"] {
+        float: left;
+        padding: 15px;
+    }
+
+    .row::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+    h1 {
+        color:rgb(88, 124, 132);
+    }
+
+    h2 {
+        color: white;
+        font-size: 19px;
+        font-weight: normal;
+    }
+	
+	.invoice{
+		text-align: center;
+		font-size: 30px;
+	}
+	
+	.invoiceSub{
+		text-align: center;
+	}
+	
+	.list{
+		position: relative;
+		width: 100%;
+		border: 2px black solid;
+		margin: 10px;
+		padding: 50px;
+	}
+	
+	
+	.table1{
+		width: 90%;
+		border-collapse: collapse;
+	}
+	.table1 th{
+		border: 1px solid black;
+		padding: 10px;
+	}
+	.table1 td{
+		border: 1px solid black;
+		padding: 15px;
+		text-align: center;
+	}
+	
+	.table2{
+		width: 90%;
+		border-collapse: collapse;
+	}
+	.table2 th{
+		border: 1px solid black;
+		padding: 10px;
+	}
+	.table2 td{
+		border: 1px solid black;
+		padding: 15px;
+		text-align: center;
+	}
+	
+	.descriptionText{
+		text-align: left!important;
+	}
+	.totalText{
+		text-align: right!important;
+	}
+	
+	.NoBorder{
+		border: none!important;
+	}
+	.NoBorderText{
+		border: none!important;
+		text-align: right!important;
+	}
 
 </style>
