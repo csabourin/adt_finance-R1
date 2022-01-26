@@ -493,11 +493,11 @@
         display: table;
     }
 
-    h1 {
+    .invoiceh1 {
         color:rgb(88, 124, 132);
     }
 
-    h2 {
+    .invoiceh2 {
         color: white;
         font-size: 19px;
         font-weight: normal;
