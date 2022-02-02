@@ -24,6 +24,7 @@ export const getters = {
 export const actions = {
   setSuccess({commit}){
     SCORM.set('cmi.core.lesson_status', 'completed')
+    SCORM.set("cmi.core.score.raw", "100")
     SCORM.save()
   },
   setLMSObjectives({ commit, state }) {
