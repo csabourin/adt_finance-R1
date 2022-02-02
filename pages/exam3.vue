@@ -65,7 +65,7 @@
                 <template v-slot:title>
                   <span class="v-inv">Question </span>05
                 </template>
-                <checkboxQuiz exam :lock="quizLocked" :forceEmpty="isNull" :question="$t('Questions.q5')" qId="4" :refill="Refill('4')" @response="arraysMatch($event,[2,4],4)" />
+                <checkboxQuiz exam :lock="quizLocked" :forceEmpty="isNull" :question="$t('Questions.q5')" qId="4" :refill="Refill('4')" @response="arraysMatch($event,['2','4'],4)" />
               </b-tab>
               <b-tab :title-link-class="[{'filled':answerScore[5]}]">
                 <template v-slot:title>
@@ -107,7 +107,7 @@
         <div class="text-center">
           <b-button-group class="mt-2" :aria-label="$t('questionNav')">
             <b-button @click="[tabIndex--, focus()]" :disabled="tabIndex<=0">{{$t('previousPage')}}</b-button>
-            <b-button @click="[tabIndex++, focus()]" :disabled="tabIndex>=19">{{$t('nextPage')}}</b-button>
+            <b-button @click="[tabIndex++, focus()]" :disabled="tabIndex>=9">{{$t('nextPage')}}</b-button>
           </b-button-group>
         </div>
         <transition name="fade">
@@ -135,13 +135,13 @@
     </div>
 
     <!-- Debugging section -->
-    <div v-if="debugging">
+    <!--<div v-if="debugging">
       <p>{{allDone}}</p>
       <p>{{answerScore}}</p>
       <ul>
         <li v-for="index in answerScore">Answer {{Refill(index.toString())}} </li>
       </ul>
-    </div>
+    </div>-->
     <!-- End of Debugging section -->
     <b-modal id="Completed" size="lg" okOnly>
       <p class='pageTitle'>{{$t('testComplete')}}</p>
