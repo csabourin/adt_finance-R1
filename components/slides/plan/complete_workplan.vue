@@ -140,7 +140,7 @@
           "dirPriorities": "To manage the commercial domestic fisheries",
           "pA1": "Manage and administer the directorate",
           "psA1": "<ul><li>Supervise, monitor and train staff&nbsp;</li><li>Schedule work&nbsp;</li><li>Provide clerical support&nbsp;</li><li>Move office to new location </li></ul>",
-          "pD1": "<ul><li>Management of licencing activities</li><li>Reception covered from 9 to 5</li></ul>",
+          "pD1": "<ul><li>Management of licensing activities</li><li>Reception covered from 9 to 5</li></ul>",
           "pR1": "<ul><li>Staff turnover</li></ul>",
           "low": "<ul><li>Low</li></ul>",
           "high": "<ul><li>High</li></ul>",
