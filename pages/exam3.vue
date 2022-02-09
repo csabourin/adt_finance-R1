@@ -18,10 +18,10 @@
               <h3>Instructions</h3>
               <p>Pour certaines des questions de ce test, vous &ecirc;tes dans le r&ocirc;le d’un responsable de centre d’appels. Des scénarios basés sur cette situation vous seront proposés.&nbsp;</p>
               <p>Conformément aux exigences du Conseil du Trésor, il est obligatoire de réussir l’examen de ce cours avant de pouvoir exercer la délégation financi&egrave;re.</p>
-              <p>Le test comporte trois parties - une à la fin de chaque phase - planification, dépenses et rapports.&nbsp;</p>
-              <p>La note de passage est de 80%, par partie.&nbsp;</p>
+              <p>Le test comporte trois parties — une à la fin de chaque phase : planification, dépenses et rapports.</p>
+              <p>La note de passage est de 80 %, par partie.&nbsp;</p>
               <p>Chaque partie devrait vous prendre environ 10 à 15 minutes.&nbsp;</p>
-              <p>Vous pouvez accéder au matériel de cours pendant le test et vous pouvez le reprendre autant de fois que vous le désirez.</p>
+              <p>Vous pouvez accéder au matériel de cours pendant le test et vous pouvez reprendre le test autant de fois que vous le désirez.</p>
             </div>
           </b-alert>
           <!--<p v-if="AlertIsDismissed"><b-button @click="AlertIsDismissed=false">{{$t('ShowInstructions')}}</b-button></p>-->
@@ -501,7 +501,7 @@ export default {
       }
       },
       "q8": {
-      "text": "Near year-end, your planning unit requests that you report on results for the “Digitization of services ”. What information would you provide?",
+      "text": "Near year-end, your planning unit requests that you report on results for the “Digitization of services.” What information would you provide?",
       "options": {
       "1": "All (100%) of the postal mail received was answered within 1 day instead of 3 days.",
       "2": "The chatbot system resolved 30% of online support requests.",
@@ -618,7 +618,7 @@ export default {
           }
           },
           "q5": {
-          "text": "<div class='tableScrollLTL'><table class='qTable' style='font-weight: 400;'> <thead> <tr> <th id='1' scope='col'>&nbsp;</th> <th id='2' scope='col'> <p style='text-align: center;'>P6 Budget</p> </th> <th id='3' scope='col'> <p style='text-align: center;'>P6 Engagements</p> </th> <th id='4' scope='col'> <p style='text-align: center;'>P6 Dépenses réelles depuis le début de l’exercice</p> </th> <th id='5' scope='col'> <p style='text-align: center;'>P5 Prévisions annuelles</p> </th> <th id='6' scope='col'> <p style='text-align: center;'>P6 Prévisions annuelles</p> </th> <th id='7' scope='col'> <p style='text-align: center;'>Excédent / Déficit</p> </th> </tr> </thead> <tbody> <tr> <th id='8' scope='row' headers='1'> <p>Logiciel de robot conversationnel</p> </th> <td headers='2 8'> <p style='text-align: right;'>3&nbsp;000&nbsp;$</p> </td> <td headers='3 8'> <p style='text-align: right;'>1&nbsp;500&nbsp;$</p> </td> <td headers='4 8'> <p style='text-align: right;'>1&nbsp;500&nbsp;$</p> </td> <td headers='5 8'> <p style='text-align: right;'>3&nbsp;500&nbsp;$</p> </td> <td headers='6 8'>&nbsp;</td> <td headers='7 8'> <p style='text-align: right;'>0$</p> </td> </tr> <tr> <th id='9' scope='row' headers='1'> <p>Accueil</p> </th> <td headers='2 9'> <p style='text-align: right;'>15&nbsp;000&nbsp;$</p> </td> <td headers='3 9'> <p style='text-align: right;'>9&nbsp;500&nbsp;$</p> </td> <td headers='4 9'> <p style='text-align: right;'>8&nbsp;000&nbsp;$</p> </td> <td headers='5 9'> <p style='text-align: right;'>15&nbsp;000&nbsp;$</p> </td> <td headers='6 9'> <p>&nbsp;</p> </td> <td headers='7 9'> <p style='text-align: right;'>0$</p> </td> </tr> </tbody> </table></div> <p>&nbsp;</p> En examinant le rapport sur la situation financière fourni, pour lesquels des éléments suivants auriez-vous besoin d’obtenir plus de renseignements?",
+          "text": "<div class='tableScrollLTL'><table class='qTable' style='font-weight: 400;'> <thead> <tr> <th id='1' scope='col'>&nbsp;</th> <th id='2' scope='col'> <p style='text-align: center;'>P6 Budget</p> </th> <th id='3' scope='col'> <p style='text-align: center;'>P6 Engagements</p> </th> <th id='4' scope='col'> <p style='text-align: center;'>P6<br> Dépenses réelles depuis le début de l’exercice</p> </th> <th id='5' scope='col'> <p style='text-align: center;'>P5 Prévisions annuelles</p> </th> <th id='6' scope='col'> <p style='text-align: center;'>P6 Prévisions annuelles</p> </th> <th id='7' scope='col'> <p style='text-align: center;'>Excédent / Déficit</p> </th> </tr> </thead> <tbody> <tr> <th id='8' scope='row' headers='1'> <p>Logiciel de robot conversationnel</p> </th> <td headers='2 8'> <p style='text-align: right;'>3&nbsp;000&nbsp;$</p> </td> <td headers='3 8'> <p style='text-align: right;'>1&nbsp;500&nbsp;$</p> </td> <td headers='4 8'> <p style='text-align: right;'>1&nbsp;500&nbsp;$</p> </td> <td headers='5 8'> <p style='text-align: right;'>3&nbsp;500&nbsp;$</p> </td> <td headers='6 8'>&nbsp;</td> <td headers='7 8'> <p style='text-align: right;'>0$</p> </td> </tr> <tr> <th id='9' scope='row' headers='1'> <p>Accueil</p> </th> <td headers='2 9'> <p style='text-align: right;'>15&nbsp;000&nbsp;$</p> </td> <td headers='3 9'> <p style='text-align: right;'>9&nbsp;500&nbsp;$</p> </td> <td headers='4 9'> <p style='text-align: right;'>8&nbsp;000&nbsp;$</p> </td> <td headers='5 9'> <p style='text-align: right;'>15&nbsp;000&nbsp;$</p> </td> <td headers='6 9'> <p>&nbsp;</p> </td> <td headers='7 9'> <p style='text-align: right;'>0$</p> </td> </tr> </tbody> </table></div> <p>&nbsp;</p> En examinant le rapport sur la situation financière fourni, pour lesquels des éléments suivants auriez-vous besoin d’obtenir plus de renseignements?",
           "options": {
           "1": "La somme des engagements du logiciel de robot conversationnel P6 et des dépenses réelles depuis le début de l’exercice est égale au budget",
           "2": "La somme des engagements de P6 en matière d’accueil et des dépenses réelles depuis le début de l’exercice dépasse le budget",
