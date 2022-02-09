@@ -150,14 +150,14 @@
           "pR1_2": "<ul><li>manager</li></ul>",
           "pA2": "Issue commercial fishing licences",
           "pSA2": "<ul><li>Review applicant requests</li><li>Check reliability</li><li>Issue licences</li><li>Conduct inspections</li></ul>",
-          "pD2_1": "Issue license within 30 days of request",
+          "pD2_1": "Issue licence within 30 days of request",
           "pD2_2": "Issue 500 licences per year",
           "pR2": "<ul><li>Overfishing</li></ul>",
           "pM2": "<li>Protect habitat</li><li>Place catching limits</li><li>Implement fishing seasons</li>",
           "pRes2": "<li>1 officer</li><li>2 analysts</li><li>1 junior officer</li>",
           "pA3": "Renew commercial fishing licences",
-          "pSA3": "<li>Review applicant renewal requests</li><li>Issue renewal license</li>",
-          "pD3": "<li>Issue license renewal within 30 days of request</li><li>Issue 300 license renewals per year </li>",
+          "pSA3": "<li>Review applicant renewal requests</li><li>Issue renewal licence</li>",
+          "pD3": "<li>Issue licence renewal within 30 days of request</li><li>Issue 300 licence renewals per year </li>",
           "pRes3": "<li>1 officer</li><li>1 junior analyst</li>",
           "q1":
           {
