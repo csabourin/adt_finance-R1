@@ -103,7 +103,7 @@
                         <hr>
                         <h2>4. Quiz</h2>
                         <p>Maintenant que vous savez comment engager et autoriser des dépenses, exercer des pouvoirs financiers, et surveiller et contrôler les finances, voyons ce dont vous vous souvenez en répondant à ce petit quiz!</p>
-                        <p>[Onscreen text showing the Take the Quiz! instruction for the Quiz activity.]</p>
+                        <p>[Texte à l’écran indiquant l’instruction Répondez au quiz pour l’activité Quiz.]</p>
                         <hr>
                         <h2>5. Section complétée</h2>
                         <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>

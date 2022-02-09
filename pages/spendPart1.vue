@@ -20,7 +20,7 @@
                     <b-card-text>
                       <span v-if="$i18n.locale=='en'">
 
-                        <h2>1. Check your Budget</h2>
+                        <h2>1. Check Your Budget</h2>
                         <p>Now that you have your approved budget and are beginning to deliver on your work plan, let’s start spending money! </p>
                         <p>But before initiating and committing any expenditures, you must verify that there are sufficient funds in your budget.</p>
                         <p>This means you need to review what has been spent or committed to date, along with any other planned expenditures.  </p>

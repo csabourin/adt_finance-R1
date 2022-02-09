@@ -23,12 +23,16 @@
                         <p>The Government of Canada regularly publishes reports to keep Canadians informed on its spending and on the results it achieves using public funds.</p>
                         <p>As a manager, it’s unlikely that you will be required to write these reports yourself. However, the work you do may be included in these reports. For example, you may be asked to report on how well your programs achieved their intended results. As such, you must continuously track your performance and results and compare them with what was planned.</p>
                         <p>Let’s do a quick activity to get more familiar with the terminology!</p>
+                        <p>[Onscreen text showing the Try It! instruction for the External Government Reports activity.]</p>
+
                         <hr>
                         <h2>2. Identify Results</h2>
                         <p>Fiscal year-end is when reporting closes the loop on work plans within the organization, and when we present, globally, the results we achieved in the Departmental Results Report. As the fiscal year is a cycle, last year’s results will inform planning for the next fiscal year.</p>
                         <p>You need to demonstrate how your performance compares with what you set out in your work plan, and explain any variances. In most departments, your Planning or Finance section will reach out to you to request this information.</p>
                         <p>Demonstrating your performance means showing whether you met the indicators as set out in the PIPs, the performance information profiles. These identify more concretely each program’s core responsibility and results to be achieved. Some departments review performance information profiles throughout the year to see if the targets are on track or at risk of not being achieved.</p>
                         <p>In the next activity, you will have the opportunity to practise reporting on whether your targets were met.</p>
+                        <p>[Onscreen text showing the Try It! instruction for the Identify Results activity.]</p>
+
                         <hr>
                         <h2>3. In Real Life</h2>
                         <p>Let’s take what you have learned into real life. Look up your organization’s performance information profiles and its external reports, such as the Departmental Results Report.</p>
@@ -40,20 +44,29 @@
                           <li>What is my role? </li>
                           <li>And what information will I provide to feed into external reports?</li>
                         </ul>
+                        <p>[An In Real Life pop-up text box appears.]</p>
+                        
                         <hr>
-                        <h2>4. Section Completed</h2>
+                        <h2>4. Quiz</h2>
+                        <p>Let’s try this quiz to see what you remember from the Report section. </p>
+                        <p>[Onscreen text showing the Take the Quiz! instruction for the Quiz activity.]</p>
+                        <hr>
+                        <h2>5. Section Completed</h2>
+                        <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>
                       <span v-if="$i18n.locale=='fr'">
                         <h2>1. Rapports externes du gouvernement</h2>
                         <p>Le gouvernement du Canada publie régulièrement des rapports pour tenir les Canadiens au courant de ses dépenses et des résultats qu’il a obtenus grâce aux fonds publics. </p>
                         <p>En tant que gestionnaire, il est peu probable que vous ayez à rédiger ces rapports vous-même. Cependant, le travail que vous faites peut être inclus dans ces rapports. Par exemple, on vous demandera peut-être d'indiquer dans quelle mesure vos programmes ont atteint les résultats visés à l’origine. Pour ce faire, vous devez effectuer un suivi continu de votre rendement et de vos résultats par rapport à ce qui avait été planifié.</p>
                         <p>Voici une petite activité pour vous familiariser avec la terminologie nécessaire!</p>
+                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Rapports externes du gouvernement.]</p>
                         <hr>
                         <h2>2. Démontrer les résultats</h2>
                         <p>La fin de l'exercice financier est le moment où la production de rapports ferme la boucle des plans de travail de l’organisation et permet de présenter, de manière globale, les résultats de l’année dans le Rapport sur les résultats ministériels. Comme l’exercice financier est un cycle, les résultats de l’an dernier permettront la planification de l’année qui vient.</p>
                         <p>Vous devrez faire état de votre rendement par rapport à ce qui avait été prévu dans votre plan de travail et justifier tout écart. Dans la plupart des ministères, la section de la Planification ou des Finances communiquera avec vous pour vous demander ces renseignements.</p>
                         <p>Démontrer votre rendement signifie démontrer si vous avez atteint les indicateurs établis dans le PIR -  les profils de l’information sur le rendement. Celles-ci déterminent de façon plus concrète la responsabilité fondamentale de chaque programme et les résultats à atteindre. Certains ministères examinent les profils de l'information sur le rendement tout au long de l'année pour voir si les chiffres cibles sont en bonne voie d’être atteints ou s’ils risquent de ne pas l’être</p>
                         <p>L’activité suivante vous permettra de vous exercer à rapporter si les objectifs ont été atteints.</p>
+                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Démontrer les résultats.]</p>
                         <hr>
                         <h2>3. Dans la vraie vie</h2>
                         <p>Appliquons ce que vous avez appris dans la vraie vie. Cherchez les profils de l'information sur le rendement de votre organisation et ses rapports externes, comme le Rapport sur les résultats ministériels.</p>
@@ -65,8 +78,14 @@
                           <li>Quel est mon rôle?</li>
                           <li>Et quelles informations vais-je fournir pour alimenter les rapports externes?</li>
                         </ul>
+                        <p>[Une fenêtre contextuelle Dans la vraie vie apparaît.]</p>
                         <hr>
-                        <h2>4. Section complétée</h2>                        
+                        <h2>4. Quiz</h2>
+                        <p>Essayez ce quiz pour voir ce dont vous vous souvenez dans la section Rapport!</p>
+                        <p>[Texte à l’écran indiquant l’instruction Répondez au quiz pour l’activité Quiz.]</p>
+                        <hr>
+                        <h2>5. Section complétée</h2>
+                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>                       
                       </span>
                     </b-card-text>
                   </b-card-body>

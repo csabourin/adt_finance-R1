@@ -18,10 +18,10 @@
               <h3>Instructions</h3>
               <p>Pour certaines des questions de ce test, vous &ecirc;tes dans le r&ocirc;le d’un responsable de centre d’appels. Des scénarios basés sur cette situation vous seront proposés.&nbsp;</p>
               <p>Conformément aux exigences du Conseil du Trésor, il est obligatoire de réussir l’examen de ce cours avant de pouvoir exercer la délégation financi&egrave;re.</p>
-              <p>Le test comporte trois parties - une à la fin de chaque phase: planification, dépenses et rapports.&nbsp;</p>
-              <p>La note de passage est de 80%, par partie.&nbsp;</p>
+              <p>Le test comporte trois parties — une à la fin de chaque phase : planification, dépenses et rapports.&nbsp;</p>
+              <p>La note de passage est de 80 %, par partie. </p>
               <p>Chaque partie devrait vous prendre environ 15 à 20 minutes.&nbsp;</p>
-              <p>Vous pouvez accéder au matériel de cours pendant le test et vous pouvez le reprendre autant de fois que vous le désirez.</p>
+              <p>Vous pouvez accéder au matériel de cours pendant le test et vous pouvez reprendre le test autant de fois que vous le désirez.</p>
             </div>
           </b-alert>
           <!--<p v-if="AlertIsDismissed"><b-button @click="AlertIsDismissed=false">{{$t('ShowInstructions')}}</b-button></p>-->
@@ -619,7 +619,7 @@ export default {
         }
       },
       "q12": {
-        "text": "You receive an invoice for an employee's annual professional membership due in September. What do you do?",
+        "text": "You receive an invoice for an employee's annual professional membership, due in September. What do you do?",
         "options": {
           "1": "Pay the invoice for the full year now",
           "2": "Pay what is due between now and the end of the fiscal year ",
@@ -677,7 +677,7 @@ export default {
         }
       },
       "q16": {
-        "text": "An analysis of variance can help in what ways?",
+        "text": "In which of the following ways can an analysis of variance help?",
         "options": {
           "1": "It aids in the early reallocation of resources",
           "2": "It contributes to reducing the amounts lapsed at year-end",
@@ -737,7 +737,7 @@ export default {
       "q20": {
         "text": "It’s April. As a responsibility centre manager, you must have set up a Payable At Year-End (PAYE) to charge your previous year’s budget with the costs associated with which of the following transactions?",
         "options": {
-          "1": "All outstanding commitments currently in the system for the previous fiscal year that just ended March 31, under your cost center.",
+          "1": "All outstanding commitments currently in the system for the fiscal year that just ended March 31, under your cost center.",
           "2": "The annual forecast expenditures that were not spent in the fiscal year that just ended March 31.",
           "3": "The estimated costs associated with goods and services that were delivered on or prior to March 31. ",
           "4": "All costs incurred during the first two weeks of the new fiscal year."
@@ -762,7 +762,7 @@ export default {
       "q1": {
         "text": "Vous avez trouvé un système de robot conversationnel qui répond à vos besoins. Une licence annuelle, plus les frais d’installation et de configuration, coûte 5&nbsp;650&nbsp;$, taxes incluses. Quelle est la première étape de l’exercice de votre pouvoir de dépenser?",
         "options": {
-          "1": "Communiquer avec le fournisseur et commandez le système à l’aide de votre carte d’achat",
+          "1": "Communiquer avec le fournisseur et commander le système à l’aide de votre carte d’achat",
           "2": "Demander à votre équipe d’effectuer une recherche approfondie sur le produit ",
           "3": "Vous assurer d’avoir suffisamment de fonds dans votre budget pour acheter le système",
           "4": "Commander le système à l’aide d’une commande d’achat"
@@ -808,7 +808,7 @@ export default {
         "text": "Laquelle de ces dépenses n’exige <span class='bolder' style='text-transform:uppercase;text-decoration:underline;'>pas</span> qu’un gestionnaire de centre de responsabilité exerce le pouvoir délégué d’engager des dépenses?",
         "options": {
           "1": "Demande d’activité d’accueil",
-          "2": "Frais d’inscription à la conférence",
+          "2": "Frais d’inscription à une conférence",
           "3": "Petites dépenses telles qu’un achat de 20 $ de matériel d’artisanat",
           "4": "Aucune de ces réponses"
         },
@@ -825,7 +825,7 @@ export default {
           "1": "Autoriser l’engagement pour les deux chaises",
           "2": "Autoriser l’achat des deux chaises à l’aide de la carte d’achat de votre administrateur",
           "3": "Demander à un autre gestionnaire d’acheter les chaises avec sa carte d’achat",
-          "4": "Autoriser la chaise de votre adjointe et demandez à votre superviseur d’autoriser votre chaise"
+          "4": "Autoriser la chaise de votre adjointe et demander à votre superviseur d’autoriser votre chaise"
         },
         "feedback": {
           "1": "",
@@ -897,7 +897,7 @@ export default {
       "q10": {
         "text": "M. Wong travaille comme gestionnaire d’un petit ministère et a reçu une délégation de pouvoirs en vertu des articles 32 et 34. Quel instrument formalise les pouvoirs délégués à M. Wong?",
         "options": {
-          "1": "La Loi sur la gestion des finances publiques",
+          "1": "La <em>Loi sur la gestion des finances publiques</em>",
           "2": "Les politiques du Conseil du Trésor",
           "3": "L'organigramme de délégation de l'organisation",
           "4": "Sa carte de délégation signée"

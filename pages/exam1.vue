@@ -663,7 +663,7 @@ export default {
         }
       },
       "q16": {
-        "text": "You have consistently budgeted $8,000 year after year for call centre agent training. But last year, you spent $5,000 on training. This year, you’re forecasting to spend $10,500. What would you budget for next year?",
+        "text": "You have budgeted $8,000 year after year for call centre agent training. But last year, you spent $5,000 on training. This year, you’re forecasting to spend $10,500. What would you budget for next year?",
         "options": {
           "1": "The amount you forecast to spend this year ($10,500)",
           "2": "The amount you spent last year ($5,000) with a note of your forecast ($10,500)",
@@ -806,7 +806,7 @@ export default {
         }
       },
       "q5": {
-        "text": "Quelle partie du plan de travail devrait être mise à jour avec l'activité &laquo;Établir des bassins de dotation collective&raquo; pour tenir compte des risques liés aux centres d’appels, comme le roulement élevé du personnel et les défis en dotation?",
+        "text": "Quelle partie du plan de travail devrait être mise à jour avec l'activité &laquo; Établir des bassins de dotation collective &raquo; pour tenir compte des risques liés aux centres d’appels, comme le roulement élevé du personnel et les défis en dotation?",
         "options": {
           "1": "Probabilité",
           "2": "Impact",
@@ -866,7 +866,7 @@ export default {
         }
       },
       "q9": {
-        "text": "Avec n’importe quelle technologie en ligne, comme le système de robot conversationnel, il y a le risque d’une atteinte à la vie privée.  À quel titre l’activité &laquo; Pare-feu sécurisé et chiffrement &raquo; pourrait-elle être ajoutée au plan de travail?",
+        "text": "Avec n’importe quelle technologie en ligne, comme le système de robot conversationnel, il y a le risque d’une atteinte à la vie privée.  À quel titre l’activité &laquo; Pare-feu sécurisé et chiffrement &raquo; pourrait-elle être ajoutée au plan de travail?",
         "options": {
           "1": "Ressource",
           "2": "Atténuation",
@@ -881,7 +881,7 @@ export default {
         }
       },
       "q10": {
-        "text": "Lequel des éléments suivants constituerait un risque pour la nouvelle activité &laquo;Offrir un soutien aux clients par des moyens automatisés&raquo;?",
+        "text": "Lequel des éléments suivants constituerait un risque pour la nouvelle activité &laquo; Offrir un soutien aux clients par des moyens automatisés &raquo;?",
         "options": {
           "1": "Roulement de personnel",
           "2": "Ne répond pas à la norme de rendement",
@@ -971,7 +971,7 @@ export default {
         }
       },
       "q16": {
-        "text": "Vous avez prévu un budget de 8&nbsp;000&nbsp;$ année après année pour la formation des agents de centre d’appels. L’année dernière, vous avez dépensé 5&nbsp;000&nbsp;$ en formation. Cette année, vous prévoyez dépenser 10&nbsp;500&nbsp;$. Quel budget prévoyez-vous pour l’année prochaine?",
+        "text": "Vous avez prévu un budget de 8 000 $ année après année pour la formation des agents des centres d’appel. L’année dernière, vous avez dépensé 5 000 $ pour la formation. Cette année, vous prévoyez dépenser 10 500 $. Quel budget prévoyez-vous pour l’année prochaine?",
         "options": {
           "1": "Le montant que vous prévoyez dépenser cette année (10&nbsp;500&nbsp;$)",
           "2": "Le montant que vous avez dépensé l’année dernière (5&nbsp;000&nbsp;$) avec une note de votre prévision (10&nbsp;500&nbsp;$)",

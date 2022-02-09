@@ -316,7 +316,7 @@
   "text": "Les indicateurs de rendement du programme sont décrits dans le :",
   "options": {
   "1": "Rapport sur la situation financière ",
-  "2": "Profils d’information sur le rendement ",
+  "2": "Profils de l'information sur le rendement",
   "3": "Rapports de vérification interne "
   },
   "feedback": {

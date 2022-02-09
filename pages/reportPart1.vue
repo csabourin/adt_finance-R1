@@ -24,6 +24,7 @@
                         <p>As a manager, you are expected to provide regular updates and forecasts for your responsibility centre throughout the year. You are also required to provide explanations on variances in order to provide accurate information and make sure the financial system is updated.</p>
                         <p>But don’t worry, you won’t be doing this alone! This is usually led by your organization’s Finance section at specific times in the year. They will provide support and send out instructions to provide templates, guidelines, links, due dates, etc. Work with your administrative staff to complete these tasks. </p>
                         <p>Let’s see what you already know about FSRs by doing a quick match-up game!</p>
+                        <p>[Onscreen text showing the Try It! instruction for What is a Financial Situation Report? activity.]</p>
                         <hr>
                         <h2>2. Key Periods for Financial Situation Reports</h2>
                         <p>The fiscal year starts on April 1 and is divided, by month, into periods. P1 is April, P2 is May, P3 is June, and so forth.</p>
@@ -31,6 +32,7 @@
                         <p>Because P6 (September) is midway through the year, it offers senior management a good picture of the organization's finances and allows them to make decisions that will influence year-end results. For example, they could decide to reallocate funds to different priorities.</p>
                         <p>P9 (December) is often the last opportunity to influence year-end results. Departments may ask managers to provide a forecast in P9 that is within a certain percentage of the year-end amount. The Treasury Board of Canada Secretariat uses data from the P9 report to inform the Department of Finance Canada of government-wide planned spending so that they have a holistic view.</p>
                         <p>Year-end data at P12 is used by your department to report their overall financial results. It also forms part of the Departmental Results Report, or DRR.</p>
+                        <p>[A Key Periods for Financial Situation Reports activity pop-up text box appears.]</p>
                         <hr>
                         <h2>3. Financial Situation Report Activities</h2>
                         <p>The most important information you will need to provide in the FSR is your forecast. In other words, you’ll need to estimate the amount of money that you are going to spend to complete your activities before the end of the fiscal year.</p>
@@ -45,6 +47,7 @@
                           <li>Reconcile your acquisition card statement against commitments.</li>
                         </ul>
                         <p>Now, answer the following questions to the best of your abilities and let’s practise preparing a financial situation report! </p>
+                        <p>[Onscreen text showing the Try It! instruction for the Financial Situation Report Activities activity.]</p>
                         <hr>
                         <h2>4. Updating the Annual Forecast</h2>
                         <p>Another important task when completing your FSR is to review your salary and O&M forecasts. This will allow you to identify</p>
@@ -54,8 +57,10 @@
                         </ul>
                         <p>You will have to explain the reasons for any variances and provide mitigation strategies for risks.</p>
                         <p>Let’s practise updating the Annual Forecast!</p>
+                        <p>[Onscreen text showing the Try It! instruction for the Updating the Annual Forecast activity.]</p>
                         <hr>
                         <h2>5. Section Completed</h2>
+                        <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>
                       <span v-if="$i18n.locale=='fr'">
                         <h2>1. Qu'est-ce qu'un rapport sur la situation financière?</h2>
@@ -63,6 +68,7 @@
                         <p>En tant que gestionnaire, vous êtes tenu de fournir régulièrement des mises à jour et des prévisions de votre centre de responsabilité tout au long de l’année. Vous devez également fournir des explications sur les écarts afin de fournir des informations précises et vous assurer que le système financier est à jour.</p>
                         <p>Ne vous inquiétez pas, vous ne ferez pas cela tout seul! Généralement, la section des finances de votre organisation dirigera l’exercice à des moments précis de l’année. Elle vous offrira du soutien et vous enverra des instructions pour fournir des gabarits, des lignes directrices, des liens, des dates d’échéance, etc. Travaillez avec votre personnel administratif pour accomplir ces tâches.</p>
                         <p>Voyons ce que vous savez déjà sur les RSF en faisant un petit jeu d’association! </p>
+                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Qu’est-ce qu’un rapport sur la situation financière?]</p>
                         <hr>
                         <h2>2. Périodes clés pour les rapports sur la situation financière</h2>
                         <p>L'exercice financier commence le 1er avril et est divisé, par mois, en périodes. P1 est avril, P2 est mai, P3 est juin, et ainsi de suite.</p>
@@ -70,6 +76,7 @@
                         <p>Parce que P6 (septembre) est au milieu de l'année, il offre à la haute direction une bonne vue d’ensemble de la situation financière de l'organisation et lui permet de prendre des décisions qui influenceront les résultats de fin d'année. Par exemple, ils pourraient décider de réaffecter des fonds à différentes priorités.</p>
                         <p>P9 (décembre) est souvent la dernière occasion d'influencer les résultats de fin d'année. Les ministères peuvent demander aux gestionnaires de fournir une prévision en P9 qui se situe dans un certain pourcentage du montant de fin d'année. Le Secrétariat du Conseil du Trésor du Canada utilise les données du rapport P9 pour informer le ministère des Finances du Canada des dépenses prévues à l'échelle du gouvernement afin qu'il puisse avoir une vision globale.</p>
                         <p>Les données de fin d'exercice, à P12, sont utilisées par votre ministère pour présenter ses résultats financiers globaux. Il fait également partie du Rapport sur les résultats ministériels, ou RRM.</p>
+                        <p>[Une fenêtre contextuelle Activité : Périodes clés pour les rapports sur la situation financière apparaît.]</p>
                         <hr>
                         <h2>3. Activités pour le rapport sur la situation financière</h2>
                         <p>L'information la plus importante que vous devrez fournir dans le RSF est votre prévision budgétaire. En d'autres termes, vous devrez estimer le montant d'argent que vous allez dépenser pour terminer vos activités avant la fin de l'exercice financier.</p>
@@ -84,17 +91,20 @@
                           <li>Et réconcilier votre relevé de carte d'achat avec vos engagements.</li>
                         </ul>
                         <p>Maintenant, répondez aux questions suivantes au mieux de votre capacité afin de vous exercer à préparer un rapport sur la situation financière!</p>
+                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Activités pour le rapport sur la situation financière.]</p>
                         <hr>
                         <h2>4. Mise à jour des prévisions annuelles</h2>
-                        <p>Une autre tâche importante à faire lorsque vous remplissez votre FSRRSF est d'examiner votre salaire et vos prévisions de F et E. Cela vous permettra d’identifier :</p>
+                        <p>Une autre tâche importante à faire lorsque vous remplissez votre RSF est d'examiner votre salaire et vos prévisions de F et E. Cela vous permettra d’identifier :</p>
                         <ul>
                           <li>les insuffisances et les pressions qui peuvent nécessiter l'approbation de ressources supplémentaires;</li>
                           <li>ou encore des excédents pour indiquer les reports potentiels de fonds.</li>
                         </ul>
                         <p>Vous devrez expliquer les raisons de tout écart et fournir des stratégies d'atténuation des risques.</p>
                         <p>Pratiquons maintenant la mise à jour des prévisions annuelles!</p>
+                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Mise à jour des prévisions annuelles.]</p>
                         <hr>
                         <h2>5. Section complétée</h2>
+                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
                       </span>
                     </b-card-text>
                   </b-card-body>
