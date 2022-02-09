@@ -42,7 +42,7 @@ export default {
   CreateBudget: "Créer un budget",
   InitiateAuthorizeSpending: "Engager et autoriser des dépenses",
   ExerciseFinancialAuthority: "Exercer l'autorité financière",
-  MonitorControlFinances: "Surveiller et contrôler les finances",
+  MonitorControlFinances: "Surveillance et contrôle des finances",
   ConductPeriodicVarianceReporting: "Préparer le rapport sur la situation financière",
   ContributeReporting: "Contribuer à l’établissement de rapports externes",
   Test: "Test",

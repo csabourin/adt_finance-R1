@@ -25,16 +25,16 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td headers="1">
+                    <td headers="1" class="dollarAlign">
                       <p>44&nbsp;900&nbsp;$</p>
                     </td>
-                    <td headers="2">
+                    <td headers="2" class="dollarAlign">
                       <p>15&nbsp;053&nbsp;$</p>
                     </td>
-                    <td headers="3">
+                    <td headers="3" class="dollarAlign">
                       <p>17&nbsp;800&nbsp;$</p>
                     </td>
-                    <td headers="4">
+                    <td headers="4" class="dollarAlign">
                       <p>44&nbsp;100&nbsp;$</p>
                     </td>
                   </tr>
@@ -61,16 +61,16 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td headers="1">
+                    <td headers="1" class="dollarAlign">
                       <p>$44,900</p>
                     </td>
-                    <td headers="2">
+                    <td headers="2" class="dollarAlign">
                       <p>$15,053</p>
                     </td>
-                    <td headers="3">
+                    <td headers="3" class="dollarAlign">
                       <p>$17,800</p>
                     </td>
-                    <td headers="4">
+                    <td headers="4" class="dollarAlign">
                       <p>$44,100</p>
                     </td>
                   </tr>
@@ -258,15 +258,15 @@ export default {
   "4": "Immediately decrease the salary forecast for six months"
   },
   "feedback": {
-  "1": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
-  "2": "<span class='v-right' /> <strong>Correct!</strong>",
-  "3": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
-  "4": "<span class='v-wrong' /> <strong>Incorrect</strong>."
+  "1": "<span class='v-wrong' /> <strong>Incorrect</strong>.<p>This is salary, not operating and maintenance. You would not want to decrease your salary for six months as you have yet to receive the medical note. You would want to update the system immediately so that you have an accurate salary forecast at all times.</p>",
+  "2": "<span class='v-right' /> <strong>Correct!</strong><p>This is salary, not operating and maintenance. You would not want to decrease your salary for six months as you have yet to receive the medical note. You would want to update the system immediately so that you have an accurate salary forecast at all times. The 6 months is just an assumption.</p>",
+  "3": "<span class='v-wrong' /> <strong>Incorrect</strong>.<p>This is salary, not operating and maintenance. You would not want to decrease your salary for six months as you have yet to receive the medical note. You would want to update the system immediately so that you have an accurate salary forecast at all times.</p>",
+  "4": "<span class='v-wrong' /> <strong>Incorrect</strong>.<p>This is salary, not operating and maintenance. You would not want to decrease your salary for six months as you have yet to receive the medical note. You would want to update the system immediately so that you have an accurate salary forecast at all times.</p>"
   },
-  "conclusion": "This is salary, not operating and maintenance. You would not want to decrease your salary for six months as you have yet to receive the medical note. You would want to update the system immediately so that you have an accurate salary forecast at all times. The 6 month is just an assumption."
+  "conclusion": ""
   },
   "q9": {
-  "text": "You have received the goods on March 31. You know the supplier will not invoice until early May. What do you do?",
+  "text": "You received the goods on March 31. You know the supplier will not send the invoice until early May. What do you do?",
   "options": {
   "1": "Create a Payable at Year-End.",
   "2": "Create a Receivable at Year-End.",
@@ -279,7 +279,7 @@ export default {
   "3": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
   "4": "<span class='v-wrong' /> <strong>Incorrect</strong>."
   },
-  "conclusion": "A Receivable at Year-End is created for a receivable. Only the supplier can provide you with the invoice. You would create a Payable at Year-End because you received the goods on March 31 and you will receive the invoice after Finance closes their year-end.  "
+  "conclusion": "You would create a Payable at Year-End because you received the goods on March 31 and you will receive the invoice after Finance closes their year-end."
   }
   },
   "fr": {
@@ -367,7 +367,7 @@ export default {
   "3": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
   "4": "<span class='v-wrong' /> <strong>Incorrect</strong>."
   },
-  "conclusion": "Puisqu’il s’agit d’une rénovation importantes et que vous prolongez la durée de vie de l’immeuble, c’est un actif."
+  "conclusion": "Puisqu’il s’agit d’une rénovation importante et que vous prolongez la durée de vie de l’immeuble, c’est un actif."
   },
   "q7": {
   "text": "Vous remarquez qu’une facture est supérieure de 10 $ à ce qu’elle devrait être et qu’elle est exigible aujourd’hui. Que faites-vous?",
@@ -392,12 +392,12 @@ export default {
   "4": "Diminuer immédiatement les prévisions salariales pour 6 mois."
   },
   "feedback": {
-  "1": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
-  "2": "<span class='v-right' /> <strong>Correct!</strong>",
-  "3": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
-  "4": "<span class='v-wrong' /> <strong>Incorrect</strong>."
+  "1": "<span class='v-wrong' /> <strong>Incorrect</strong>. <p>C'est un salaire, pas du fonctionnement et d’entretien. Vous ne voudriez pas diminuer votre salaire pendant 6 mois car vous n'avez pas encore reçu la note médicale. Vous devriez mettre à jour le système immédiatement afin d'avoir une prévision salariale précise en tout temps.</p>",
+  "2": "<span class='v-right' /> <strong>Correct!</strong> <p>C'est un salaire, pas du fonctionnement et d’entretien. Vous ne voudriez pas diminuer votre salaire pendant 6 mois, car vous n'avez pas encore reçu la note médicale. Vous devriez mettre à jour le système immédiatement afin d'avoir une prévision salariale précise à tout moment. Le délai de 6 mois n’est qu’une hypothèse.</p>",
+  "3": "<span class='v-wrong' /> <strong>Incorrect</strong>. <p>C'est un salaire, pas du fonctionnement et d’entretien. Vous ne voudriez pas diminuer votre salaire pendant 6 mois car vous n'avez pas encore reçu la note médicale. Vous devriez mettre à jour le système immédiatement afin d'avoir une prévision salariale précise en tout temps.</p>",
+  "4": "<span class='v-wrong' /> <strong>Incorrect</strong>. <p>C'est un salaire, pas du fonctionnement et d’entretien. Vous ne voudriez pas diminuer votre salaire pendant 6 mois car vous n'avez pas encore reçu la note médicale. Vous devriez mettre à jour le système immédiatement afin d'avoir une prévision salariale précise en tout temps.</p>"
   },
-  "conclusion": "C'est un salaire, pas du fonctionnement et d’entretien. Vous ne voudriez pas diminuer votre salaire pendant 6 mois, car vous n'avez pas encore reçu la note médicale. Vous devriez mettre à jour le système immédiatement afin d'avoir une prévision salariale précise à tout moment. Le délai de 6 moins n’est qu’une hypothèse."
+  "conclusion": ""
   },
   "q9": {
   "text": "Vous avez reçu les marchandises le 31 mars. Vous savez que le fournisseur ne facturera pas avant le début du mois de mai. Que faites-vous?",
@@ -427,6 +427,10 @@ export default {
 .qTable th {
   background-color: #7d677d;
   color: #fff;
+}
+
+.dollarAlign{
+  text-align: right;
 }
 
 </style>

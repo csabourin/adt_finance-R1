@@ -44,9 +44,10 @@
 
                         <h2>1. Certification Authority</h2>
                         <p>In general, no invoice should be paid until all goods are received or services performed.</p>
-                        <p>Exercising your certification authority under section 34 of the Financial Administration Act essentially means that you pause to attest that the goods and services you received match the invoice.</p>
+                        <p>Exercising your certification authority under section 34 of the <em>Financial Administration Act</em> essentially means that you pause to attest that the goods and services you received match the invoice.</p>
                         <p>While other people on your team may be able to make that assessment, it is you, as the delegated manager, who bears the weight of the accountability. As such, you need to make sure that the invoice is accurate—and that the financial coding is also accurate.</p>
                         <p>Of course, you can only do this if you have the proper authority to make that assessment. So be sure to check that too!</p>
+                        <p>[A Certification Authority activity pop-up text box appears.]</p>
 
                         <hr>
 
@@ -57,10 +58,11 @@
                           <li>Quantities – confirm that the items claimed line up with the items ordered. </li>
                           <li>Taxes – validate that the amount for taxes is accurate and has appropriate GST or PST numbers.</li>
                           <li>Supplier or payee – make sure that their information is  accurate and that the supplier or payee is eligible for payment.</li>
-                          <li>And status – verify that the invoice has not already been paid</li>
+                          <li>And status – verify that the invoice has not already been paid.</li>
                         </ul>
                         <p>You may need to go back to the supplier to correct the invoice before you can sign section 34.</p>
                         <p>Invoices must be paid within 30 days from the time the department receives the invoice to avoid interest charges.</p>
+                        <p>[An Accuracy of Invoice activity pop-up text box appears.]</p>
 
                         <hr>
 
@@ -69,12 +71,14 @@
                         <p>The approved invoice is then sent to the Finance unit, who will pay the invoice pursuant to section 33. </p>
                         <p>Keep in mind:</p>
                         <ul>
-                          <li>you are not allowed to authorize sections 33 and 34 for the same transaction or invoice; a financial officer will perform section 33. </li>
+                          <li>You are not allowed to authorize sections 33 and 34 for the same transaction or invoice; a financial officer will perform section 33. </li>
                           <li>You are not allowed to authorize section 41 for a contract and section 34 related to the same contract; a procurement officer will perform section 41. </li>
                           <li>You are not allowed to authorize any transaction for which you may be perceived as having a personal benefit.</li>
                         </ul>
+                        <p>[A Processing the Invoice activity pop-up text box appears.]</p>
                         <hr>
                         <h2>4. Section Completed</h2>
+                        <p>[Onscreen text showing Section Completed instruction.]</p>
 
                       </span>
                       <span v-if="$i18n.locale=='fr'">
@@ -106,9 +110,10 @@
 
                         <h2>1. Autorité de certification</h2>
                         <p>De manière générale, aucune facture ne doit être payée tant que les biens n’ont pas été reçus ou que les services n’ont été rendus.</p>
-                        <p>Exercer votre autorité de certification en vertu de l'article 34 sur la Loi sur la gestion des finances publiques (LGFP) signifie, essentiellement, que vous devez prendre un moment pour attester que les biens et services que vous avez reçus correspondent bien à la facture. </p>
+                        <p>Exercer votre autorité de certification en vertu de l'article 34 sur la <em>Loi sur la gestion des finances publiques</em> (LGFP) signifie, essentiellement, que vous devez prendre un moment pour attester que les biens et services que vous avez reçus correspondent bien à la facture. </p>
                         <p>Bien que d’autres personnes de votre équipe pourraient faire cette évaluation, c’est à vous, en tant que gestionnaire délégué que revient le poids de cette responsabilité. Vous devez donc vous assurer que la facture et le codage financier sont exacts. </p>
                         <p>Bien entendu, vous ne pouvez faire cette attestation que si vous avez bel et bien reçu la délégation pour le faire. Vérifiez que c’est bien le cas! </p>
+                        <p>[Une fenêtre contextuelle Activité : Autorité de certification apparaît.]</p>
 
                         <hr>
 
@@ -123,6 +128,7 @@
                         </ul>
                         <p>Il se peut que vous deviez retourner voir le fournisseur pour faire corriger la facture avant de signer l'article 34.</p>
                         <p>Les factures doivent être payées dans les 30 jours suivant la réception de la facture par le ministère afin d'éviter de payer des intérêts.</p>
+                        <p>[Une fenêtre contextuelle Activité : Exactitude de la facture apparaît.]</p>
 
                         <hr>
 
@@ -135,8 +141,11 @@
                           <li>vous ne pouvez pas autoriser l'application de l'article 41 pour un contrat et l'article 34 lié au même contrat; un agent d'approvisionnement exécutera l'article 41;</li>
                           <li>et vous ne pouvez autoriser aucune transaction pour laquelle vous pouvez être considéré comme profiter d’un avantage personnel.</li>
                         </ul>
+                        <p>[Une fenêtre contextuelle Activité : Traitement de la facture apparaît.]</p>
+
                         <hr>
                         <h2>4. Section complétée</h2>
+                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
 
                       </span>
                     </b-card-text>

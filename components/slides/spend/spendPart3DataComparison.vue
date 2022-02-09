@@ -30,16 +30,16 @@
                   <th id="6" scope="row" headers="1">
                     <p>Salaire</p>
                   </th>
-                  <td headers="2 6">
+                  <td headers="2 6" class="dollarAlign">
                     <p>60&nbsp;000&nbsp;$</p>
                   </td>
-                  <td headers="3 6">
+                  <td headers="3 6" class="dollarAlign">
                     <p>20&nbsp;000&nbsp;$</p>
                   </td>
-                  <td headers="4 6">
+                  <td headers="4 6" class="dollarAlign">
                     <p>40&nbsp;000&nbsp;$</p>
                   </td>
-                  <td headers="5 6">
+                  <td headers="5 6" class="dollarAlign">
                     <p>60&nbsp;000&nbsp;$</p>
                   </td>
                 </tr>
@@ -71,16 +71,16 @@
                   <th id="6" scope="row" headers="1">
                     <p>Salary</p>
                   </th>
-                  <td headers="2 6">
+                  <td headers="2 6" class="dollarAlign">
                     <p>$60,000</p>
                   </td>
-                  <td headers="3 6">
+                  <td headers="3 6" class="dollarAlign">
                     <p>$20,000</p>
                   </td>
-                  <td headers="4 6">
+                  <td headers="4 6" class="dollarAlign">
                     <p>$40,000</p>
                   </td>
-                  <td headers="5 6">
+                  <td headers="5 6" class="dollarAlign">
                     <p>$60,000</p>
                   </td>
                 </tr>
@@ -116,16 +116,16 @@
                   <th id="12" scope="row" headers="7">
                     <p>Formation</p>
                   </th>
-                  <td header="8 12">
+                  <td header="8 12" class="dollarAlign">
                     <p>8&nbsp;400&nbsp;$</p>
                   </td>
-                  <td header="9 12">
+                  <td header="9 12" class="dollarAlign">
                     <p>0$</p>
                   </td>
-                  <td header="10 12">
+                  <td header="10 12" class="dollarAlign">
                     <p>2&nbsp;400&nbsp;$</p>
                   </td>
-                  <td header="11 12">
+                  <td header="11 12" class="dollarAlign">
                     <p>8&nbsp;400&nbsp;$</p>
                   </td>
                 </tr>
@@ -158,16 +158,16 @@
                   <th id="12" scope="row" headers="7">
                     <p>Training</p>
                   </th>
-                  <td headers="8 12">
+                  <td headers="8 12" class="dollarAlign">
                     <p>$8,400</p>
                   </td>
-                  <td headers="9 12">
+                  <td headers="9 12" class="dollarAlign">
                     <p>$0</p>
                   </td>
-                  <td headers="10 12">
+                  <td headers="10 12" class="dollarAlign">
                     <p>$2,400</p>
                   </td>
-                  <td headers="11 12">
+                  <td headers="11 12" class="dollarAlign">
                     <p>$8,400</p>
                   </td>
                 </tr>
@@ -184,7 +184,6 @@
           <b-button @click="[tabIndex++, focus()]" :disabled="tabIndex>=1">{{$t('nextPage')}}</b-button>
         </b-button-group>
       </div>
-    </div>
     </div>
   </span>
 </template>
@@ -227,7 +226,7 @@ export default {
       "options": {
         "1": "Under Budget",
         "2": "Under Commitments",
-        "3": "Under Year-to-Date Actual",
+        "3": "Under Year-to-Date Actuals",
         "4": "Under Annual Forecasted Expenditures"
       },
       "feedback": {
@@ -241,9 +240,9 @@ export default {
     "q2": {
       "text": "In addition to the existing forecasted training, you approved a $1,500 learning plan for a new employee. Looking at the line item provided, which information must be updated?",
       "options": {
-        "1": "Increase Commitments and Budget”",
-        "2": "Increase Commitments and Year-to-Date Actual”",
-        "3": "Increase Commitments and Annual Forecasted Expenditures”"
+        "1": "Increase Commitments and Budget",
+        "2": "Increase Commitments and Year-to-Date Actual",
+        "3": "Increase Commitments and Annual Forecasted Expenditures"
       },
       "feedback": {
         "1": "<span class='v-wrong' /><strong>Incorrect.</strong> There is no need to increase or decrease the budget. You would change the amount under Commitments to $1,500, to record a soft commitment, and increase the amount of your Annual Forecasted Expenditures by $1,500.",
@@ -265,20 +264,20 @@ export default {
       "feedback": {
         "1": "<span class='v-wrong' /><strong>Incorrect.</strong> Il n’est pas nécessaire de réduire le budget, car vous pourriez en avoir besoin pour payer des heures supplémentaires ou pour embaucher un employé occasionnel. Vous changeriez le montant sous « Dépenses annuelles prévues » pour 55&nbsp;000&nbsp;$.",
         "2": "<span class='v-wrong' /><strong>Incorrect.</strong> Même si vous pouviez réduire vos engagements, vous ne les réduiriez que de 5&nbsp;000&nbsp;$. 20&nbsp;000&nbsp;$ - (60&nbsp;000&nbsp;$ &divide; 12 mois&nbsp;X&nbsp;1 mois) = 15&nbsp;000&nbsp;$. Vous changeriez le montant sous « Dépenses annuelles prévues » pour 55&nbsp;000&nbsp;$.",
-        "3": "<span class='v-wrong' /><strong>Incorrect.</strong> Il n’est pas nécessaire d’ajuster les dépenses réelles parce que l’employé n’a pas encore été payé. Vous changeriez le montant sous « Dépenses annuelles prévues » à 55&nbsp;000&nbsp;$. ",
-        "4": "<span class='v-right' /><strong>Correct!</strong> Vous devez réduire vos dépenses annuelles prévues d’un mois. 60&nbsp;000&nbsp;$ &divide; 12 mois&nbsp;&times;&nbsp;11 mois = 55&nbsp;000&nbsp;$."
+        "3": "<span class='v-wrong' /><strong>Incorrect.</strong> Il n'est pas nécessaire d'ajuster les dépenses réelles parce que l'employé n'a pas encore été payé. Vous changeriez le montant sous « Dépenses annuelles prévues » pour  55 000 $.",
+        "4": "<span class='v-right' /><strong>Correct!</strong> Vous devez réduire vos dépenses annuelles prévues d'un mois. 60 000 $ ÷ 12 mois X 11 mois = 55 000 $."
       },
       "conclusion": ""
     },
     "q2": {
-      "text": "n plus des formations prévues actuelles, vous avez approuvé un plan d'apprentissage de 1&nbsp;500&nbsp;$ pour un nouvel employé. En examinant le poste de dépenses fourni, quelle information doit être mise à jour?",
+      "text": "En plus des formations prévues actuelles, vous avez approuvé un plan d'apprentissage de 1&nbsp;500&nbsp;$ pour un nouvel employé. En examinant le poste de dépenses fourni, quelle information doit être mise à jour?",
       "options": {
         "1": "Augmenter « Engagements » et « Budget »",
         "2": "Augmenter « Engagements » et « Dépenses réelles à ce jour »",
         "3": "Augmenter « Engagements » et « Dépenses annuelles prévues »"
       },
       "feedback": {
-        "1": "<span class='v-wrong' /><strong>Incorrect.</strong> l n'est pas nécessaire d'augmenter ou de diminuer le budget. Vous changeriez le montant sous « Engagements » pour 1&nbsp;500&nbsp;$ afin d’enregistrer un engagement préalable des fonds et augmenteriez le montant de vos « Dépenses annuelles prévues » de 1&nbsp;500&nbsp;$.",
+        "1": "<span class='v-wrong' /><strong>Incorrect.</strong> Il n'est pas nécessaire d'augmenter ou de diminuer le budget. Vous changeriez le montant sous « Engagements » pour 1 500 $ afin d’enregistrer un engagement préalable des fonds et augmenteriez le montant de vos « Dépenses annuelles prévues » de 1 500 $.",
         "2": "<span class='v-wrong' /><strong>Incorrect.</strong> Vous n'augmenteriez pas ou ne diminueriez pas les « Dépenses réelles à ce jour » parce que vous n'avez pas payé le cours. Vous changeriez le montant sous « Engagements » pour 1&nbsp;500&nbsp;$ afin d’enregistrer un engagement préalable des fonds et augmenteriez le montant de vos « Dépenses annuelles prévues » de 1&nbsp;500&nbsp;$.",
         "3": "<span class='v-right' /><strong>Correct!</strong> Vous changeriez le montant sous  « Engagements » pour   1&nbsp;500&nbsp;$ afin d’enregistrer un engagement préalable des fonds et augmenteriez le montant de vos « Dépenses annuelles prévues »  de 1&nbsp;500&nbsp;$."
       },
@@ -295,5 +294,9 @@ export default {
  .qTable th[scope="col"]{
   background-color: #7d677d;
   color:#fff;
+}
+
+.dollarAlign{
+  text-align: right;
 }
 </style>

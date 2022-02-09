@@ -31,6 +31,7 @@
                           <li>And making expenditure adjustments.</li>
                         </ul>
                         <p>Let’s play with a few examples.</p>
+                        <p>[Onscreen text showing the Try It! instruction for the Continuous Monitoring activity.]</p>
                         <hr>
                         <h2>2. Data Comparison</h2>
                         <p>Taking care of your budget is really important because the decisions you make within your budget may influence your sector, your branch, or even your department.</p>
@@ -40,6 +41,7 @@
                         <p>Monthly reports help you track your financials. They are sometimes called “financial situation reports” or FSRs and are usually produced by the Finance team within your organization.</p>
                         <p>What is in the FSR needs to match what is actually going on in your unit. If it doesn’t, then you need to take appropriate action to resolve the discrepancy. </p>
                         <p>In the next activity, you will have a chance to review and adjust your financial situation according to new information.</p>
+                        <p>[Onscreen text showing the Try It! instruction for the Data Comparison activity.]</p>
                         <hr>
                         <h2>3. Year-End Procedures</h2>
                         <p>Since most budgets are allocated by Parliament on an annual basis and must be used within the fiscal year, goods and services must be received on or before March 31.</p>
@@ -52,11 +54,14 @@
                           <li>Pay attention to the deadlines set by Procurement. You may not be able to create a purchase order as you approach year-end. </li>
                           <li>Follow up with suppliers to make sure that the goods or services will be delivered before year-end. If it’s not possible before March 31, the expenditures will have to be paid using new year funding. Talk to Procurement about possible steps. </li>
                         </ol>
+                        <p>[A Year-End Procedures activity pop-up text box appears.]</p>
                         <hr>
                         <h2>4. Quiz</h2>
                         <p>So now that you know how to initiate expenditures, authorize commitments, exercise financial authority and monitor and control finances, let’s see what you remember by taking this short quiz.</p>
+                        <p>[Onscreen text showing the Take the Quiz! instruction for the Quiz activity.]</p>
                         <hr>
                         <h2>5. Section Completed</h2>
+                        <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>
                       <span v-if="$i18n.locale=='fr'">
                         <h2>1. Suivi continu </h2>
@@ -66,11 +71,12 @@
                           <li>annuler les engagements qui ne sont plus nécessaires; </li>
                           <li>modifier les contrats en fonction de leur portée, de leur durée et des montants qui leur sont alloués;</li>
                           <li>mettre à jour les prévisions salariales pour tenir compte de vos besoins actuels et futurs en matière de dotation; </li>
-                          <li>Planifier pour les insuffisances ou les pressions budgétaires;</li>
+                          <li>planifier pour les insuffisances ou les pressions budgétaires;</li>
                           <li>signaler les excédents budgétaires à la haute direction;</li>
                           <li>et apporter des ajustements aux dépenses.</li>
                         </ul>
                         <p>Amusons-nous maintenant avec quelques exemples.</p>
+                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Suivi continu.]</p>
                         <hr>
                         <h2>2. Comparaison des données</h2>
                         <p>Il est essentiel de porter une attention particulière et soutenue à votre budget parce que les décisions que vous prenez peuvent avoir une incidence sur votre secteur, votre direction générale, ou même votre ministère. </p>
@@ -80,6 +86,7 @@
                         <p>Les rapports mensuels vous aident à suivre vos dépenses. On les appelle parfois « Rapports sur la situation financière » - ou RSF - et sont habituellement produits par l’unité des Finances de votre organisation. </p>
                         <p>Ce qui se trouve dans votre RSF doit refléter ce qui se passe dans votre unité. Si ce n’est pas le cas, vous devez faire un suivi afin de résoudre cet écart.</p>
                         <p>Dans l’activité suivante, vous aurez l’occasion de réviser et d’ajuster vos données financières selon les nouvelles informations. </p>
+                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Comparaison des données.]</p>
                         <hr>
                         <h2>3. Procédures de fin d’année</h2>
                         <p>Étant donné que la plupart des budgets sont établis par le Parlement chaque année et qu’ils doivent être utilisés au cours de l'exercice financier, les biens et services doivent être reçus au plus tard le 31 mars.</p>
@@ -92,11 +99,14 @@
                           <li>Portez attention aux délais fixés par le service d’approvisionnement. Il se peut que vous ne puissiez pas créer de commande d'achat en fin d'année.</li>
                           <li>Faites un suivi auprès des fournisseurs pour vous assurer que les biens ou services seront livrés avant la fin de l'année. Si ce n'est pas possible avant le 31 mars, les dépenses devront être payées en utilisant les fonds de la nouvelle année. Discutez des étapes possibles avec Approvisionnement.</li>
                         </ol>
+                        <p>[Une fenêtre contextuelle Activité : Procédures de fin d’année apparaît.]</p>
                         <hr>
                         <h2>4. Quiz</h2>
                         <p>Maintenant que vous savez comment engager et autoriser des dépenses, exercer des pouvoirs financiers, et surveiller et contrôler les finances, voyons ce dont vous vous souvenez en répondant à ce petit quiz!</p>
+                        <p>[Onscreen text showing the Take the Quiz! instruction for the Quiz activity.]</p>
                         <hr>
                         <h2>5. Section complétée</h2>
+                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
                       </span>
                     </b-card-text>
                   </b-card-body>

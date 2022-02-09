@@ -26,11 +26,11 @@
                         <p>This means you need to review what has been spent or committed to date, along with any other planned expenditures.  </p>
                         <p>As the year progresses, you will most likely shuffle unused amounts within your budgeted items to find the funds that you need for expenditures. </p>
                         <p>Don’t forget! The format of your budget may differ from the one used here, depending on where you work.</p>
-
+                        <p>[A Check Your Budget activity pop-up text box appears.]</p>
                         <hr>
 
                         <h2>2. Delegation of Authority</h2>
-                        <p>Did you know that financial authorities are granted to ministers and deputy heads through the Financial Administration Act, the FAA?</p>
+                        <p>Did you know that financial authorities are granted to ministers and deputy heads through the <em>Financial Administration Act</em>, the FAA?</p>
                         <p>These individuals then delegate authority to positions identified by title through their organization’s delegation of financial signing authorities chart. </p>
                         <p>To exercise your financial authority, you need to do the following three things: </p>
                         <ol>
@@ -44,6 +44,7 @@
                         <p>In certain situations, for example, temporary help services, you will need to go through a procurement process because it involves a contract. These situations are governed by section 41 of the FAA, and would typically be managed by the Procurement section in your organization.</p>
                         <p>To know what and how much you can authorize, consult your own signed delegation card and your organization’s delegation chart. </p>
                         <p>Again, the format of these documents will differ, depending on where you work.</p>
+                        <p>[A Delegation of Authority activity pop-up text box appears.]</p>
 
                         <hr>
 
@@ -51,6 +52,7 @@
                         <p>You have the money and you have the delegation. Great! </p>
                         <p>Now you need to determine the best way to get the goods and services in question. </p>
                         <p>The next activity will give you a chance to learn about spending mechanisms!</p>
+                        <p>[Onscreen text showing the Try It! instruction for the Spending Mechanisms activity.]</p>
 
                         <hr>
 
@@ -69,13 +71,16 @@
                         </ul>
                         <p>The financial coding system allows you to better manage your financial transactions and speak to your budget at any moment throughout the year. </p>
                         <p>Managers often work with administrative professionals or financial officers for this task.</p>
+                        <p>[A Recording in the Financial System activity pop-up text box appears.]</p>
 
                         <hr>
 
                         <h2>5. Try It!</h2>
                         <p>To wrap up this section, let’s take a look at a practice scenario.</p>
+                        <p>[Onscreen text showing the Try It! instruction for the activity.]</p>
                         <hr>
                         <h2>6. Section Completed</h2>
+                        <p>[Onscreen text showing Section Completed instruction.] </p>
 
                       </span>
                       <span v-if="$i18n.locale=='fr'">
@@ -86,24 +91,26 @@
                         <p>Pour ce faire, vous devez examiner les dépenses qui ont été engagées, dépensées ou prévues. </p>
                         <p>Au fur et à mesure que l’année avance, vous devrez probablement ajuster votre budget à vos besoins en déplaçant des montants d’un poste budgétaire à un autre au sein même votre budget.</p>
                         <p>N’oubliez pas que le gabarit utilisé dans votre unité peut différer sensiblement de celui que nous vous présentons ici!</p>
+                        <p>[Une fenêtre contextuelle Activité : Vérifiez votre budget apparaît.]</p>
 
                         <hr>
 
                         <h2>2. Délégation des pouvoirs</h2>
-                        <p>Saviez-vous que c’est la Loi sur la gestion des finances publiques (LGFP) qui confère aux ministres et aux administrateurs généraux leurs pouvoirs financiers? </p>
+                        <p>Saviez-vous que c’est la <em>Loi sur la gestion des finances publiques</em> (LGFP) qui confère aux ministres et aux administrateurs généraux leurs pouvoirs financiers? </p>
                         <p>Par la suite, ces personnes délèguent, à leur tour, une partie de ces pouvoirs financiers à l’intérieur de leur organisation, par le biais d’un tableau de délégation des pouvoirs de signature en matière financière.</p>
                         <p>Pour exercer votre délégation financière, vous avez besoin de faire ces 3 choses :</p>
                         <ol>
                           <li>Réussir le présent cours</li>
-                          <li>Soumettre votre carte de délégation signée à votre service des finances</li>
-                          <li>obtenir votre délégation de pouvoir officielle par écrit de la part de votre service des finances </li>
+                          <li>Soumettre votre carte de délégation signée à votre service des finances et</li>
+                          <li>Obtenir votre délégation de pouvoir officielle par écrit de la part de votre service des finances </li>
                         </ol>
                         <p>Il existe divers pouvoirs délégués. Les gestionnaires en ont généralement deux. </p>
                         <p>L’article 32 permet à une personne déléguée d’engager des fonds et de dépenser tandis que l’article 34 fait référence à l’autorité de certification. L’article 32 vous permet de commander des articles de bureau, par exemple, puis l’article 34 vous permet de certifier que vous les avez bel et bien reçus.</p>
                         <p>Ensuite, l’article 33 permet à l’unité des finances de payer la facture.</p>
-                        <p>Dans certaines situations, par exemple des services d’aide temporaire, vous devrez passer par un processus d’approvisionnement parce que cela implique un contrat. Habituellement, ce serait au groupe d’Approvisionnement de votre organisation que reviendraient ces démarches, en vertu de l’article 41 de la Loi sur la gestion des finances publiques. </p>
+                        <p>Dans certaines situations, par exemple des services d’aide temporaire, vous devrez passer par un processus d’approvisionnement parce que cela implique un contrat. Habituellement, ce serait au groupe d’Approvisionnement de votre organisation que reviendraient ces démarches, en vertu de l’article 41 de la <em>Loi sur la gestion des finances publiques</em>. </p>
                         <p>Pour savoir ce que vous pouvez engager, vous devez vous fier à votre carte de délégation signée ainsi qu’au tableau de délégation des pouvoirs de signature en matière financière dans votre organisation.</p>
                         <p>Encore une fois, le format de ces documents variera selon l’endroit où vous travaillez. </p>
+                        <p>[Une fenêtre contextuelle Activité : Délégation des pouvoirs apparaît.]</p>
 
                         <hr>
 
@@ -111,6 +118,7 @@
                         <p>Vous avez l’argent et vous avez la délégation. Super! </p>
                         <p>Maintenant, vous devez déterminer la meilleure façon d’obtenir les biens et services en question. </p>
                         <p>L’activité suivante vous donnera l’occasion de vous familiariser avec les mécanismes de dépense!</p>
+                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Mécanismes de dépense.]</p>
 
                         <hr>
 
@@ -129,13 +137,17 @@
                         </ul>
                         <p>Le système de codage financier vous permet de bien gérer vos opérations financières et de bien pouvoir répondre de votre budget à n’importe quel moment au cours de l’année. </p>
                         <p>Les gestionnaires travaillent souvent avec des professionnels de l'administration ou des agents financiers pour cette tâche.</p>
+                        <p>[Une fenêtre contextuelle Activité : Enregistrement dans le système financier apparaît.]</p>
 
                         <hr>
 
                         <h2>5. Essayons-le!</h2>
                         <p>Afin de conclure cette section, prenons quelques instants pour appliquer le tout à un scénario fictif. </p>
+                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité.]</p>
+
                         <hr>
                         <h2>6. Section complétée</h2>
+                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
 
                       </span>
                     </b-card-text>
@@ -171,7 +183,7 @@
         <b-modal id="spendMechanisms" @hide="resumePlay()" size="xl" okOnly>
             <template v-slot:modal-header="{ close }">
                 <h3 class="h5">
-                    <img src="~/assets/ActivityIcon.svg" :alt="$t('pencilIcon')" width="32" height="32"> {{$t('forecastBudgetTitle')}}
+                    <img src="~/assets/ActivityIcon.svg" :alt="$t('pencilIcon')" width="32" height="32"> {{$t('spendingMechanismsTitle')}}
                 </h3>
                 <button type="button" aria-label="Close" class="close" @click="close()">×</button>
             </template>
@@ -401,7 +413,7 @@ button.accessibilityButton {
   "adjustwptitle":"Activity: Adjust the Work plan",
   "delegateAuthority":"Activity: Delegation of Authority",
   "checkBudget":"Activity: Check Your Budget",
-  "forecastBudgetTitle":"Activity: Forecast Budget Requirements",
+  "spendingMechanismsTitle":"Activity: Spending Mechanisms",
   "RecordingTitle":"Activity: Recording in the Financial System",
   "gotIt":"Continue to next segment",
   "transcriptText":"",
@@ -414,7 +426,7 @@ button.accessibilityButton {
   "delegateAuthority":"Activité : Délégation des pouvoirs",
   "checkBudget":"Activité : Vérifiez votre budget",
   "tryItTitle":"Activité : Essayons-le!",
-  "forecastBudgetTitle":"Activité : Prévoyez vos besoins budgétaires",
+  "spendingMechanismsTitle":"Activité : Mécanismes de dépense",
   "RecordingTitle":"Activité : Enregistrement dans le système financier",
   "gotIt":"Continuer au segment suivant.",
   "transcriptText":"",

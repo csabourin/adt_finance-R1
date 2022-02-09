@@ -52,13 +52,13 @@
         <tbody>
           <tr>
             <td headers="1">
-              <p class="text-right">44&nbsp;900$</p>
+              <p class="text-right">44&nbsp;900 $</p>
             </td>
             <td headers="2">
-              <p class="text-right">15&nbsp;000$</p>
+              <p class="text-right">15&nbsp;000 $</p>
             </td>
             <td headers="3">
-              <p class="text-right">29&nbsp;000$</p>
+              <p class="text-right">29&nbsp;000 $</p>
             </td>
           </tr>
         </tbody>
