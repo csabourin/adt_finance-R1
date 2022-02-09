@@ -160,7 +160,7 @@
 
                         <hr>
 
-                        <h2>5. Prévoir vos besoins budgétaires</h2>
+                        <h2>5. Prévoyez vos besoins budgétaires</h2>
                         <p>Après avoir obtenu tous les renseignements que vous pouvez à partir des budgets de l'année dernière et de l'année en cours, vous constatez qu'il vous faut encore prévoir certains besoins budgétaires. Cliquez sur les points d'interrogation que vous voyez à l’écran et une question apparaîtra. Une fois que vous y aurez répondu, le chiffre correct apparaîtra dans le budget.</p>
                         <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Prévoir vos besoins budgétaires.]</p>
 
@@ -409,7 +409,7 @@ export default {
   "adjustwptitle":"Activité : Ajuster le plan de travail",
   "AnalyzeBudgetKT":"Activité : Analyser un budget - Termes clés",
   "financialCycle":"Référence : Le cycle financier",
-  "budgetAnalyzeActivity":"Activité : Analyser les budgets précédents et en cours",
+  "budgetAnalyzeActivity":"Activité : Analyser l’information disponible",
   "submitBudgetTitle":"Activité : Soumettre et ajuster votre budget ",
   "forecastBudgetTitle":"Activité : Prévoyez vos besoins budgétaires",
   "InRealLife":"Dans la vraie vie",

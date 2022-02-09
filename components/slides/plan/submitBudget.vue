@@ -62,9 +62,9 @@
       },
       "feedback": {
         "right": "<span class='v-right' /><strong>Correct!</strong>",
-        "wrong": "<span class='v-wrong' /><strong>Incorrect.s</strong>"
+        "wrong": "<span class='v-wrong' /><strong>Incorrect.</strong>"
       },
-      "conclusion":"Converting funds from O&M to Salary is not a solution as your resource requirement is increasing for which you need the funding."
+      "conclusion":"The correct answers are “Add their activities to your work plan” and “Add their salaries and O&M to your budget requirements.” Converting funds from O&M to Salary is not a solution as your resource requirement is increasing for which you need the funding."
     }
   },
   "fr": {

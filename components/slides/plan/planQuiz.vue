@@ -109,7 +109,7 @@ export default {
       }
     },
     "q5": {
-      "text": "The Prime Minister sets out their expectations and objectives for your department in: ",
+      "text": "The Prime Minister sets out the expectations and objectives for your department in: ",
       "options": {
         "1": "the Speech from the Throne",
         "2": "the Departmental Results Framework",

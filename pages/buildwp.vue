@@ -57,7 +57,7 @@
                       <p>To build a work plan, it helps to understand the <strong>historical</strong> and <strong>cultural context</strong> of your unit by asking yourself a series of questions. This is what we call the <strong>360° scan</strong>.</p>
                       <p>Here’s a typical example of last year’s work plan. Try to apply the questions in the 360° scan document to this fictional example.</p>
                       <p>You may access the 360° scan document at any time from the File section at the top right.</p>
-                      <p>[Onscreen text showing the Try it! instruction for the Apply a 360o Scan activity.]s</p>
+                      <p>[Onscreen text showing the Try it! instruction for the Apply a 360&deg; Scan activity.]</p>
                       <hr>
                       <h2>5. Prepare a Work Plan</h2>
                       <p>At this point, you should understand the context, both historically and culturally, and be in a position to craft this year’s work plan!</p>
@@ -140,7 +140,7 @@
                       <hr>
                       <h2>6. Compléter le plan de travail</h2>
                       <p>Pour vous aider à remplir les autres sections du plan de travail, continuons avec le même scénario. En regardant votre brouillon, vous remarquez que certains items ont été placés au mauvais endroit ou sont manquants. Mettez à jour votre brouillon en conséquence.</p>
-                      <p>[Texte à l’écrant indiquant l’instruction Essayez-le pour l’activité Compléter le plan de travail.]</p>
+                      <p>[Texte à l’écran indiquant l’instruction Essayez-le pour l’activité Compléter le plan de travail.]</p>
                       <hr>
                       <h2>7. Ajuster le plan de travail</h2>
                       <p>Votre directeur vous dit qu'il a participé à une réunion du comité directeur et qu'il dispose maintenant de 3 nouveaux renseignements qui devraient se refléter dans votre plan de travail :</p>

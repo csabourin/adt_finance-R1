@@ -108,7 +108,7 @@ export default {
     lazy: true,
     loadedLanguages :['en','fr'],
     langDir: 'lang/',
-    defaultLocale: "en",
+    defaultLocale: 'en',
     fallbackLocale: 'en',
     fallbackRoot: true,
     silentTranslationWarn: true,

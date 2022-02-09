@@ -94,7 +94,7 @@ export default {
         "4": "Capital"
       },
       "feedback": {
-        "right": "The Operating & Maintenance (O&M) budget would have a line item for a temporarys help contract. ",
+        "right": "The Operating & Maintenance (O&M) budget would have a line item for a temporary help contract. ",
         "wrong": "The Operating & Maintenance (O&M) budget would have a line item for a temporary help contract. "
       }
     },

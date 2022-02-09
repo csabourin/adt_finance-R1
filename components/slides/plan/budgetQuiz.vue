@@ -175,9 +175,9 @@ export default {
         "3": "Issuing fishing licenses in 15 days."
       },
       "feedback": {
-        "1": "<span class='v-wrong' /> <strong>Incorrect.</strong> The correct answer is “a surplus in the relocation budget of $10,000,” as $10,000 is the difference between budget and actual expenditures. ",
+        "1": "<span class='v-wrong' /> <strong>Incorrect.</strong> The correct answer is “a surplus in the relocation budget of $10,000,” as $10,000 is the difference between budget and actual expenditures.",
         "2": "<span class='v-right' /> <strong>Correct!</strong> $10,000 is the difference between budget and actual expenditures.",
-        "3": "<span class='v-wrong' /> <strong>Incorrect.</strong> The correct answer is a surplus in the relocation budget of $10,000, as $10,000 is the difference between budget and actual expenditures."
+        "3": "<span class='v-wrong' /> <strong>Incorrect.</strong> The correct answer is “a surplus in the relocation budget of $10,000,” as $10,000 is the difference between budget and actual expenditures."
       }
     },
     "q7": {
@@ -418,7 +418,7 @@ export default {
         "3": "Ajoutez les chiffres de l’an dernier et l’augmentation prévue des besoins budgétaires de l’an prochain."
       },
       "feedback": {
-        "wrong": "<span class='v-wrong' /> <strong>Incorrect.</strong> Tous les réponses sont exactes. Les tendances que vous voyez peuvent varier, de sorte que la façon dont vous les utilisez dans vos besoins budgétaires peut changer. ",
+        "wrong": "<span class='v-wrong' /> <strong>Incorrect.</strong> Toutes les réponses sont exactes. Les tendances que vous voyez peuvent varier, de sorte que la façon dont vous les utilisez dans vos besoins budgétaires peut changer. ",
         "right": "<span class='v-right' /> <strong>Correct!</strong> Les tendances que vous voyez peuvent varier, de sorte que la façon dont vous les utilisez dans vos besoins budgétaires peut changer."
       }
     },
@@ -436,7 +436,7 @@ export default {
       }
     },
     "q7": {
-      "text": "L'écart par rapport à l’an dernier s’explique par une nouvelle priorité ministérielle, soit la tenue d’une consultation de 3 ans à l’échelle du Canada, qui a entraîné un plus grand nombre de déplacements. En ferez-vous état dans votre budget de l’année prochaine ?",
+      "text": "L'écart par rapport à l’an dernier s’explique par une nouvelle priorité ministérielle, soit la tenue d’une consultation de 3 ans à l’échelle du Canada, qui a entraîné un plus grand nombre de déplacements. En ferez-vous état dans votre budget de l’année prochaine?",
       "options": {
         "1": "Oui",
         "2": "Non"

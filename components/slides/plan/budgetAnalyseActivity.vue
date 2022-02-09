@@ -474,7 +474,7 @@ text-align: right;
         "1": "415&nbsp;000&nbsp;$ non discrétionnaires et 13&nbsp;333&nbsp;$ discrétionnaires",
         "2": "430&nbsp;000&nbsp;$ non discrétionnaires et 13&nbsp;333&nbsp;$ discrétionnaires",
         "3": "445&nbsp;000&nbsp;$ non discrétionnaires et 13&nbsp;333&nbsp;$ discrétionnaires",
-        "4": "475&nbsp;000&nbsp;$ Non discrétionnaires "
+        "4": "475&nbsp;000&nbsp;$ non discrétionnaires "
       },
       "feedback": {
         "1": "<span class='v-wrong' /> <strong>Incorrect.</strong>  La bonne réponse est 430&nbsp;000&nbsp;$ non discrétionnaires et 13&nbsp;333&nbsp;$ discrétionnaires</strong>.",

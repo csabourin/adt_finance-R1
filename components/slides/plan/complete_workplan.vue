@@ -246,7 +246,7 @@
           "pRes2": "<li> 1 agent</li><li> 2 analystes</li><li> 1 agent subalterne</li>",
           "pA3": "Renouveler les permis de p&ecirc;che commerciale",
           "pSA3": "<li> Examiner les dossiers de renouvellement des demandeurs</li><li> Délivrer des renouvellements de permis&nbsp;</li></li>",
-          "pD3": "<li> Délivrer les renouvellements de permis dans les 30 jours suivant la demande</li><li> Délivrer 300  renouvellements de permis par an</li>",
+          "pD3": "<li> Émettre les renouvellements de permis dans les 30 jours suivant la demande</li><li> Émettre 300  renouvellements de permis par an</li>",
           "pRes3": "<li>1 agent</strong></li><li>1 analyste subalterne</li>",
           "q1":
           {
