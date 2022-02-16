@@ -46,8 +46,7 @@ export default {
    */
   plugins: [
   '~/plugins/SCORM_API_wrapper.js',
-  '~/plugins/fontawesome.js',
-   { src: '~plugins/ga.js', mode: 'client' }],
+  '~/plugins/fontawesome.js'],
   /*
    ** Nuxt.js dev-modules
    */
@@ -62,7 +61,7 @@ export default {
     '@nuxtjs/axios',
     ['nuxt-i18n', {
   strategy: 'prefix',
-  defaultLocale: 'fr'
+  defaultLocale: 'en'
 }],
     ['vue-scrollto/nuxt', {container: "#scrollDiv",
      duration: 750,
@@ -86,6 +85,7 @@ export default {
    */
   axios: {},
   i18n: {
+    detectBrowserLanguage: false,
     strategy: 'prefix',
        useCookie: true,
     // Cookie name
@@ -93,20 +93,20 @@ export default {
     // Set to always redirect to value stored in the cookie, not just once
     vueI18nLoader: true,
     locales: [{
-        code: 'en',
-        name: 'English',
-        iso: 'en-CA',
-        file: 'en.js'
-      },
-      {
         code: 'fr',
         name: 'Français',
         iso: 'fr-CA',
         file: 'fr.js'
+      },
+      {
+        code: 'en',
+        name: 'English',
+        iso: 'en-CA',
+        file: 'en.js'
       }
     ],
     lazy: true,
-    loadedLanguages :['en','fr'],
+    loadedLanguages :['fr','en'],
     langDir: 'lang/',
     defaultLocale: 'en',
     fallbackLocale: 'en',
