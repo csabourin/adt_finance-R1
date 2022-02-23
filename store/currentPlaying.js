@@ -19,7 +19,7 @@ export const state = () => ({
   spendPart2_player: parseInt(window.localStorage.getItem("spendPart2_player"),10) || 0,
   spendPart3_player: parseInt(window.localStorage.getItem("spendPart3_player"),10) || 0,
   reportPart1_player: parseInt(window.localStorage.getItem("reportPart1_player"),10) || 0,
-  reportPart2_player: parseInt(window.localStorage.getItem("reportPart2"),10) || 0,
+  reportPart2_player: parseInt(window.localStorage.getItem("reportPart2_player"),10) || 0,
   currentModule: window.localStorage.getItem("currentModule") || "",
   chosenScenario: window.localStorage.getItem("chosenScenario") || "takeCourse",
   menuShowing: window.localStorage.getItem("menuShowing") === "true" ? true : false || false
@@ -99,11 +99,11 @@ export const mutations = {
     state.spendPart3_player = playing
   },
   setReportPart1_player(state, playing) {
-    window.localStorage.setItem("reportPart1", playing)
+    window.localStorage.setItem("reportPart1_player", playing)
     state.reportPart1_player = playing
   },
   setReportPart2_player(state, playing) {
-    window.localStorage.setItem("reportPart2", playing)
+    window.localStorage.setItem("reportPart2_player", playing)
     state.reportPart2_player = playing
   },
   setCurrentModule(state, module) {
