@@ -22,11 +22,6 @@
       <delegAutorityFr v-if="$i18n.locale=='fr'" />
     </windowPortal>
     <p><b-button role="link" @click="openChart = true">{{$t('openChartButton')}}</b-button></p>
-    <b-row>
-      <b-col cols="6" md="4" lg="2" class="text-center">
-        <download :texts="$t('s32s34')" size=128 iconColor="spendBackground" :fileSize="this.$i18n.locale == 'en' ? '149' : '149'" name="s32s34" />
-      </b-col>
-    </b-row>
 	</div>
 </template>
 
