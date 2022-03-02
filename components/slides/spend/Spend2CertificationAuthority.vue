@@ -3,7 +3,7 @@
     <b-container>
       <b-row>
         <b-col>
-          <radioQuiz :question="$t('q1')" qId="1" />
+          <p><strong>{{ $t('instruction') }}</strong></p>
           <windowPortal :open="openCard" @close="openCard = false">
             <b-container style="margin-top: 25px; margin-bottom: 25px;">
               <b-row>
@@ -14,6 +14,7 @@
           </b-container>
           </windowPortal>
           <p><b-button @click="openCard = true">{{$t('openCard')}}</b-button></p>
+          <radioQuiz :question="$t('q1')" qId="1" />
         </b-col>
         <!--<b-col>
           <signatureCard />
@@ -48,6 +49,7 @@
   
   {
     "en": {
+      "instruction": "Take a look at the specimen signature card.",
       "openCard": "Open the specimen signature card",
       "q1": {
         "text": "Looking at the specimen signature card provided , what is the maximum amount that a manager could approve under section 34 to certify the granting of an award?",
@@ -67,6 +69,7 @@
       }
     },
     "fr": {
+      "instruction": "Veuillez consulter le spécimen de carte de signature.",
       "openCard": "Ouvrir le spécimen de carte de signature",
       "q1": {
         "text": "En examinant la carte de signature fournie, quel est le montant maximal qu'un gestionnaire pourrait approuver pour attester l’attribution d’un prix en vertu de l’article 34?",
