@@ -1,6 +1,12 @@
 <template>
 	<div>
     <b-card>
+      <p v-html="$t('instructions')" />
+        <windowPortal :open="openChart" @close="openChart = false">
+        <delegAutorityEn v-if="$i18n.locale=='en'" />
+        <delegAutorityFr v-if="$i18n.locale=='fr'" />
+      </windowPortal>
+      <p><b-button role="link" @click="openChart = true">{{$t('openChartButton')}}</b-button></p>
       <b-tabs content v-model="tabIndex">
         <b-tab title="Question 1"><radioQuiz :question="$t('q1')" qId="1"/></b-tab>
         <b-tab title="Question 2"><radioQuiz :question="$t('q2')" qId="2" /></b-tab>
@@ -17,11 +23,6 @@
     </b-card>
     <!--<p class="scrollMe" v-if="$i18n.locale=='en'"><delegAutorityEn /></p>
     <p class="scrollMe" v-if="$i18n.locale=='fr'"><delegAutorityFr /></p>-->
-    <windowPortal :open="openChart" @close="openChart = false">
-      <delegAutorityEn v-if="$i18n.locale=='en'" />
-      <delegAutorityFr v-if="$i18n.locale=='fr'" />
-    </windowPortal>
-    <p><b-button role="link" @click="openChart = true">{{$t('openChartButton')}}</b-button></p>
 	</div>
 </template>
 
@@ -60,6 +61,7 @@
 </script>
 <i18n>{
   "en": {
+    "instructions": "Answer the following questions. You will need to consult the Delegation of Spending and Financial Signing Authorities Chart.",
     "openChartButton": "Open the delegation of spending and financial signing authorities chart",
     "q1": {
       "text": "Using the delegation of financial signing authority chart provided, identify the maximum amount that a manager could approve to initiate hospitality (section 32).",
@@ -121,6 +123,7 @@
     }
   },
   "fr": {
+    "instructions": "Répondez aux questions suivantes. Veuillez consulter le Tableau de délégation des pouvoirs de dépenser et de signer des documents financiers.",
     "openChartButton": "Ouvrir le tableau de délégation de pouvoirs",
     "q1": {
       "text": "En vous appuyant sur le tableau de délégation de pouvoirs fourni, identifiez quel est le montant maximal qu’un gestionnaire pourrait approuver pour entreprendre des activités d’accueil (article 32).",
