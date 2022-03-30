@@ -550,15 +550,13 @@ export default {
         "text": "You have added a new activity to your work plan: &quot;Offering support to clients through automated means.&quot; One sub-activity is “Implementing a chatbot system.” The chatbot would respond to customer requests online without involving a live agent, 24 hours per day. What deliverable would be added to the work plan for this activity?",
         "options": {
           "1": "Change call centre operational hours to 24/7",
-          "2": "Live chat system operational 99% of the time",
-          "3": "30% of online requests resolved by chatbot",
-          "4": "Chatbot interactions will be monitored by a call centre agent "
+          "2": "Live conversation with a call centre agent",
+          "3": "30% of online requests resolved by chatbot"
         },
         "feedback": {
           "1": "",
           "2": "",
-          "3": "",
-          "4": ""
+          "3": ""
         }
       },
       "q9": {
@@ -856,15 +854,13 @@ export default {
         "text": "Vous avez ajouté une nouvelle activité à votre plan de travail: &laquo; Offrir un soutien aux clients par des moyens automatisés &raquo;. L’une des sous-activités est la &laquo; Mise en place d’un système de robot conversationnel &raquo;.  Le robot conversationnel répondrait aux demandes des clients en ligne sans faire intervenir un agent en direct, 24 heures sur 24. Quel livrable serait ajouté au plan de travail pour cette activité?",
         "options": {
           "1": "Modifier les heures d’ouverture du centre d’appel pour qu’il fonctionne 24 heures sur 24, 7 jours sur 7",
-          "2": "Système de robot conversationnel en direct opérationnel 99&nbsp;% du temps",
-          "3": "30&nbsp;% des demandes en ligne seraient résolues par robot conversationnel ",
-          "4": "Les interactions des robots conversationnels seront surveillées par un agent du centre d’appels."
+          "2": "Conversation en ligne avec un agent en direct",
+          "3": "30&nbsp;% des demandes en ligne seraient résolues par robot conversationnel "
         },
         "feedback": {
           "1": "",
           "2": "",
-          "3": "",
-          "4": ""
+          "3": ""
         }
       },
       "q9": {
