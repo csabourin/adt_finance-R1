@@ -61,7 +61,7 @@
                 <template v-slot:title>
                   <span class="v-inv">Question </span>04
                 </template>
-                <radioQuiz exam :lock="quizLocked" :forceEmpty="isNull" :question="$t('Questions.q4')" qId="3" :refill="Refill('3')" @response="calculateAnswer($event,2,3)" />
+                <radioQuiz exam :lock="quizLocked" :forceEmpty="isNull" :question="$t('Questions.q4')" qId="3" :refill="Refill('3')" @response="calculateAnswer($event,1,3)" />
               </b-tab>
               <b-tab :title-link-class="[{'filled':answerScore[4]}]">
                 <template v-slot:title>
@@ -487,12 +487,12 @@ export default {
         }
       },
       "q4": {
-        "text": "Your 360-degree scan reiterates for you that your organization has a low risk tolerance. At the same time, the Deputy Minister wants to see more innovation. What is the best course of action to take as these opposing forces impact your work plan? ",
+        "text": "Which of the following is not a manager's responsibility related to planning?",
         "options": {
-          "1": "Wait until others have successfully implemented an innovation project ",
-          "2": "Start a small-scale innovation project and learn from it",
-          "3": "Commence a highly visible innovation project with current staffing levels",
-          "4": "Keep things as they are"
+          "1": "To establish government-wide priorities",
+          "2": "To plan the unit’s activities",
+          "3": "To use public funds to carry out the unit’s activities",
+          "4": "To report on the status of the unit’s activities"
         },
         "feedback": {
           "1": "",
@@ -793,12 +793,12 @@ export default {
         }
       },
       "q4": {
-        "text": "Votre analyse à 360 degrés réitère pour vous que votre organisation a une faible tolérance au risque. En même temps, le sous-ministre veut voir plus d’innovation. Quelle est la meilleure ligne de conduite à adopter, alors que ces forces opposées ont une incidence sur votre plan de travail?",
+        "text": "Lequel des éléments de planification suivants n'est pas la responsabilité d'un gestionnaire?",
         "options": {
-          "1": "Attendre que d’autres aient mis en œuvre avec succès un projet d’innovation",
-          "2": "Lancer un projet d’innovation à petite échelle et en tirer des leçons",
-          "3": "Lancer un projet d’innovation très visible avec les effectifs actuels.",
-          "4": "Garder les choses telles qu’elles sont"
+          "1": "Établir des priorités à l’échelle du gouvernement",
+          "2": "Planifier les activités de son unité",
+          "3": "Utiliser les fonds publics pour mener à bien les activités de son unité",
+          "4": "Faire rapport de l’état d’avancement des activités de son unité"
         },
         "feedback": {
           "1": "",

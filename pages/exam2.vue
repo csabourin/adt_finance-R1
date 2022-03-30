@@ -17,8 +17,8 @@
             </div>
             <div v-if="$i18n.locale=='fr'">
               <h3>Instructions</h3>
-              <p>Pour certaines des questions de ce test, vous &ecirc;tes dans le r&ocirc;le d’un responsable de centre d’appels. Des scénarios basés sur cette situation vous seront proposés.&nbsp;</p>
-              <p>Conformément aux exigences du Conseil du Trésor, il est obligatoire de réussir l’examen de ce cours avant de pouvoir exercer la délégation financi&egrave;re.</p>
+              <p>Pour certaines des questions de ce test, vous occupez le r&ocirc;le d’un responsable de centre d’appels. Des scénarios basés sur cette situation vous seront proposés.&nbsp;</p>
+              <p>Conformément aux exigences du Conseil du Trésor, il est obligatoire de réussir le test de ce cours avant de pouvoir exercer la délégation financi&egrave;re.</p>
               <p>Le test comporte trois parties — une à la fin de chaque phase : planification, dépenses et rapports.&nbsp;</p>
               <p>La note de passage est de 80 %, par partie. </p>
               <p>Chaque partie devrait vous prendre environ 15 à 20 minutes.&nbsp;</p>
@@ -109,7 +109,7 @@
                 <template v-slot:title>
                   <span class="v-inv">Question </span>12
                 </template>
-                <radioQuiz exam :lock="quizLocked" :forceEmpty="isNull" :question="$t('Questions.q12')" qId="11" :refill="Refill('11')" @response="calculateAnswer($event,1,11)" />
+                <radioQuiz exam :lock="quizLocked" :forceEmpty="isNull" :question="$t('Questions.q12')" qId="11" :refill="Refill('11')" @response="calculateAnswer($event,2,11)" />
               </b-tab>
               <b-tab :title-link-class="[{'filled':answerScore[12]}]">
                 <template v-slot:title>
@@ -133,7 +133,7 @@
                 <template v-slot:title>
                   <span class="v-inv">Question </span>16
                 </template>
-                <checkboxQuiz exam :lock="quizLocked" :forceEmpty="isNull" :question="$t('Questions.q16')" qId="15" :refill="Refill('15')" @response="arraysMatch($event,['1','2','4'],15)" />
+                <radioQuiz exam :lock="quizLocked" :forceEmpty="isNull" :question="$t('Questions.q16')" qId="15" :refill="Refill('15')" @response="calculateAnswer($event,2,15)" />
               </b-tab>
               <b-tab :title-link-class="[{'filled':answerScore[16]}]">
                 <template v-slot:title>
@@ -593,7 +593,7 @@ export default {
       "q10": {
         "text": "Mr. Wong works as a manager for a small department and has delegation under both sections 32 and 34. Which instrument formalizes Mr. Wong’s delegated authorities?",
         "options": {
-          "1": "Financial Administration Act",
+          "1": "<em>Financial Administration Act</em>",
           "2": "Treasury Board policies",
           "3": "The organization’s delegation chart",
           "4": "His signed delegation card"
@@ -621,18 +621,16 @@ export default {
         }
       },
       "q12": {
-        "text": "You receive an invoice for an employee's annual professional membership, due in September. What do you do?",
+        "text": "When a manager commits an expenditure under section 32 of the <em>Financial Administration Act</em> (FAA), they are certifying which of the following?",
         "options": {
-          "1": "Pay the invoice for the full year now",
-          "2": "Pay what is due between now and the end of the fiscal year ",
-          "3": "Pay what is due between now and the end of the calendar year",
-          "4": "Ask them to split the invoice between calendar years"
+          "1": "The work has been performed, the goods or services have been supplied.",
+          "2": "There are sufficient funds in the budget for which they have delegated authority.",
+          "3": "The supplier or payee is eligible to receive payment."
         },
         "feedback": {
           "1": "",
           "2": "",
-          "3": "",
-          "4": ""
+          "3": ""
         }
       },
       "q13": {
@@ -679,16 +677,14 @@ export default {
         }
       },
       "q16": {
-        "text": "In which of the following ways can an analysis of variance help?",
+        "text": "True or False – Your organization’s financial delegation instrument indicates your position as manager has “F” or “Full” expenditure initiation authority for employee travel within Canada.  This means there is no dollar limit to the amount that you can approve.",
         "options": {
-          "1": "It aids in the early reallocation of resources",
-          "2": "It contributes to reducing the amounts lapsed at year-end",
-          "3": "It stops all deficits from happening",
-          "4": "It identifies mitigation strategies for risks"
+          "1": "True",
+          "2": "False"
         },
         "feedback": {
-          "right": "",
-          "wrong": ""
+          "1": "",
+          "2": ""
         }
       },
       "q17": {
@@ -927,18 +923,16 @@ export default {
         }
       },
       "q12": {
-        "text": "Vous recevez une facture pour l’adhésion professionnelle annuelle d’un employé qui doit être payée en septembre. Que devriez-vous faire?",
+        "text": "Lorsqu’un gestionnaire engage une dépense en vertu de l’article 32 de la <em>Loi sur la gestion des finances publiques</em> (LGFP), il atteste laquelle des options suivantes?",
         "options": {
-          "1": "Payer maintenant la facture pour l’année entière",
-          "2": "Payer ce qui est dû d’ici la fin de l’exercice financier ",
-          "3": "Payer ce qui est dû d’ici la fin de l’année civile ",
-          "4": "Leur demander de fractionner la facture entre les années civiles"
+          "1": "Les travaux ont été exécutés et les services ont été rendus et les fournitures livrées.",
+          "2": "Les fonds dans le budget qui relève de sa responsabilité sont suffisants.",
+          "3": "Le fournisseur ou le bénéficiaire sont admissibles au paiement."
         },
         "feedback": {
           "1": "",
           "2": "",
-          "3": "",
-          "4": ""
+          "3": ""
         }
       },
       "q13": {
@@ -987,16 +981,14 @@ export default {
         }
       },
       "q16": {
-        "text": "De quelle façons une analyse de la variance peut-elle aider?",
+        "text": "Vrai ou faux - L'instrument de délégation financière de votre organisation indique que le poste que vous occupez à titre de gestionnaire a le pouvoir d'engager des fonds et de dépenser « P » ou « Plein » pour les voyages des employés au Canada. Cela signifie qu'il n'y a pas de limite au montant que vous pouvez approuver.",
         "options": {
-          "1": "Elle aide à la réaffectation précoce des ressources",
-          "2": "Elle contribue à réduire les montants périmés à la fin de l’exercice",
-          "3": "Elle empêche tous les déficits de se produire ",
-          "4": "Elle identifie les stratégies d’atténuation des risques"
+          "1": "Vrai",
+          "2": "Faux"
         },
         "feedback": {
-          "right": "",
-          "wrong": ""
+          "1": "",
+          "2": ""
         }
       },
       "q17": {
