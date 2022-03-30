@@ -159,6 +159,10 @@
                     <dd>Commonly known as Gs&Cs. Money that is provided to entities outside of the federal government to advance the department’s mandate. Grants are given to the entity whereas with Contributions, the entity is expected to also contribute some money.</dd>
                   </dl>
                   <dl>
+                    <dt>expenditure</dt>
+                    <dd>An amount charged against a departmental appropriation in the accounting period.</dd>
+                  </dl>
+                  <dl>
                     <dt>expenditure initiation</dt>
                     <dd>When you decide to obtain goods or services that will result in the eventual spending of funds, such as the decision to hire staff, order supplies, or authorize travel.</dd>
                   </dl>
@@ -343,6 +347,10 @@
                   <dl>
                     <dt>débiteurs à la fin de l’exercice</dt>
                     <dd>C’est un montant dû d’un autre ministère pour des biens ou des services fournis dans l’exercice financier précédent pour lesquels le paiement sera fait dans le nouvel exercice financier.</dd>
+                  </dl>
+                  <dl>
+                    <dt>dépenses</dt>
+                    <dd>Montant imputé à un crédit ministériel au cours de la période comptable.</dd>
                   </dl>
                   <dl>
                     <dt>divulgation proactive</dt>
