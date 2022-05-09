@@ -161,7 +161,7 @@
       {
         "1": "With the “Manage and administer the directorate” activity under “Deliverables”",
         "2": "With the “Issue commercial fishing licences activity under “Mitigation”",
-        "3": "With the “Renew commercial fishing licences” activity Under “Sub-activities”"
+        "3": "With the “Renew commercial fishing licences” activity under “Sub-activities”"
       },
       "feedback":
       {
@@ -193,7 +193,7 @@
       {
         "1": "I need to add more staff.",
         "2": "I can leave the Resources section as is.",
-        "3": "I need to remove 1 employee unde Resources."
+        "3": "I need to remove 1 employee under Resources."
       },
       "feedback":
       {
