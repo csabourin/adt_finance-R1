@@ -484,7 +484,7 @@ html[lang="fr"] a.external:after{
 }
 
 .successModal {
-  background-image: linear-gradient(135deg, #7a474e 45.45%, #8f5e65 45.45%, #8f5e65 50%, #7a474e 50%, #7a474e 95.45%, #8f5e65 95.45%, #8f5e65 100%);
+  background-image: linear-gradient(135deg, #3e7043 45.45%, #549c5b 45.45%, #549c5b 50%, #3e7043 50%, #3e7043 95.45%, #549c5b 95.45%, #549c5b 100%);
   background-size: 11.00px 11.00px;
   color: #fff;
 }
