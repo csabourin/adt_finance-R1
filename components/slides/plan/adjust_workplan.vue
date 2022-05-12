@@ -193,7 +193,7 @@
       {
         "1": "I need to add more staff.",
         "2": "I can leave the Resources section as is.",
-        "3": "I need to remove 1 employee under Resources."
+        "3": "I need to remove 1 employee Under Resources."
       },
       "feedback":
       {
