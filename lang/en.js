@@ -143,9 +143,9 @@ export default {
     line1: "Procurement",
     line2: "",
     name: "Commonly Used Procurement Instruments",
-    download: "Download the document on commonly used procurement instruments",
-    filename: "Commonly_Used_Procurement_Instruments.pdf",
-    HTMLFilename: "SpendCommonlyUsedProcurementInstruments_EN.html"
+    download: "Download the document on commonly Used Procurement Instruments",
+    filename: "Jobaid_ProcurementInstruments.pdf",
+    HTMLFilename: "Jobaid_ProcurementInstruments.html"
   },
   
   s32s34:{
