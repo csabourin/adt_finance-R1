@@ -157,7 +157,7 @@
           "pM2": "<li>Protect habitat</li><li>Place catching limits</li><li>Implement fishing seasons</li>",
           "pRes2": "<li>1 officer</li><li>2 analysts</li><li>1 junior officer</li>",
           "pA3": "Renew commercial fishing licences",
-          "pSA3": "<li>Review applicant renewal requests</li><li>Issue renewal licence</li>",
+          "pSA3": "<li>Review applicant renewal requests</li><li>Issue renewal licences</li>",
           "pD3": "<li>Issue licence renewal within 30 days of request</li><li>Issue 300 licence renewals per year </li>",
           "pRes3": "<li>1 officer</li><li>1 junior analyst</li>",
           "q1":
