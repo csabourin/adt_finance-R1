@@ -138,7 +138,7 @@ export default {
     name: "Le cycle financier du Government du Canada",
     download: "Télécharger le cycle financier du gouvernement du Canada",
     filename: "Cycle_financier.pdf",
-    HTMLFilename: "../financialCycle/fr.html"
+    HTMLFilename: "../FinancialCycle/fr.html"
   },
   
   procurementInstruments:{

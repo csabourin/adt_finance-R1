@@ -1,6 +1,6 @@
 <template>
   <p class="text-center">
-    <externalLink :link="'../jobaidHTML/' + $i18n.locale + '/' + filename" :title="title == '' ? $t('title') : title" :aria-label="title == '' ? $t('title') : title">{{$t('HTMLVersion')}}</externalLink>
+    <externalLink :link="'jobaidHTML/' + $i18n.locale + '/' + filename" :title="title == '' ? $t('title') : title" :aria-label="title == '' ? $t('title') : title">{{$t('HTMLVersion')}}</externalLink>
   </p>
 </template>
 
