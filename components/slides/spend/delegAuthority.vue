@@ -10,7 +10,7 @@
       <b-tabs content v-model="tabIndex">
         <b-tab title="Question 1"><radioQuiz :question="$t('q1')" qId="1"/></b-tab>
         <b-tab title="Question 2"><radioQuiz :question="$t('q2')" qId="2" /></b-tab>
-        <b-tab title="Question 3"><radioQuiz :question="$t('q3')" qId="3" :Answer="['3']"/></b-tab>
+        <b-tab title="Question 3"><radioQuiz :question="$t('q3')" qId="3" /></b-tab>
         <b-tab title="Question 4"><radioQuiz :question="$t('q4')" qId="4" /></b-tab>
       </b-tabs>
       <!-- Control buttons-->
@@ -104,10 +104,12 @@
         "4": "Deputy Head"
       },
       "feedback": {
-        "right": "<span class='v-right' /> <strong>Correct!</strong>",
-        "wrong": "<span class='v-wrong' /> <strong>Incorrect</strong>."
+        "1": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
+        "2": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
+        "3": "<span class='v-right' /> <strong>Correct!</strong>",
+        "4": "<span class='v-wrong' /> <strong>Incorrect</strong>."
       },
-      "conclusion": "<p>You would need to consult the Assistant Deputy Minister (<abbr>ADM</abbr>). Only the ADM has the authority to approve departmental costs for an event of more than $20,000, and up to $25,000. Don’t forget to consult with your Director and your Director General before approaching your ADM!</p><p>For more information on events, visit the <a href='https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27228'>Directive on Travel, Hospitality, Conference and Event Expenditures</a>.</p>"
+      "conclusion": "<p>You would need to consult the Assistant Deputy Minister (<abbr>ADM</abbr>). Only the ADM has the authority to approve departmental costs for an event of more than $20,000, and up to $25,000. Don’t forget to consult with your Director and your Director General before approaching your ADM!</p><p>For more information on events, visit the <a href='https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27228' target='blank'>Directive on Travel, Hospitality, Conference and Event Expenditures</a>.</p>"
     },
     "q4": {
       "text": "What does “F” or “Full” mean in the chart provided?",
@@ -166,8 +168,10 @@
         "4": "Administrateur général"
       },
       "feedback": {
-        "right": "<span class='v-right' /> <strong>Correct!</strong>",
-        "wrong": "<span class='v-wrong' /> <strong>Incorrect</strong>."
+        "1": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
+        "2": "<span class='v-wrong' /> <strong>Incorrect</strong>.",
+        "3": "<span class='v-right' /> <strong>Correct!</strong>",
+        "4": "<span class='v-wrong' /> <strong>Incorrect</strong>."
       },
       "conclusion": "<p>Vous devriez consulter le sous-ministre adjoint (<abbr>SMA</abbr>). Seul le <abbr>SMA</abbr> a le pouvoir d’approuver les coûts ministériels pour un événement de plus de 20&nbsp;000&nbsp;$ et jusqu’à 25&nbsp;000&nbsp;$. N’oubliez pas de consulter votre directeur et votre directeur général avant d’approcher votre <abbr>SMA</abbr>!</p><p>Pour plus d’information sur les événements, visiter la <a href='https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27228' target='_blank'>Directive sur les dépenses de voyages, d’accueil, de conférences et d’événements</a>.</p>"
     },

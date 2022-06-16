@@ -120,7 +120,7 @@
       <b-modal id="inRealLife" @hide="resumePlay()" size="xl" okOnly>
         <template v-slot:modal-header="{ close }">
           <h3 class="h5">
-            <img src="~/assets/ActivityIcon.svg" :alt="$t('pencilIcon')" width="32" height="32"> {{$t('inRealLifeTitle')}}
+            <img src="~/assets/InfoIcon.svg" :alt="$t('infoIcon')" width="32" height="32"> {{$t('inRealLifeTitle')}}
           </h3>
           <button type="button" aria-label="Close" class="close" @click="close()">×</button>
         </template>
@@ -244,7 +244,7 @@ export default {
   "en":{
   "externalGovtReports":"Activity: External Government Reports",
   "IdentifyResultsTitle":"Activity: Identify Results",
-  "inRealLifeTitle":"Activity: In Real Life",
+  "inRealLifeTitle":"In Real Life",
   "TakeTheQuiz":"Take the Quiz",
   "transcriptText":"",
   "reportSectionBar": "REPORT"
@@ -252,7 +252,7 @@ export default {
   "fr":{
   "externalGovtReports":"Activité : Rapports externes du gouvernement",
   "IdentifyResultsTitle":"Activité : Démontrer les résultats",
-  "inRealLifeTitle":"Activité : Dans la vraie vie",
+  "inRealLifeTitle":"Dans la vraie vie",
   "TakeTheQuiz":"Répondez au questionnaire",
   "transcriptText":"",
   "reportSectionBar": "RAPPORTS"

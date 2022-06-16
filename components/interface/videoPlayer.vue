@@ -161,14 +161,14 @@ export default {
       Captions: "",
       changeButton: false,
       popups: {
-        buildWP: {
-          references: [1],
-          infos: [0],
+        buildwp: {
+          references: [3],
+          infos: [0,1,2,7],
           quiz: [8]
         },
-        createBudget: {
+        createbudget: {
           references: [1],
-          infos: [0],
+          infos: [0,6],
           quiz: [7]
         },
         spendPart1: {
@@ -193,7 +193,7 @@ export default {
         },
         reportPart2: {
           references: [],
-          infos: [],
+          infos: [2],
           quiz: [3]
         }
       },
@@ -275,10 +275,10 @@ export default {
       var currentPage = path.substr(pos);
       
       switch(currentPage){
-        case "buildWP":
-          return this.popups.buildWP.references;
-        case "createBudget":
-          return this.popups.createBudget.references;
+        case "buildwp":
+          return this.popups.buildwp.references;
+        case "createbudget":
+          return this.popups.createbudget.references;
         case "spendPart1":
           return this.popups.spendPart1.references;
         case "spendPart2":
@@ -297,10 +297,10 @@ export default {
       var currentPage = path.substr(pos);
       
       switch(currentPage){
-      case "buildWP":
-          return this.popups.buildWP.infos;
-        case "createBudget":
-          return this.popups.createBudget.infos;
+      case "buildwp":
+          return this.popups.buildwp.infos;
+        case "createbudget":
+          return this.popups.createbudget.infos;
         case "spendPart1":
           return this.popups.spendPart1.infos;
         case "spendPart2":
@@ -319,10 +319,10 @@ export default {
       var currentPage = path.substr(pos);
       
       switch(currentPage){
-      case "buildWP":
-          return this.popups.buildWP.quiz;
-        case "createBudget":
-          return this.popups.createBudget.quiz;
+      case "buildwp":
+          return this.popups.buildwp.quiz;
+        case "createbudget":
+          return this.popups.createbudget.quiz;
         case "spendPart1":
           return this.popups.spendPart1.quiz;
         case "spendPart2":
