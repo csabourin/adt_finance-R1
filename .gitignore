@@ -89,3 +89,4 @@ sw.*
 
 # Scorm packages
 *G380_*.zip
+package-lock.json
