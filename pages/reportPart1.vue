@@ -19,37 +19,25 @@
                   <b-card-body>
                     <b-card-text>
                       <span v-if="$i18n.locale=='en'">
-                        <p><strong>[00:00:01 Title is shown onscreen.]</strong></p>
-                        <h2>Module 6. Prepare Financial Situation Reports</h2>
-                        <p><strong>[00:00:07 Title is shown onscreen.]</strong></p>
-                        <hr>
-
                         <h2>1. What Is a Financial Situation Report?</h2>
-                        <p><strong>Charlaine Lapointe: </strong>A financial situation report, or FSR, is a document that provides senior management with the most up-to-date financial picture and the best estimates of forecast spending. This document supports them in making informed decisions to properly address budget shortfalls or pressures and reallocate surpluses. Your department may have a different name for this report. Find out what it is.</p>
-                        <p><strong>[00:00:39 Text is shown onscreen that reads “Managerial Responsibilities”.]</strong></p>
+                        <p>A financial situation report, or FSR, is a document that provides senior management with the most up-to-date financial picture and the best estimates of forecast spending. This document supports them in making informed decisions to properly address budget shortfalls or pressures and reallocate surpluses. Your department may have a different name for this report. Find out what it is.</p>
                         <p>As a manager, you are expected to provide regular updates and forecasts for your responsibility centre throughout the year. You are also required to provide explanations on variances in order to provide accurate information and make sure the financial system is updated.</p>
                         <p>But don’t worry, you won’t be doing this alone! This is usually led by your organization’s Finance section at specific times in the year. They will provide support and send out instructions to provide templates, guidelines, links, due dates, etc. Work with your administrative staff to complete these tasks. </p>
                         <p>Let’s see what you already know about FSRs by doing a quick match-up game!</p>
-                        <p><strong>[00:01:17 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
-                        <p><strong>[00:01:21 A pop-up box with “Activity: What Is a Financial Situation Report?” appears onscreen.]</strong></p>
-                        <p><strong>[00:01:24 Title is shown onscreen.]</strong></p>
+                        <p>[Onscreen text showing the Try It! instruction for What is a Financial Situation Report? activity.]</p>
                         <hr>
-
                         <h2>2. Key Periods for Financial Situation Reports</h2>
                         <p>The fiscal year starts on April 1 and is divided, by month, into periods. P1 is April, P2 is May, P3 is June, and so forth.</p>
                         <p>Typically, key reporting periods are P6 (September), P9 (December), and a year-end report in P12 (March).</p>
                         <p>Because P6 (September) is midway through the year, it offers senior management a good picture of the organization's finances and allows them to make decisions that will influence year-end results. For example, they could decide to reallocate funds to different priorities.</p>
                         <p>P9 (December) is often the last opportunity to influence year-end results. Departments may ask managers to provide a forecast in P9 that is within a certain percentage of the year-end amount. The Treasury Board of Canada Secretariat uses data from the P9 report to inform the Department of Finance Canada of government-wide planned spending so that they have a holistic view.</p>
                         <p>Year-end data at P12 is used by your department to report their overall financial results. It also forms part of the Departmental Results Report, or DRR.</p>
-                        <p><strong>[00:02:46 A pop-up box with “Activity: Key Periods for Financial Situation Reports” appears onscreen.]</strong></p>
-                        <p><strong>[00:02:48 Title is shown onscreen.]</strong></p>
+                        <p>[A Key Periods for Financial Situation Reports activity pop-up text box appears.]</p>
                         <hr>
-
                         <h2>3. Financial Situation Report Activities</h2>
                         <p>The most important information you will need to provide in the FSR is your forecast. In other words, you’ll need to estimate the amount of money that you are going to spend to complete your activities before the end of the fiscal year.</p>
                         <p>You can request that your administrative professional pull a detailed financial report from the financial system with information on the budget, commitments and actual expenditures. You will compare this to the FSR.</p>
                         <p>Here are some of the things that you can do to get a good sense of where you’re at, which will allow you to make solid estimates for the rest of the year:</p>
-                        <p><strong>[00:03:29 Text is shown onscreen that reads “Ensuring Accuracy”.]</strong></p>
                         <ul>
                           <li>Ensure that salary forecasts are accurate and up to date.</li>
                           <li>Account for any incoming or outgoing funding.</li>
@@ -59,11 +47,8 @@
                           <li>Reconcile your acquisition card statement against commitments.</li>
                         </ul>
                         <p>Now, answer the following questions to the best of your abilities and let’s practise preparing a financial situation report! </p>
-                        <p><strong>[00:03:55 Text showing the “Try it!” instruction appears onscreen.] </strong></p>
-                        <p><strong>[00:04:02 A pop-up box with “Activity: Financial Situation Report Activities” appears onscreen.]</strong></p>
-                        <p><strong>[00:04:04 Title is shown onscreen.]</strong></p>
+                        <p>[Onscreen text showing the Try It! instruction for the Financial Situation Report Activities activity.]</p>
                         <hr>
-
                         <h2>4. Updating the Annual Forecast</h2>
                         <p>Another important task when completing your FSR is to review your salary and O&M forecasts. This will allow you to identify</p>
                         <ul>
@@ -72,11 +57,8 @@
                         </ul>
                         <p>You will have to explain the reasons for any variances and provide mitigation strategies for risks.</p>
                         <p>Let’s practise updating the Annual Forecast!</p>
-                        <p><strong>[00:04:32 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
-                        <p><strong>[00:04:34 A pop-up box with “Activity: Updating the Annual Forecast” appears onscreen.]</strong></p>
-                        <p><strong>[00:4:35 Text showing “You have completed this section” appears onscreen.]</strong></p>
+                        <p>[Onscreen text showing the Try It! instruction for the Updating the Annual Forecast activity.]</p>
                         <hr>
-
                         <h2>5. Section Completed</h2>
                         <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>

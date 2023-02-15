@@ -42,20 +42,12 @@
                         <p>* may not authorize sections 33 and 34 for the same transaction or invoice; a financial officer will perform section 33; <br />* may not authorize section 41 for a contract and section 34 related to the same contract; a procurement officer will perform section 41; <br />* may not authorize any transaction for which they may be perceived as having a personal benefit.</p>
                         <p>&nbsp;</p> -->
 
-                        <p><strong>[00:00:01 Title is shown onscreen.]</strong></p>
-                        <h2>Module 4: Exercise Financial Authority</h2>
-                        <p><strong>Charlaine Lapointe: </strong>In general, no invoice should be paid until all goods are received or services performed.</p>
-                        <p><strong>[00:00:13 Title is shown onscreen.]</strong></p>
-                        <hr>
-
                         <h2>1. Certification Authority</h2>
+                        <p>In general, no invoice should be paid until all goods are received or services performed.</p>
                         <p>Exercising your certification authority under section 34 of the <em>Financial Administration Act</em> essentially means that you pause to attest that the goods and services you received match the invoice.</p>
-                        <p>While other people on your team may be able to make that assessment, it is you, as the delegated manager, who bears the weight of the accountability.</p>
-                        <p><strong>[00:00:40 Text is shown onscreen that reads “Check for accuracy”.]</strong></p>
-                        <p>As such, you need to make sure that the invoice is accurate—and that the financial coding is also accurate.</p>
+                        <p>While other people on your team may be able to make that assessment, it is you, as the delegated manager, who bears the weight of the accountability. As such, you need to make sure that the invoice is accurate—and that the financial coding is also accurate.</p>
                         <p>Of course, you can only do this if you have the proper authority to make that assessment. So be sure to check that too!</p>
-                        <p><strong>[00:00:52 A pop-up box with “Activity: Certification Authority” appears onscreen.]</strong></p>
-                        <p><strong>[00:00:55 Title is shown onscreen.]</strong></p>
+                        <p>[A Certification Authority activity pop-up text box appears.]</p>
 
                         <hr>
 
@@ -70,23 +62,20 @@
                         </ul>
                         <p>You may need to go back to the supplier to correct the invoice before you can sign section 34.</p>
                         <p>Invoices must be paid within 30 days from the time the department receives the invoice to avoid interest charges.</p>
-                        <p><strong>[00:02:00 A pop-up box with “Activity: Accuracy of Invoice” appears onscreen.]</strong></p>
-                        <p><strong>[00:02:02 Title is shown onscreen.]</strong></p>
+                        <p>[An Accuracy of Invoice activity pop-up text box appears.]</p>
 
                         <hr>
 
                         <h2>3. Processing the Invoice</h2>
                         <p>Once the invoice is validated, the manager verifies the financial coding and approves section 34. This approval is done with a signature either on paper or electronically, depending on the practices of your department. </p>
                         <p>The approved invoice is then sent to the Finance unit, who will pay the invoice pursuant to section 33. </p>
-                        <p><strong>[00:02:27 Text is shown onscreen that reads “Restrictions”.]</strong></p>
                         <p>Keep in mind:</p>
                         <ul>
                           <li>You are not allowed to authorize sections 33 and 34 for the same transaction or invoice; a financial officer will perform section 33. </li>
                           <li>You are not allowed to authorize section 41 for a contract and section 34 related to the same contract; a procurement officer will perform section 41. </li>
                           <li>You are not allowed to authorize any transaction for which you may be perceived as having a personal benefit.</li>
                         </ul>
-                        <p><strong>[00:02:59 A pop-up box with “Activity: Processing the Invoice” appears onscreen.]</strong></p>
-                        <p><strong>[00:03:00 Text showing “You have completed this section” appears onscreen.]</strong></p>
+                        <p>[A Processing the Invoice activity pop-up text box appears.]</p>
                         <hr>
                         <h2>4. Section Completed</h2>
                         <p>[Onscreen text showing Section Completed instruction.]</p>

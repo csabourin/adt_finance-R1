@@ -19,18 +19,11 @@
                   <b-card-body>
                     <b-card-text>
                       <span v-if="$i18n.locale=='en'">
-                        <p><strong>[00:00:01 Title is shown onscreen.]</strong></p>
-                        <h2>Module 7.  Contribute to External Reporting</h2>
-                        <p><strong>[00:00:06 Title is shown onscreen.]</strong></p>
-                        <hr>
-                        
                         <h2>1. External Government Reports</h2>
-                        <p><strong>Charlaine Lapointe: </strong>The Government of Canada regularly publishes reports to keep Canadians informed on its spending and on the results it achieves using public funds.</p>
+                        <p>The Government of Canada regularly publishes reports to keep Canadians informed on its spending and on the results it achieves using public funds.</p>
                         <p>As a manager, it’s unlikely that you will be required to write these reports yourself. However, the work you do may be included in these reports. For example, you may be asked to report on how well your programs achieved their intended results. As such, you must continuously track your performance and results and compare them with what was planned.</p>
                         <p>Let’s do a quick activity to get more familiar with the terminology!</p>
-                        <p><strong>[00:00:42 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
-                        <p><strong>[00:00:45 A pop-up box with “Activity: External Government Reports” appears onscreen.]</strong></p>
-                        <p><strong>[00:00:48 Title is shown onscreen.]</strong></p>
+                        <p>[Onscreen text showing the Try It! instruction for the External Government Reports activity.]</p>
 
                         <hr>
                         <h2>2. Identify Results</h2>
@@ -38,15 +31,12 @@
                         <p>You need to demonstrate how your performance compares with what you set out in your work plan, and explain any variances. In most departments, your Planning or Finance section will reach out to you to request this information.</p>
                         <p>Demonstrating your performance means showing whether you met the indicators as set out in the PIPs, the performance information profiles. These identify more concretely each program’s core responsibility and results to be achieved. Some departments review performance information profiles throughout the year to see if the targets are on track or at risk of not being achieved.</p>
                         <p>In the next activity, you will have the opportunity to practise reporting on whether your targets were met.</p>
-                        <p><strong>[00:01:51 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
-                        <p><strong>[00:01:57 A pop-up box with “Activity: Identify Results” appears onscreen.]</strong></p>
-                        <p><strong>[00:01:59 Title is shown onscreen.]</strong></p>
+                        <p>[Onscreen text showing the Try It! instruction for the Identify Results activity.]</p>
 
                         <hr>
                         <h2>3. In Real Life</h2>
                         <p>Let’s take what you have learned into real life. Look up your organization’s performance information profiles and its external reports, such as the Departmental Results Report.</p>
                         <p>Your organization will have their own ways of doing financial situation reports, and reporting on spending and results. Talk to your Finance or Planning section and your director. Ask them:</p>
-                        <p><strong>[00:02:25 Text is shown onscreen that reads “Questions to Ask”.]</strong></p>
                         <ul>
                           <li>What do we call our financial situation reports, and what do they look like? Where can I find them?</li>
                           <li>How frequently do we prepare them?</li>
@@ -54,17 +44,13 @@
                           <li>What is my role? </li>
                           <li>And what information will I provide to feed into external reports?</li>
                         </ul>
-                        <p><strong>[00:02:46 An “In Real Life” pop-up box appears onscreen.</strong></p>
-                        <p><strong>[00:02:48 Title is shown onscreen.]</strong></p>
+                        <p>[An In Real Life pop-up text box appears.]</p>
                         
                         <hr>
                         <h2>4. Quiz</h2>
                         <p>Let’s try this quiz to see what you remember from the Report section. </p>
-                        <p><strong>[00:02:52 Text is shown onscreen that reads “Take the quiz”.]</strong></p>
-                        <p><strong>[00:02:53 A "Take the Quiz" pop-up window appears on the screen.]</strong></p>
-                        <p><strong>[00:02:56 Text showing “You have completed this section” appears onscreen.]</strong></p>
+                        <p>[Onscreen text showing the Take the Quiz! instruction for the Quiz activity.]</p>
                         <hr>
-
                         <h2>5. Section Completed</h2>
                         <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>

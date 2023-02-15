@@ -19,26 +19,20 @@
                   <b-card-body>
                     <b-card-text>
                       <span v-if="$i18n.locale=='en'">
-                        <p><strong>[00:00:00 Title is shown onscreen.]</strong></p>
-                        <h2>Module 3. Initiate Expenditures & Authorize Commitments</h2>
-                        <p><strong>Charlaine Lapointe: </strong>Now that you have your approved budget and are beginning to deliver on your work plan, let’s start spending money! </p>
-                        <p><strong>[00:00:12 Title is shown onscreen.]</strong></p>
-                        <hr>
 
                         <h2>1. Check Your Budget</h2>
+                        <p>Now that you have your approved budget and are beginning to deliver on your work plan, let’s start spending money! </p>
                         <p>But before initiating and committing any expenditures, you must verify that there are sufficient funds in your budget.</p>
                         <p>This means you need to review what has been spent or committed to date, along with any other planned expenditures.  </p>
                         <p>As the year progresses, you will most likely shuffle unused amounts within your budgeted items to find the funds that you need for expenditures. </p>
                         <p>Don’t forget! The format of your budget may differ from the one used here, depending on where you work.</p>
-                        <p><strong>[00:00:43 A pop-up box with “Activity: Check Your Budget” appears onscreen.]</strong></p>
-                        <p><strong>[00:00:46 Title is shown onscreen.]</strong></p>
+                        <p>[A Check Your Budget activity pop-up text box appears.]</p>
                         <hr>
 
                         <h2>2. Delegation of Authority</h2>
                         <p>Did you know that financial authorities are granted to ministers and deputy heads through the <em>Financial Administration Act</em>, the FAA?</p>
                         <p>These individuals then delegate authority to positions identified by title through their organization’s delegation of financial signing authorities chart. </p>
                         <p>To exercise your financial authority, you need to do the following three things: </p>
-                        <p><strong>[00:01:16 Text is shown onscreen that reads “Delegating Authority”.]</strong></p>
                         <ol>
                           <li>One, successfully complete this course. </li>
                           <li>Two, submit your signed delegation card to your Finance unit.</li>
@@ -50,8 +44,7 @@
                         <p>In certain situations, for example, temporary help services, you will need to go through a procurement process because it involves a contract. These situations are governed by section 41 of the FAA, and would typically be managed by the Procurement section in your organization.</p>
                         <p>To know what and how much you can authorize, consult your own signed delegation card and your organization’s delegation chart. </p>
                         <p>Again, the format of these documents will differ, depending on where you work.</p>
-                        <p><strong>[00:02:29 A pop-up box with “Activity: Delegation of Authority” appears onscreen.]</strong></p>
-                        <p><strong>[00:02:30 Title is shown onscreen.]</strong></p>
+                        <p>[A Delegation of Authority activity pop-up text box appears.]</p>
 
                         <hr>
 
@@ -59,9 +52,7 @@
                         <p>You have the money and you have the delegation. Great! </p>
                         <p>Now you need to determine the best way to get the goods and services in question. </p>
                         <p>The next activity will give you a chance to learn about spending mechanisms!</p>
-                        <p><strong>[00:02:41 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
-                        <p><strong>[00:02:46 A pop-up box with “Activity: Spending Mechanisms” appears onscreen.]</strong></p>
-                        <p><strong>[00:02:48 Title is shown onscreen.]</strong></p>
+                        <p>[Onscreen text showing the Try It! instruction for the Spending Mechanisms activity.]</p>
 
                         <hr>
 
@@ -80,19 +71,14 @@
                         </ul>
                         <p>The financial coding system allows you to better manage your financial transactions and speak to your budget at any moment throughout the year. </p>
                         <p>Managers often work with administrative professionals or financial officers for this task.</p>
-                        <p><strong>[00:04:08 A pop-up box with “Activity: Recording in the Financial System” appears onscreen.]</strong></p>
-                        <p><strong>[00:04:09 Title is shown onscreen]</strong></p>
+                        <p>[A Recording in the Financial System activity pop-up text box appears.]</p>
 
                         <hr>
 
                         <h2>5. Try It!</h2>
                         <p>To wrap up this section, let’s take a look at a practice scenario.</p>
-                        <p><strong>[00:04:16 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
-                        <p><strong>[00:04:17 A pop-up box with “Activity: Try it!” appears onscreen.]</strong></p>
-                        <p><strong>[00:04:17 Text showing “You have completed this section” appears onscreen.]</strong></p>
-
+                        <p>[Onscreen text showing the Try It! instruction for the activity.]</p>
                         <hr>
-
                         <h2>6. Section Completed</h2>
                         <p>[Onscreen text showing Section Completed instruction.] </p>
 
