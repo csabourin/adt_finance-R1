@@ -19,9 +19,15 @@
                   <b-card-body>
                     <b-card-text>
                       <span v-if="$i18n.locale=='en'">
+                        <p><strong>[00:00:00 Title is shown onscreen.]</strong></p>
+                        <h2>Module 5: Monitor and Control Finances</h2>
+                        <p><strong>[00:00:07 Title is shown onscreen.]</strong></p>
+                        <hr>
+
                         <h2>1. Continuous Monitoring</h2>
-                        <p>As a manager, you are responsible for ensuring that all commitments and expenditures are monitored throughout the year and that they are accurately recorded in the financial system.</p>
+                        <p><strong>Charlaine Lapointe: </strong>As a manager, you are responsible for ensuring that all commitments and expenditures are monitored throughout the year and that they are accurately recorded in the financial system.</p>
                         <p>This monitoring is both at a transactional level and at a strategic level. Depending on the situation, it may involve one or more of the following actions:</p>
+                        <p><strong>[00:00:31 Text is shown onscreen that reads “Possible Actions”.]</strong></p>
                         <ul>
                           <li>Closing commitments that are no longer required.</li>
                           <li>Amending contracts for scope, time, and amount.</li>
@@ -31,8 +37,11 @@
                           <li>And making expenditure adjustments.</li>
                         </ul>
                         <p>Let’s play with a few examples.</p>
-                        <p>[Onscreen text showing the Try It! instruction for the Continuous Monitoring activity.]</p>
+                        <p><strong>[00:00:59 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
+                        <p><strong>[00:01:01 A pop-up box with “Activity: Continuous Monitoring” appears onscreen.]</strong></p>
+                        <p><strong>[00:01:03 Title is shown onscreen.]</strong></p>
                         <hr>
+
                         <h2>2. Data Comparison</h2>
                         <p>Taking care of your budget is really important because the decisions you make within your budget may influence your sector, your branch, or even your department.</p>
                         <p>At the end of the fiscal year, you will need to justify any deficits or surpluses. Depending on your department, you may need to be within a certain percentage of your forecasts.</p>
@@ -41,8 +50,11 @@
                         <p>Monthly reports help you track your financials. They are sometimes called “financial situation reports” or FSRs and are usually produced by the Finance team within your organization.</p>
                         <p>What is in the FSR needs to match what is actually going on in your unit. If it doesn’t, then you need to take appropriate action to resolve the discrepancy. </p>
                         <p>In the next activity, you will have a chance to review and adjust your financial situation according to new information.</p>
-                        <p>[Onscreen text showing the Try It! instruction for the Data Comparison activity.]</p>
+                        <p><strong>[00:02:12 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
+                        <p><strong>[00:02:19 A pop-up box with “Activity: Data Comparison” appears onscreen.]</strong></p>
+                        <p><strong>[00:02:21 Title is shown onscreen.]</strong></p>
                         <hr>
+
                         <h2>3. Year-End Procedures</h2>
                         <p>Since most budgets are allocated by Parliament on an annual basis and must be used within the fiscal year, goods and services must be received on or before March 31.</p>
                         <p>However, you will most likely have a number of outstanding expenditures that you will not be able to pay before the end of the fiscal year for goods that are in your possession. To help with that, the Finance unit will establish Payables at Year-End or Receivables at Year-End in the financial system after receiving your list of outstanding payables.</p>
@@ -50,16 +62,20 @@
                         <p>An R-A-Y-E is an amount due from another department for goods and/or services delivered in the old fiscal year, for which receipt of payment will be in the new fiscal year.</p>
                         <p>Usually, again depending on the practices within your department—Finance will send out year-end instructions about how to establish a P-A-Y-E or an  R-A-Y-E. These instructions will also include specific requirements with respect to the minimum dollar amount and the timeline. </p>
                         <p>Contracts can be a bit tricky when we are close to the end of the fiscal year. Here are a couple of things to keep in mind:</p>
+                        <p><strong>[00:03:56 Text is shown onscreen that reads “Contracts at Year End”.]</strong></p>
                         <ol>
                           <li>Pay attention to the deadlines set by Procurement. You may not be able to create a purchase order as you approach year-end. </li>
                           <li>Follow up with suppliers to make sure that the goods or services will be delivered before year-end. If it’s not possible before March 31, the expenditures will have to be paid using new year funding. Talk to Procurement about possible steps. </li>
                         </ol>
-                        <p>[A Year-End Procedures activity pop-up text box appears.]</p>
+                        <p><strong>[00:04:23 A pop-up box with “Activity: Year-End Procedures” appears onscreen.]</strong></p>
+                        <p><strong>[00:04:25 Title is shown onscreen.]</strong></p>
                         <hr>
                         <h2>4. Quiz</h2>
                         <p>So now that you know how to initiate expenditures, authorize commitments, exercise financial authority and monitor and control finances, let’s see what you remember by taking this short quiz.</p>
-                        <p>[Onscreen text showing the Take the Quiz! instruction for the Quiz activity.]</p>
+                        <p><strong>[00:04:42 A “Take the Quiz” pop-up box appears onscreen.]</strong></p>
+                        <p><strong>[00:04:43 Text showing “You have completed this section” appears onscreen.]</strong></p>
                         <hr>
+
                         <h2>5. Section Completed</h2>
                         <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>
