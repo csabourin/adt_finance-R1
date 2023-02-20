@@ -80,9 +80,15 @@
                         <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>
                       <span v-if="$i18n.locale=='fr'">
+
+                        <p><strong>[00:00:00 : Un titre apparaît à l'écran.]</strong></p>
+                        <h2>Module 5. Surveillance et contrôle des finances</h2>
+                        <p><strong>[00:00:07 : Un titre apparaît à l'écran.]</strong></p>
+                        <hr>
                         <h2>1. Suivi continu </h2>
-                        <p>En tant que gestionnaire, vous avez la responsabilité de veiller à ce que les engagements et les dépenses soient suivis tout au long de l'année et qu’ils soient enregistrés avec exactitude dans le système financier.</p>
+                        <p><strong>Charlaine Lapointe :</strong>En tant que gestionnaire, vous avez la responsabilité de veiller à ce que les engagements et les dépenses soient suivis tout au long de l'année et qu’ils soient enregistrés avec exactitude dans le système financier.</p>
                         <p>Ce suivi se fait à la fois au niveau transactionnel et au niveau stratégique. Selon la situation, cela se traduit par l’une ou l’autre des actions suivantes :</p>
+                        <p><strong>[00:00:35 : Un texte apparaît à l'écran : Actions possibles.]</strong></p>
                         <ul>
                           <li>annuler les engagements qui ne sont plus nécessaires; </li>
                           <li>modifier les contrats en fonction de leur portée, de leur durée et des montants qui leur sont alloués;</li>
@@ -92,7 +98,9 @@
                           <li>et apporter des ajustements aux dépenses.</li>
                         </ul>
                         <p>Amusons-nous maintenant avec quelques exemples.</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Suivi continu.]</p>
+                        <p><strong>[00:01:06 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:01:07 : Une fenêtre contextuelle Activité : Suivi continu apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:01:09 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>2. Comparaison des données</h2>
                         <p>Il est essentiel de porter une attention particulière et soutenue à votre budget parce que les décisions que vous prenez peuvent avoir une incidence sur votre secteur, votre direction générale, ou même votre ministère. </p>
@@ -102,7 +110,9 @@
                         <p>Les rapports mensuels vous aident à suivre vos dépenses. On les appelle parfois « Rapports sur la situation financière » - ou RSF - et sont habituellement produits par l’unité des Finances de votre organisation. </p>
                         <p>Ce qui se trouve dans votre RSF doit refléter ce qui se passe dans votre unité. Si ce n’est pas le cas, vous devez faire un suivi afin de résoudre cet écart.</p>
                         <p>Dans l’activité suivante, vous aurez l’occasion de réviser et d’ajuster vos données financières selon les nouvelles informations. </p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Comparaison des données.]</p>
+                        <p><strong>[00:02:35 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:02:39 : Une fenêtre contextuelle Activité : Comparaison des données apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:02:41 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>3. Procédures de fin d’année</h2>
                         <p>Étant donné que la plupart des budgets sont établis par le Parlement chaque année et qu’ils doivent être utilisés au cours de l'exercice financier, les biens et services doivent être reçus au plus tard le 31 mars.</p>
@@ -111,15 +121,18 @@
                         <p>Un DAFE est un montant dû d’un autre ministère pour des biens ou des services fournis dans l’exercice financier précédent pour lesquels le paiement sera fait dans le nouvel exercice financier. </p>
                         <p>D’habitude, encore une fois selon les pratiques courantes dans votre ministère, vous recevrez des instructions de fin d'année pour l’établissement des CAFE et des DAFE. Ces instructions incluront aussi les critères quant au montant minimal exigé et à l'échéancier.</p>
                         <p>Lorsqu’on s’approche de la fin de l’exercice financier, les choses peuvent se compliquer un peu en ce qui a trait aux contrats. Voici deux choses à tenir à l’esprit.</p>
+                        <p><strong>[00:04:18 : Un texte apparaît à l'écran : Les contrats à la fin de l’exercice financier.]</strong></p>
                         <ol>
                           <li>Portez attention aux délais fixés par le service d’approvisionnement. Il se peut que vous ne puissiez pas créer de commande d'achat en fin d'année.</li>
                           <li>Faites un suivi auprès des fournisseurs pour vous assurer que les biens ou services seront livrés avant la fin de l'année. Si ce n'est pas possible avant le 31 mars, les dépenses devront être payées en utilisant les fonds de la nouvelle année. Discutez des étapes possibles avec Approvisionnement.</li>
                         </ol>
-                        <p>[Une fenêtre contextuelle Activité : Procédures de fin d’année apparaît.]</p>
+                        <p><strong>[00:04:44 : Une fenêtre contextuelle Activité : Procédures de fin d’année apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:04:45 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>4. Quiz</h2>
                         <p>Maintenant que vous savez comment engager et autoriser des dépenses, exercer des pouvoirs financiers, et surveiller et contrôler les finances, voyons ce dont vous vous souvenez en répondant à ce petit quiz!</p>
-                        <p>[Texte à l’écran indiquant l’instruction Répondez au quiz pour l’activité Quiz.]</p>
+                        <p><strong>[00:05:04 : Une fenêtre contextuelle Répondez au quiz apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:05:05 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
                         <hr>
                         <h2>5. Section complétée</h2>
                         <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>

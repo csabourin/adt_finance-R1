@@ -133,9 +133,12 @@
 
                       </span>
                       <span v-if="$i18n.locale=='fr'">
-                        <p>Dans cette leçon, vous apprendrez comment créer un budget conforme à votre plan de travail. Les gens qui le font depuis un certain temps vous diront que ces 2 choses — le plan de travail et le budget — se font souvent en même temps en une seule étape. Cependant, afin de vous aider à bien faire chacune de ces tâches, nous les avons séparées.</p> 
+                        <p><strong>[00:00:00 : Un titre apparaît à l'écran.] </strong></p>
+                        <h2>Module 2. Créer un budget</h2>
+                        <p><strong>Charlaine Lapointe : </strong>Dans cette leçon, vous apprendrez comment créer un budget conforme à votre plan de travail. Les gens qui le font depuis un certain temps vous diront que ces 2 choses — le plan de travail et le budget — se font souvent en même temps en une seule étape. Cependant, afin de vous aider à bien faire chacune de ces tâches, nous les avons séparées.</p> 
                         <p>La création du budget implique 3 tâches principales : analyser les informations disponibles, prévoir vos besoins budgétaires et soumettre votre budget proposé.</p>
-                        
+                        <p><strong>[00:00:40 : Un titre apparaît à l'écran.]</strong></p>
+                        <hr>
                         <h2>1. Introduction</h2>
                         <p>Dans cette leçon, vous apprendrez comment créer un budget conforme à votre plan de travail. Les gens qui le font depuis un certain temps vous diront que ces 2 choses — le plan de travail et le budget — se font souvent en même temps en une seule étape. Cependant, afin de vous aider à bien faire chacune de ces tâches, nous les avons séparées.</p>
                         <p>La création du budget implique 3 tâches principales : analyser les informations disponibles, prévoir vos besoins budgétaires et soumettre votre budget proposé.</p>
@@ -143,7 +146,8 @@
                         <p>Prévoir, c'est estimer les coûts et déterminer les coûts qui pourraient changer de façon significative au cours de l'exercice financier.</p>
                         <p>Une fois ces besoins budgétaires établis, vous soumettez votre proposition de budget à la haute direction. Il sera ensuite regroupé au niveau du ministère. Il se peut qu'on vous demande d'apporter des ajustements avant l'approbation finale.</p>
                         <p>Prêt à plonger dans chacune de ces étapes? Super! Mais juste avant, prenons un moment pour en savoir plus sur le fonctionnement du cycle financier du gouvernement afin que vous puissiez le relier à votre propre travail de gestionnaire.</p>
-                        <p>[Une fenêtre contextuelle Continuer au segment suivant apparaît.]</p>
+                        <p><strong>[00:01:44 : Une fenêtre contextuelle Continuer au segment suivant apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:01:45 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
@@ -161,26 +165,33 @@
                         <p>Vous dépensez l'argent dans votre budget tout au long de l'année. Cela finit par se retrouver, à un niveau élevé, dans les Comptes publics du Canada. </p>
                         <p>Vers la fin de l'année, on vous demande des renseignements sur les résultats obtenus par rapport aux activités prévues dans votre plan de travail. Cela fait partie du rapport ministériel sur les résultats de votre organisation. </p>
                         <p>Et d'ici là, vous commencez déjà votre plan de travail et les besoins budgétaires pour le prochain exercice financier.</p>
-                        <p>[Une fenêtre contextuelle Référence : Le cycle financier du Gouvernement du Canada apparaît.]</p>
+                        <p><strong>[00:04:41 : Une fenêtre contextuelle Référence : Le cycle financier du Gouvernement du Canada apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:04:42 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
 
                         <h2>3. Analyser un budget - Termes clés</h2>
                         <p>Maintenant que vous avez une meilleure idée du cycle financier du gouvernement du Canada et de la façon dont il est relié à votre travail de gestionnaire, revenons à notre processus d'analyse, de prévision et de présentation de budget. </p>
                         <p>Votre budget deviendra de plus en plus précis à force de le faire. Ne vous inquiétez pas, votre aptitude à faire des prévisions précises augmentera avec l'expérience. Vous y arriverez!</p>
                         <p>L'activité suivante vous permettra d'examiner les termes clés des budgets.</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Analyser un budget - Termes clés.]</p>
+                        <p><strong>[00:05:14 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:05:17 : Une fenêtre contextuelle Activité : Analyser un budget - Termes clés apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:05:18 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
                         <h2>4. Analyser l'information disponible</h2>
                         <p>Maintenant, vous connaissez les termes clés. Vous aurez l'occasion de créer votre budget proposé en utilisant l'information de l'année dernière et de cette année. Cliquez sur les points d'interrogation que vous verrez à l’écran et une question apparaîtra. Une fois que vous y aurez répondu, le chiffre exact apparaîtra dans le budget.</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Analyser l’information disponible.]</p>
+                        <p><strong>[00:05:26 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:05:44 : Une fenêtre contextuelle Activité : Analyser l’information disponible apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:05:45 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
                         <h2>5. Prévoyez vos besoins budgétaires</h2>
                         <p>Après avoir obtenu tous les renseignements que vous pouvez à partir des budgets de l'année dernière et de l'année en cours, vous constatez qu'il vous faut encore prévoir certains besoins budgétaires. Cliquez sur les points d'interrogation que vous voyez à l’écran et une question apparaîtra. Une fois que vous y aurez répondu, le chiffre correct apparaîtra dans le budget.</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Prévoir vos besoins budgétaires.]</p>
+                        <p><strong>[00:06:02 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:06:10 Une fenêtre contextuelle Activité Prévoir vos besoins budgétaires apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:06:12 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
@@ -190,6 +201,7 @@
                         <p>Si, au cours de la réunion, votre directeur vous demande d'ajuster votre budget, vous devrez peut-être aussi mettre à jour votre plan de travail. </p>
                         <p>Il se peut que vous n'ayez pas assez de budgets de F et E, mais vous constaterez que vous pourriez transférer ce montant de la rubrique Salaires à d'autres postes. Bien que cela se produise rarement, vous pouvez convertir certaines sommes des Salaires en F et E, ou vice versa. Vous devez simplement tenir compte du montant du Régime d'avantages sociaux des employés (RASE) dans vos calculs. Par exemple, certains ministères utilisent 27 % pour le RASE. Cela signifie que la somme de 100 000 $ en salaires équivaut à 127 000 $ en F et E. C'est l'inverse de la conversion du salaire en F et E. Parlez-en à votre conseiller en gestion financière si vous pensez que c'est quelque chose que vous devriez faire.</p>
                         <p>Vous pourriez avoir besoin d'autres sources de financement dans votre budget pour couvrir les priorités de votre plan de travail. Voici quelques autres exemples d'endroits où vous pouvez vous adresser :</p>
+                        <p><strong>[00:08:02 : Un texte apparaît à l'écran : Autres sources de financement.]</strong></p>
                         <ul>
                           <li>Obtenez de l'argent supplémentaire d'autres gestionnaires. </li>
                           <li>Utilisez un surplus inexploité que votre administrateur pourrait avoir. Selon le ministère, certaines réserves sont conservées au niveau du DG, du SMA ou du ministère.</li>
@@ -199,7 +211,9 @@
                         <p>Un mémoire au Cabinet est utilisé en tout temps de l'année par les ministres qui souhaitent consulter leurs collègues ministériels et prendre une décision du Cabinet. Pour plus d'informations, consultez la boîte à outils.</p>
                         <p>Au cas où vous vous demanderiez ce qu'est un règlement interministériel, il s'agit d'un transfert de sommes entre deux ministères ou organismes qui fonctionnent dans le cadre du Trésor. Par exemple, pensez aux tests linguistiques faits par la Commission de la fonction publique ou encore les services du Bureau de la traduction sous Services publics et Approvisionnements Canada. </p>
                         <p>L'activité qui suit vous permettra d'ajuster votre budget proposé. </p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Soumettre et ajuster votre budget.]</p>
+                        <p><strong>[00:09:29 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:09:33 Une fenêtre contextuelle Activité : Soumettre et ajuster votre budget apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:09:34 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
@@ -215,13 +229,16 @@
                           </ul></li>
                           <li>Et finalement, le budget d’immobilisations est-il géré de façon centralisée ou individuellement par chaque gestionnaire? </li>
                         </ul>
-                        <p>[Une fenêtre contextuelle Dans la vraie vie apparaît.]</p>
+                        <p><strong>[00:10:13 Une fenêtre contextuelle Dans la vraie vie apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:10:14 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
                         <h2>8. Quiz</h2>
                         <p>Nous sommes à la fin de la leçon sur la façon de créer un budget! Prenez maintenant quelques instants pour répondre aux questions suivantes afin de voir ce que vous avez retenu!</p>
-                        <p>[Texte à l’écran indiquant l’instruction Répondez au quiz pour l’activité Quiz.]</p>
+                        <p><strong>[00:10:23 : Texte indiquant l'instruction Répondez au quiz! apparaît à l’écran.] </strong></p>
+                        <p><strong>[00:10:29 : Une fenêtre contextuelle Répondez au quiz apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:10:30 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
                         <hr>
                         <h2>9. Section complétée</h2>
                         <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
