@@ -81,12 +81,19 @@
                         <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>
                       <span v-if="$i18n.locale=='fr'">
+                        <p><strong>[00:05:05 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
+                        <h2>Module 6. Préparer les rapports sur la situation financière</h2>
+                        <p><strong>[00:00:07 : Un titre apparaît à l'écran.]</strong></p>
+                        <hr>
                         <h2>1. Qu'est-ce qu'un rapport sur la situation financière?</h2>
-                        <p>Un rapport sur la situation financière - ou RSF - est un document qui fournit à la haute direction le portrait financier le plus récent et les meilleures estimations des dépenses prévues. Ce document l’aide à prendre des décisions éclairées pour faire face aux insuffisances ou aux pressions budgétaires et à réaffecter les excédents. Votre ministère peut avoir un nom différent pour ce rapport — renseignez-vous à ce sujet.</p>
+                        <p><strong>Charlaine Lapointe : </strong>Un rapport sur la situation financière - ou RSF - est un document qui fournit à la haute direction le portrait financier le plus récent et les meilleures estimations des dépenses prévues. Ce document l’aide à prendre des décisions éclairées pour faire face aux insuffisances ou aux pressions budgétaires et à réaffecter les excédents. Votre ministère peut avoir un nom différent pour ce rapport — renseignez-vous à ce sujet.</p>
+                        <p><strong>[00:00:39 : Texte indiquant Les responsabilités de gestion apparaît à l’écran.]</strong></p>
                         <p>En tant que gestionnaire, vous êtes tenu de fournir régulièrement des mises à jour et des prévisions de votre centre de responsabilité tout au long de l’année. Vous devez également fournir des explications sur les écarts afin de fournir des informations précises et vous assurer que le système financier est à jour.</p>
                         <p>Ne vous inquiétez pas, vous ne ferez pas cela tout seul! Généralement, la section des finances de votre organisation dirigera l’exercice à des moments précis de l’année. Elle vous offrira du soutien et vous enverra des instructions pour fournir des gabarits, des lignes directrices, des liens, des dates d’échéance, etc. Travaillez avec votre personnel administratif pour accomplir ces tâches.</p>
                         <p>Voyons ce que vous savez déjà sur les RSF en faisant un petit jeu d’association! </p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Qu’est-ce qu’un rapport sur la situation financière?]</p>
+                        <p><strong>[00:01:25 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:01:29 : Une fenêtre contextuelle Activité : Qu’est-ce qu’un rapport sur la situation financière? apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:01:30 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>2. Périodes clés pour les rapports sur la situation financière</h2>
                         <p>L'exercice financier commence le 1er avril et est divisé, par mois, en périodes. P1 est avril, P2 est mai, P3 est juin, et ainsi de suite.</p>
@@ -94,12 +101,14 @@
                         <p>Parce que P6 (septembre) est au milieu de l'année, il offre à la haute direction une bonne vue d’ensemble de la situation financière de l'organisation et lui permet de prendre des décisions qui influenceront les résultats de fin d'année. Par exemple, ils pourraient décider de réaffecter des fonds à différentes priorités.</p>
                         <p>P9 (décembre) est souvent la dernière occasion d'influencer les résultats de fin d'année. Les ministères peuvent demander aux gestionnaires de fournir une prévision en P9 qui se situe dans un certain pourcentage du montant de fin d'année. Le Secrétariat du Conseil du Trésor du Canada utilise les données du rapport P9 pour informer le ministère des Finances du Canada des dépenses prévues à l'échelle du gouvernement afin qu'il puisse avoir une vision globale.</p>
                         <p>Les données de fin d'exercice, à P12, sont utilisées par votre ministère pour présenter ses résultats financiers globaux. Il fait également partie du Rapport sur les résultats ministériels, ou RRM.</p>
-                        <p>[Une fenêtre contextuelle Activité : Périodes clés pour les rapports sur la situation financière apparaît.]</p>
+                        <p><strong>[00:03:02 : Une fenêtre contextuelle Activité : Périodes clés pour les rapports sur la situation financière apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:03:04 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>3. Activités pour le rapport sur la situation financière</h2>
                         <p>L'information la plus importante que vous devrez fournir dans le RSF est votre prévision budgétaire. En d'autres termes, vous devrez estimer le montant d'argent que vous allez dépenser pour terminer vos activités avant la fin de l'exercice financier.</p>
                         <p>Vous pouvez demander à votre professionnel de l'administration d'extraire du système financier un rapport financier détaillé contenant des informations sur le budget, les engagements et les dépenses réelles. Vous le comparerez au RSF.</p>
                         <p>Voici plusieurs choses que vous pouvez faire pour avoir une bonne idée de votre situation actuelle. Cela vous permettra de faire des estimations solides pour le reste de l'année.</p>
+                        <p><strong>[00:03:54 : Un texte apparaît à l'écran : Assurer la précision.]</strong></p>
                         <ul>
                           <li>Vérifier à ce que les prévisions salariales soient exactes et à jour.</li>
                           <li>Rendre compte de tout financement entrant ou sortant.</li>
@@ -109,7 +118,9 @@
                           <li>Et réconcilier votre relevé de carte d'achat avec vos engagements.</li>
                         </ul>
                         <p>Maintenant, répondez aux questions suivantes au mieux de votre capacité afin de vous exercer à préparer un rapport sur la situation financière!</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Activités pour le rapport sur la situation financière.]</p>
+                        <p><strong>[00:04:23 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:04:32 : Une fenêtre contextuelle Activités pour le rapport sur la situation financière apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:04:33 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>4. Mise à jour des prévisions annuelles</h2>
                         <p>Une autre tâche importante à faire lorsque vous remplissez votre RSF est d'examiner votre salaire et vos prévisions de F et E. Cela vous permettra d’identifier :</p>
@@ -119,7 +130,9 @@
                         </ul>
                         <p>Vous devrez expliquer les raisons de tout écart et fournir des stratégies d'atténuation des risques.</p>
                         <p>Pratiquons maintenant la mise à jour des prévisions annuelles!</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Mise à jour des prévisions annuelles.]</p>
+                        <p><strong>[00:05:06 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:05:10 : Une fenêtre contextuelle Activité : Mise à jour des prévisions annuelles apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:05:11 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
                         <hr>
                         <h2>5. Section complétée</h2>
                         <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>

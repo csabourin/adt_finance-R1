@@ -69,22 +69,32 @@
                         <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>
                       <span v-if="$i18n.locale=='fr'">
+
+                        <p><strong>[00:00:01 : Un titre apparaît à l'écran.]</strong></p>
+                        <h2>Module 7. Contribuer à l’établissement de rapports externes</h2>
+                        <p><strong>[00:00:06 : Un titre apparaît à l'écran.]</strong></p>
+                        <hr>
                         <h2>1. Rapports externes du gouvernement</h2>
-                        <p>Le gouvernement du Canada publie régulièrement des rapports pour tenir les Canadiens au courant de ses dépenses et des résultats qu’il a obtenus grâce aux fonds publics. </p>
+                        <p><strong>Charlaine Lapointe : </strong>Le gouvernement du Canada publie régulièrement des rapports pour tenir les Canadiens au courant de ses dépenses et des résultats qu’il a obtenus grâce aux fonds publics. </p>
                         <p>En tant que gestionnaire, il est peu probable que vous ayez à rédiger ces rapports vous-même. Cependant, le travail que vous faites peut être inclus dans ces rapports. Par exemple, on vous demandera peut-être d'indiquer dans quelle mesure vos programmes ont atteint les résultats visés à l’origine. Pour ce faire, vous devez effectuer un suivi continu de votre rendement et de vos résultats par rapport à ce qui avait été planifié.</p>
                         <p>Voici une petite activité pour vous familiariser avec la terminologie nécessaire!</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Rapports externes du gouvernement.]</p>
+                        <p><strong>[00:00:47 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:00:53 : Une fenêtre contextuelle Activité : Rapports externes du gouvernement apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:00:54 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>2. Démontrer les résultats</h2>
                         <p>La fin de l'exercice financier est le moment où la production de rapports ferme la boucle des plans de travail de l’organisation et permet de présenter, de manière globale, les résultats de l’année dans le Rapport sur les résultats ministériels. Comme l’exercice financier est un cycle, les résultats de l’an dernier permettront la planification de l’année qui vient.</p>
                         <p>Vous devrez faire état de votre rendement par rapport à ce qui avait été prévu dans votre plan de travail et justifier tout écart. Dans la plupart des ministères, la section de la Planification ou des Finances communiquera avec vous pour vous demander ces renseignements.</p>
                         <p>Démontrer votre rendement signifie démontrer si vous avez atteint les indicateurs établis dans le PIR -  les profils de l’information sur le rendement. Celles-ci déterminent de façon plus concrète la responsabilité fondamentale de chaque programme et les résultats à atteindre. Certains ministères examinent les profils de l'information sur le rendement tout au long de l'année pour voir si les chiffres cibles sont en bonne voie d’être atteints ou s’ils risquent de ne pas l’être</p>
                         <p>L’activité suivante vous permettra de vous exercer à rapporter si les objectifs ont été atteints.</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Démontrer les résultats.]</p>
+                        <p><strong>[00:02:12 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:02:15 : Une fenêtre contextuelle Activité : Démontrer les résultats apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:02:17 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>3. Dans la vraie vie</h2>
                         <p>Appliquons ce que vous avez appris dans la vraie vie. Cherchez les profils de l'information sur le rendement de votre organisation et ses rapports externes, comme le Rapport sur les résultats ministériels.</p>
                         <p>Votre organisation aura sa propre façon de produire des rapports sur la situation financière et de rendre compte de ses dépenses et de ses résultats. Parlez-en à votre section des Finances ou de la Planification et à votre directeur. Demandez-leur :</p>
+                        <p><strong>[00:02:50 : Un texte apparaît à l'écran : Questions à poser.]</strong></p>
                         <ul>
                           <li>Comment s’appellent nos rapports sur la situation financière et à quoi ressemblent-ils? À quel endroit puis-je les trouver?</li>
                           <li>À quelle fréquence préparons-nous des rapports sur la situation financière?</li>
@@ -92,11 +102,14 @@
                           <li>Quel est mon rôle?</li>
                           <li>Et quelles informations vais-je fournir pour alimenter les rapports externes?</li>
                         </ul>
-                        <p>[Une fenêtre contextuelle Dans la vraie vie apparaît.]</p>
+                        <p><strong>[00:03:15 : Une fenêtre contextuelle Dans la vraie vie apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:03:17 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>4. Quiz</h2>
                         <p>Essayez ce quiz pour voir ce dont vous vous souvenez dans la section Rapport!</p>
-                        <p>[Texte à l’écran indiquant l’instruction Répondez au quiz pour l’activité Quiz.]</p>
+                        <p><strong>[00:03:22 : Texte indiquant l'instruction Répondez au quiz! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:03:25 : Une fenêtre contextuelle Répondez au quiz apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:03:26 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
                         <hr>
                         <h2>5. Section complétée</h2>
                         <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>                       

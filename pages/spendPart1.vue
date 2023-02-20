@@ -98,14 +98,18 @@
 
                       </span>
                       <span v-if="$i18n.locale=='fr'">
-
+                        <p><strong>[00:00:00 : Un titre apparaît à l'écran.]</strong></p>
+                        <h2>Module 3. Engager et autoriser les dépenses</h2>
+                        <p><strong>Charlaine Lapointe : </strong>Maintenant que votre budget est approuvé et que vous avez commencé à mettre en œuvre votre plan de travail, vous pouvez commencer à dépenser!</p>
+                        <p><strong>[00:00:16 : Un titre apparaît à l'écran.]</strong></p>
+                        <hr>
                         <h2>1. Vérifiez votre budget</h2>
-                        <p>Maintenant que votre budget est approuvé et que vous avez commencé à mettre en œuvre votre plan de travail, vous pouvez commencer à dépenser!</p>
                         <p>Avant d’engager des dépenses, toutefois, vous devez vous assurer que les fonds disponibles dans votre budget sont suffisants.</p>
                         <p>Pour ce faire, vous devez examiner les dépenses qui ont été engagées, dépensées ou prévues. </p>
                         <p>Au fur et à mesure que l’année avance, vous devrez probablement ajuster votre budget à vos besoins en déplaçant des montants d’un poste budgétaire à un autre au sein même votre budget.</p>
                         <p>N’oubliez pas que le gabarit utilisé dans votre unité peut différer sensiblement de celui que nous vous présentons ici!</p>
-                        <p>[Une fenêtre contextuelle Activité : Vérifiez votre budget apparaît.]</p>
+                        <p><strong>[00:00:49 : Une fenêtre contextuelle Activité : Vérifiez votre budget apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:00:50 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
@@ -113,6 +117,7 @@
                         <p>Saviez-vous que c’est la <em>Loi sur la gestion des finances publiques</em> (LGFP) qui confère aux ministres et aux administrateurs généraux leurs pouvoirs financiers? </p>
                         <p>Par la suite, ces personnes délèguent, à leur tour, une partie de ces pouvoirs financiers à l’intérieur de leur organisation, par le biais d’un tableau de délégation des pouvoirs de signature en matière financière.</p>
                         <p>Pour exercer votre délégation financière, vous avez besoin de faire ces 3 choses :</p>
+                        <p><strong>[00:01:26 : Un texte apparaît à l'écran : La délégation des pouvoirs]</strong></p>
                         <ol>
                           <li>Réussir le présent cours</li>
                           <li>Soumettre votre carte de délégation signée à votre service des finances et</li>
@@ -124,7 +129,8 @@
                         <p>Dans certaines situations, par exemple des services d’aide temporaire, vous devrez passer par un processus d’approvisionnement parce que cela implique un contrat. Habituellement, ce serait au groupe d’Approvisionnement de votre organisation que reviendraient ces démarches, en vertu de l’article 41 de la <em>Loi sur la gestion des finances publiques</em>. </p>
                         <p>Pour savoir ce que vous pouvez engager, vous devez vous fier à votre carte de délégation signée ainsi qu’au tableau de délégation des pouvoirs de signature en matière financière dans votre organisation.</p>
                         <p>Encore une fois, le format de ces documents variera selon l’endroit où vous travaillez. </p>
-                        <p>[Une fenêtre contextuelle Activité : Délégation des pouvoirs apparaît.]</p>
+                        <p><strong>[00:02:55 : Une fenêtre contextuelle Activité : Délégation des pouvoirs apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:02:56 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
@@ -132,7 +138,10 @@
                         <p>Vous avez l’argent et vous avez la délégation. Super! </p>
                         <p>Maintenant, vous devez déterminer la meilleure façon d’obtenir les biens et services en question. </p>
                         <p>L’activité suivante vous donnera l’occasion de vous familiariser avec les mécanismes de dépense!</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Mécanismes de dépense.]</p>
+                        <p><strong>[00:03:10 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:03:15 : Une fenêtre contextuelle Activité : Mécanismes de dépense apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:03:16 : Un titre apparaît à l'écran.]</strong></p>
+
 
                         <hr>
 
@@ -151,13 +160,16 @@
                         </ul>
                         <p>Le système de codage financier vous permet de bien gérer vos opérations financières et de bien pouvoir répondre de votre budget à n’importe quel moment au cours de l’année. </p>
                         <p>Les gestionnaires travaillent souvent avec des professionnels de l'administration ou des agents financiers pour cette tâche.</p>
-                        <p>[Une fenêtre contextuelle Activité : Enregistrement dans le système financier apparaît.]</p>
+                        <p><strong>[00:04:47 : Une fenêtre contextuelle Activité : Enregistrement dans le système financier apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:04:48 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
                         <h2>5. Essayons-le!</h2>
                         <p>Afin de conclure cette section, prenons quelques instants pour appliquer le tout à un scénario fictif. </p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité.]</p>
+                        <p><strong>[00:04:52 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:04:56 : Une fenêtre contextuelle Activité : Essayons-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:04:57 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
 
                         <hr>
                         <h2>6. Section complétée</h2>

@@ -119,12 +119,19 @@
                         <li>vous ne pouvez autoriser aucune transaction pour laquelle vous pouvez &ecirc;tre per&ccedil;u comme ayant un avantage personnel.</li>
                         </ul> -->
 
+                      <p><strong>[00:00:00 : Un titre apparaît à l'écran.]</strong></p>
+                      <h2>Module 4. Exercez l’autorité financière</h2>
+                      <p><strong>Charlaine Lapointe :</strong> De manière générale, aucune facture ne doit être payée tant que les biens n’ont pas été reçus ou que les services n’ont été rendus.</p>
+                      <p><strong>[00:00:14 : Un titre apparaît à l'écran.]</strong></p>
+                      <hr>
                         <h2>1. Autorité de certification</h2>
-                        <p>De manière générale, aucune facture ne doit être payée tant que les biens n’ont pas été reçus ou que les services n’ont été rendus.</p>
                         <p>Exercer votre autorité de certification en vertu de l'article 34 sur la <em>Loi sur la gestion des finances publiques</em> (LGFP) signifie, essentiellement, que vous devez prendre un moment pour attester que les biens et services que vous avez reçus correspondent bien à la facture. </p>
-                        <p>Bien que d’autres personnes de votre équipe pourraient faire cette évaluation, c’est à vous, en tant que gestionnaire délégué que revient le poids de cette responsabilité. Vous devez donc vous assurer que la facture et le codage financier sont exacts. </p>
+                        <p>Bien que d’autres personnes de votre équipe pourraient faire cette évaluation, c’est à vous, en tant que gestionnaire délégué que revient le poids de cette responsabilité. </p>
+                        <p><strong>[00:00:45 : Un texte apparaît à l'écran : Assurez-vous qu’ils sont exacts.]</strong></p>
+                        <p> Vous devez donc vous assurer que la facture et le codage financier sont exacts. </p>
                         <p>Bien entendu, vous ne pouvez faire cette attestation que si vous avez bel et bien reçu la délégation pour le faire. Vérifiez que c’est bien le cas! </p>
-                        <p>[Une fenêtre contextuelle Activité : Autorité de certification apparaît.]</p>
+                        <p><strong>[00:01:00 : Une fenêtre contextuelle Activité : Autorité de certification apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:01:01 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
@@ -139,7 +146,8 @@
                         </ul>
                         <p>Il se peut que vous deviez retourner voir le fournisseur pour faire corriger la facture avant de signer l'article 34.</p>
                         <p>Les factures doivent être payées dans les 30 jours suivant la réception de la facture par le ministère afin d'éviter de payer des intérêts.</p>
-                        <p>[Une fenêtre contextuelle Activité : Exactitude de la facture apparaît.]</p>
+                        <p><strong>[00:02:20 : Une fenêtre contextuelle Activité : Exactitude de la facture apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:02:21 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
 
@@ -147,12 +155,14 @@
                         <p>Une fois la facture validée, le gestionnaire vérifie le codage financier et approuve l'article 34. L’approbation se fait soit sur papier ou encore par voie électronique, selon les pratiques habituelles dans votre ministère.</p>
                         <p>La facture approuvée est ensuite envoyée au service des finances qui paiera la facture, conformément à l'article 33. </p>
                         <p>Gardez à l'esprit les éléments suivants : </p>
+                        <p><strong>[00:02:47 : Un texte apparaît à l'écran : Les restrictions.]</strong></p>
                         <ul>
                           <li>vous ne pouvez pas autoriser les articles 33 et 34 pour la même transaction ou facture; un agent financier exécutera l'article 33; </li>
                           <li>vous ne pouvez pas autoriser l'application de l'article 41 pour un contrat et l'article 34 lié au même contrat; un agent d'approvisionnement exécutera l'article 41;</li>
                           <li>et vous ne pouvez autoriser aucune transaction pour laquelle vous pouvez être considéré comme profiter d’un avantage personnel.</li>
                         </ul>
-                        <p>[Une fenêtre contextuelle Activité : Traitement de la facture apparaît.]</p>
+                        <p><strong>[00:03:16 : Une fenêtre contextuelle Activité : Traitement de la facture apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:03:17 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
 
                         <hr>
                         <h2>4. Section complétée</h2>

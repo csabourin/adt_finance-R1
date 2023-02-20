@@ -156,7 +156,9 @@
                       </span>
                       <span v-if="$i18n.locale == 'fr'">
                         <h2>Introduction</h2>
-                        <p>Dans la présente section, vous apprendrez ce qui suit&nbsp;:</p>
+                        <p><strong>[00:00:00 : Un titre apparaît à l'écran.]</strong></p>
+                        <h2>Module 1: Élaborer un plan de travail</h2>
+                        <p><strong>Charlaine Lapointe : </strong>Dans la présente section, vous apprendrez ce qui suit&nbsp;:</p>
                         <ul>
                           <li>interpréter un plan de travail; </li>
                           <li>effectuer un aperçu à 360 degrés;</li>
@@ -164,48 +166,51 @@
                           <li>ajuster un plan de travail en fonction des nouveaux renseignements.</li>
                         </ul>
                         <p>Il vous faudra environ 20 minutes pour compléter cette section.</p>
+                        <p><strong>[00:00:28 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>1. Le but d’un plan de travail</h2>
-                        <p>Un <strong>plan de travail</strong> est un document évolutif dans lequel vous définissez et
+                        <p>Un plan de travail est un document évolutif dans lequel vous définissez et
                           priorisez les activités de votre unité. Considérez-le comme une liste de choses à faire pour
                           l'année à venir. Il vous aide à communiquer la façon dont vous avez l’intention
-                          <strong>d’affecter vos ressources et de fixer vos échéances</strong>. C'est la pierre
+                          d’affecter vos ressources et de fixer vos échéances. C'est la pierre
                           angulaire de votre processus de planification, car elle soutient votre budget et vos activités
                           de production de rapports.
                         </p>
-                        <p>D'habitude, on ne part pas de rien. Vous examinez simplement le <strong>plan de travail, le
+                        <p>D'habitude, on ne part pas de rien. Vous examinez simplement le plan de travail, le
                             budget et les rapports de l'année dernière pour déterminer ce qui doit être conservé, ajouté
-                            ou supprimé pour la nouvelle année</strong>.</p>
+                            ou supprimé pour la nouvelle année.</p>
                         <p>Mais avant même d'élaborer votre plan de travail, prenons un instant pour sortir de notre
                           rôle de gestionnaire afin de regarder la situation dans son ensemble.</p>
-                        <p>[Une fenêtre contextuelle Continuer au segment suivant apparaît.]</p>
+                        <p><strong>[00:01:21 : Une fenêtre contextuelle Passer au segment suivant apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:01:22 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>2. Aligner votre plan de travail sur les priorités du gouvernement</h2>
                         <p>Tout commence avec le discours du Trône dans lequel on énonce les priorités du gouvernement.
                         </p>
                         <p>Ces priorités se rendront jusqu'à vous en tant que gestionnaire et devront se refléter dans
                           votre plan de travail.</p>
-                        <p>Après le discours du Trône, le premier ministre adresse une <strong>lettre de mandat</strong>
+                        <p>Après le discours du Trône, le premier ministre adresse une lettre de mandat
                           au ministre de chaque ministère.</p>
-                        <p>Dans cette lettre, le premier ministre y énonce ses <strong>attentes globales</strong> et ses
-                          <strong>objectifs stratégiques</strong>.
+                        <p>Dans cette lettre, le premier ministre y énonce ses attentes globales et ses
+                          objectifs stratégiques.
                         </p>
-                        <p>Chaque année, le <strong>budget fédéral</strong> établit le programme économique du Canada
+                        <p>Chaque année, le budget fédéral établit le programme économique du Canada
                           pour la prochaine année. Les ministères vont se voir attribuer des priorités et des objectifs
                           qui s'aligneront sur ce programme en plus de leurs mandats de base. </p>
                         <p>Les responsabilités essentielles, les résultats, les indicateurs de rendement et le
-                          répertoire de programmes de l'organisation sont décrits dans le <strong>Cadre ministériel des
-                            résultats - ou le CMR</strong>.</p>
-                        <p>Ensuite, il y a le <strong>Plan ministériel</strong>, qui décrit, entre autres, les plans de
+                          répertoire de programmes de l'organisation sont décrits dans le Cadre ministériel des
+                            résultats - ou le CMR.</p>
+                        <p>Ensuite, il y a le Plan ministériel, qui décrit, entre autres, les plans de
                           dépenses d’une organisation pour l'année à venir. Il comprend plus en détail les éléments du
                           CMR, les résultats escomptés et les besoins connexes en ressources, pour une période de 3 ans.
                         </p>
-                        <p>Ensuite, vous pouvez avoir des plans par <strong>secteur</strong>, par <strong>direction
-                            générale</strong> et par <strong>direction</strong>.</p>
+                        <p>Ensuite, vous pouvez avoir des plans par secteur, par direction
+                            générale et par direction.</p>
                         <p>C'est là qu'intervient votre plan de travail! Vous construisez votre plan de travail autour
                           des activités dont vous êtes responsables au sein de votre unité et cela se rattache
                           naturellement au Plan ministériel et le CMR.</p>
-                        <p>[Une fenêtre contextuelle Référence : Liens externes apparaît.]</p>
+                        <p><strong>[00:02:57 : Une fenêtre contextuelle Référence : Liens externes apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:02:58 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>3. Parties d’un plan de travail</h2>
                         <p>À ce stade, vous vous demandez peut-être à quoi ressemble un plan de travail. Toutes les
@@ -214,19 +219,20 @@
                           bureau. Voici une structure de plan de travail typique. Jetez-y un coup d'œil! Aussi, regardez
                           dans la section Fichiers, en haut à droite, pour trouver des exemples de plans de travail.</p>
                         <p>Prenez un moment pour explorer les différentes sections du plan de travail.</p>
-                        <p>[Texte à l’écran indiquant l'instruction Essayez-le! pour l’activité Parties d’un plan de
-                          travail.]</p>
+                        <p><strong>[00:03:18 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:03:33 : Une fenêtre contextuelle Activité : Parties d’un plan de travail apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>4. Effectuer un aperçu à 360 degrés</h2>
-                        <p>Pour élaborer un plan de travail, il est utile de comprendre le <strong>contexte historique
-                            et culturel</strong> de votre unité en vous posant une série de questions. C'est ce que nous
+                        <p>Pour élaborer un plan de travail, il est utile de comprendre le contexte historique
+                            et culturel de votre unité en vous posant une série de questions. C'est ce que nous
                           appellerons l’aperçu à 360 degrés.</p>
                         <p>Voici un exemple fictif du plan de travail, du budget et du rapport de l'an dernier. Essayez
                           d'appliquer les questions du document Aperçu à 360 degrés à cet exemple fictif.</p>
                         <p>Vous pouvez accéder au document d’aperçu à 360 degrés, à tout moment à partir de l'icône
                           Fichier en haut à droite.</p>
-                        <p>[Texte à l’écran indiquant l’instruction Essayez-le! pour l’activité Aperçu à 360 degrés.]
-                        </p>
+                        <p><strong>[00:03:54 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:04:12 : Une fenêtre contextuelle Activité : Préparer un plan de travail apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:04:13 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>5. Préparer un plan de travail</h2>
                         <p>À ce stade-ci, vous devriez comprendre le contexte, tant historique que culturel, et être en
@@ -236,15 +242,17 @@
                           des permis.</p>
                         <p>Choisissez la meilleure option pour chaque section de ce plan de travail en utilisant les
                           menus déroulants.</p>
-                        <p>[Texte à l’écran indiquant l’instruction Essayez-le! pour l’activité Préparer un plan de
-                          travail.]</p>
+                        <p><strong>[00:04:38 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:04:44 : Une fenêtre contextuelle Activité : Préparer un plan de travail apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:04:45 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>6. Compléter le plan de travail</h2>
-                        <p>Pour vous aider à remplir les autres sections du plan de travail, continuons avec le même
+                        <p>Pour vous aider à remplir les> autres sections du plan de travail, continuons avec le même
                           scénario. En regardant votre brouillon, vous remarquez que certains items ont été placés au
                           mauvais endroit ou sont manquants. Mettez à jour votre brouillon en conséquence.</p>
-                        <p>[Texte à l’écran indiquant l’instruction Essayez-le pour l’activité Compléter le plan de
-                          travail.]</p>
+                        <p><strong>[00:05:02 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:05:03 : Une fenêtre contextuelle Activité : Compléter le plan de travail apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:05:04 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>7. Ajuster le plan de travail</h2>
                         <p>Votre directeur vous dit qu'il a participé à une réunion du comité directeur et qu'il dispose
@@ -256,19 +264,23 @@
                             non plus en 30 jours, à compter du 1er novembre;</li>
                           <li>une décision de ne pas remplacer un employé qui prend sa retraite.</li>
                         </ol>
-                        <p>[Une fenêtre contextuelle Activité : Ajuster le plan de travail apparaît.]</p>
+                        <p><strong>[00:05:39 Une fenêtre contextuelle Activité : Ajuster le plan de travail apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:05:40 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>8. Dans la vraie vie</h2>
                         <p>Appliquez maintenant ce que vous avez appris - dans la vraie vie! Votre organisation aura sa
                           propre façon de faire les choses. Prenez le temps de consulter votre intranet pour voir quels
                           modèles sont utilisés. Communiquez avec vos collègues, votre directeur ou votre agent
                           financier pour discuter de plans de travail.</p>
-                        <p>[Une fenêtre contextuelle Dans la vraie vie apparaît.]</p>
+                        <p><strong>[00:06:02 : Une fenêtre contextuelle Dans la vraie vie apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:06:03 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>9. Quiz</h2>
                         <p>Maintenant que vous savez comment examiner, préparer et ajuster un plan de travail, voyons ce
-                          dont vous vous souvenez <strong>en répondant à ce petit quiz</strong>.</p>
-                        <p>[Texte à l’écran indiquant l’instruction Répondez au quiz pour l’activité Quiz.]</p>
+                          dont vous vous souvenez en répondant à ce petit quiz.</p>
+                        <p><strong>[00:06:14 : Texte indiquant l'instruction Répondez au quiz! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:06:15 : Une fenêtre contextuelle Répondez au quiz apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:06:18 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
                         <hr>
                         <h2>10. Section complétée</h2>
                         <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
