@@ -86,7 +86,7 @@
                         <p><strong>[00:00:07 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>1. Suivi continu </h2>
-                        <p><strong>Charlaine Lapointe :</strong>En tant que gestionnaire, vous avez la responsabilité de veiller à ce que les engagements et les dépenses soient suivis tout au long de l'année et qu’ils soient enregistrés avec exactitude dans le système financier.</p>
+                        <p><strong>Charlaine Lapointe : </strong>En tant que gestionnaire, vous avez la responsabilité de veiller à ce que les engagements et les dépenses soient suivis tout au long de l'année et qu’ils soient enregistrés avec exactitude dans le système financier.</p>
                         <p>Ce suivi se fait à la fois au niveau transactionnel et au niveau stratégique. Selon la situation, cela se traduit par l’une ou l’autre des actions suivantes :</p>
                         <p><strong>[00:00:35 : Un texte apparaît à l'écran : Actions possibles.]</strong></p>
                         <ul>
