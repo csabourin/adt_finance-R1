@@ -157,7 +157,7 @@
                       <span v-if="$i18n.locale == 'fr'">
                         <h2>Introduction</h2>
                         <p><strong>[00:00:00 : Un titre apparaît à l'écran.]</strong></p>
-                        <h2>Module 1: Élaborer un plan de travail</h2>
+                        <h2>Module 1 : Élaborer un plan de travail</h2>
                         <p><strong>Charlaine Lapointe : </strong>Dans la présente section, vous apprendrez ce qui suit&nbsp;:</p>
                         <ul>
                           <li>interpréter un plan de travail; </li>
@@ -212,7 +212,7 @@
                         <p><strong>[00:02:57 : Une fenêtre contextuelle Référence : Liens externes apparaît à l'écran.]</strong></p>
                         <p><strong>[00:02:58 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
-                        <h2>3. Parties d’un plan de travail</h2>
+                        <h2>3. Les parties d’un plan de travail</h2>
                         <p>À ce stade, vous vous demandez peut-être à quoi ressemble un plan de travail. Toutes les
                           unités n'utilisent pas le même modèle. En parlant à vos collègues et aux gens de la
                           planification d'entreprise et des finances, vous pouvez savoir lequel est utilisé dans votre
@@ -221,6 +221,7 @@
                         <p>Prenez un moment pour explorer les différentes sections du plan de travail.</p>
                         <p><strong>[00:03:18 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
                         <p><strong>[00:03:33 : Une fenêtre contextuelle Activité : Parties d’un plan de travail apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:03:34 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>4. Effectuer un aperçu à 360 degrés</h2>
                         <p>Pour élaborer un plan de travail, il est utile de comprendre le contexte historique

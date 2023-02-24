@@ -169,7 +169,7 @@
                         <p><strong>[00:04:42 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
 
-                        <h2>3. Analyser un budget - Termes clés</h2>
+                        <h2>3. Analyser un budget: Termes clés</h2>
                         <p>Maintenant que vous avez une meilleure idée du cycle financier du gouvernement du Canada et de la façon dont il est relié à votre travail de gestionnaire, revenons à notre processus d'analyse, de prévision et de présentation de budget. </p>
                         <p>Votre budget deviendra de plus en plus précis à force de le faire. Ne vous inquiétez pas, votre aptitude à faire des prévisions précises augmentera avec l'expérience. Vous y arriverez!</p>
                         <p>L'activité suivante vous permettra d'examiner les termes clés des budgets.</p>

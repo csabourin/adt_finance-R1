@@ -165,7 +165,7 @@
 
                         <hr>
 
-                        <h2>5. Essayons-le!</h2>
+                        <h2>5. Essayez-le</h2>
                         <p>Afin de conclure cette section, prenons quelques instants pour appliquer le tout à un scénario fictif. </p>
                         <p><strong>[00:04:52 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
                         <p><strong>[00:04:56 : Une fenêtre contextuelle Activité : Essayons-le! apparaît à l’écran.]</strong></p>

@@ -104,7 +104,7 @@
                         <p><strong>[00:03:02 : Une fenêtre contextuelle Activité : Périodes clés pour les rapports sur la situation financière apparaît à l'écran.]</strong></p>
                         <p><strong>[00:03:04 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
-                        <h2>3. Activités pour le rapport sur la situation financière</h2>
+                        <h2>3. Activités liées au rapport sur la situation financière</h2>
                         <p>L'information la plus importante que vous devrez fournir dans le RSF est votre prévision budgétaire. En d'autres termes, vous devrez estimer le montant d'argent que vous allez dépenser pour terminer vos activités avant la fin de l'exercice financier.</p>
                         <p>Vous pouvez demander à votre professionnel de l'administration d'extraire du système financier un rapport financier détaillé contenant des informations sur le budget, les engagements et les dépenses réelles. Vous le comparerez au RSF.</p>
                         <p>Voici plusieurs choses que vous pouvez faire pour avoir une bonne idée de votre situation actuelle. Cela vous permettra de faire des estimations solides pour le reste de l'année.</p>
