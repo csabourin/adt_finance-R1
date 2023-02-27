@@ -115,10 +115,10 @@
                         <p>To help you wrap your mind around how to fill the other sections of the work plan, let’s
                           continue with the same scenario. Looking at your draft, you’ll notice that some items have
                           been dropped into the wrong location or may be missing. Update your draft accordingly.</p>
-                        <p><strong>[00:04:20 Text showing the “Try it!” instruction appears onscreen.]</strong>></p>
+                        <p><strong>[00:04:20 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
                         <p><strong>[00:04:22 An “Activity: Complete the work plan” pop-up text box appears
-                            onscreen.]</strong>></p>
-                        <p><strong>[00:04:25 Title is shown onscreen.]</strong>></p>
+                            onscreen.]</strong></p>
+                        <p><strong>[00:04:25 Title is shown onscreen.]</strong></p>
                         <hr>
                         <h2>7. Adjust the Work Plan </h2>
                         <p>Alright. Your director tells you that they’ve been to a steering committee meeting and that
@@ -130,7 +130,7 @@
                             starting on November first and</li>
                           <li>there’s been a decision to not replace a retiring employee.</li>
                         </ol>
-                        <p><strong>[00:04:59 An “Activity: Adjust the Work Plan” pop-up text box appears.]</strong>></p>
+                        <p><strong>[00:04:59 An “Activity: Adjust the Work Plan” pop-up text box appears.]</strong></p>
                         <p><strong>[00:05:01 Title is shown onscreen.]</strong></p>
                         <hr>
                         <h2>8. In Real Life</h2>
@@ -138,15 +138,15 @@
                           doing things. Take a time out now from the course to scan your intranet and see which
                           templates are used. Connect with your colleagues, your director, your financial officer to
                           have a chat about work plans.</p>
-                        <p><strong>[00:05:21 An “In Real Life” pop-up text box appears onscreen.]</strong>></p>
-                        <p><strong>[00:05:22 Title is shown onscreen.]</strong>></p>
+                        <p><strong>[00:05:21 An “In Real Life” pop-up text box appears onscreen.]</strong></p>
+                        <p><strong>[00:05:22 Title is shown onscreen.]</strong></p>
                         <hr>
                         <h2>9. Quiz</h2>
                         <p>So now that you know how to examine, prepare and adjust a work plan, let’s see what you
                           remember by taking this short quiz.</p>
-                        <p><strong>[00:05:29 Text showing the “Take the Quiz!” instruction appears onscreen.]</strong>></p>
-                        <p><strong>[00:05:30 A “Take the quiz” pop-up text box appears onscreen.]</strong>></p>
-                        <p><strong>[00:05:32 Text showing “You have completed this section” appears onscreen.]</strong>></p>
+                        <p><strong>[00:05:29 Text showing the “Take the Quiz!” instruction appears onscreen.]</strong></p>
+                        <p><strong>[00:05:30 A “Take the quiz” pop-up text box appears onscreen.]</strong></p>
+                        <p><strong>[00:05:32 Text showing “You have completed this section” appears onscreen.]</strong></p>
                         <hr>
                         <h2>10. Section Completed</h2>
                         <p>[Onscreen text showing Section Completed instruction.]</p>

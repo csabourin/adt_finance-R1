@@ -54,7 +54,7 @@
                           <li>What is my role? </li>
                           <li>And what information will I provide to feed into external reports?</li>
                         </ul>
-                        <p><strong>[00:02:46 An “In Real Life” pop-up box appears onscreen.</strong></p>
+                        <p><strong>[00:02:46 An “In Real Life” pop-up box appears onscreen.]</strong></p>
                         <p><strong>[00:02:48 Title is shown onscreen.]</strong></p>
                         
                         <hr>
