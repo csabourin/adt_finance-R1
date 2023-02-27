@@ -265,7 +265,7 @@
                             non plus en 30 jours, à compter du 1er novembre;</li>
                           <li>une décision de ne pas remplacer un employé qui prend sa retraite.</li>
                         </ol>
-                        <p><strong>[00:05:39 Une fenêtre contextuelle Activité : Ajuster le plan de travail apparaît à l'écran.]</strong></p>
+                        <p><strong>[00:05:39 : Une fenêtre contextuelle Activité : Ajuster le plan de travail apparaît à l'écran.]</strong></p>
                         <p><strong>[00:05:40 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
                         <h2>8. Dans la vraie vie</h2>

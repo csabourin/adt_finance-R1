@@ -138,7 +138,7 @@
                         <p>Vous avez l’argent et vous avez la délégation. Super! </p>
                         <p>Maintenant, vous devez déterminer la meilleure façon d’obtenir les biens et services en question. </p>
                         <p>L’activité suivante vous donnera l’occasion de vous familiariser avec les mécanismes de dépense!</p>
-                        <p><strong>[00:03:10 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:03:10 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
                         <p><strong>[00:03:15 : Une fenêtre contextuelle Activité : Mécanismes de dépense apparaît à l’écran.]</strong></p>
                         <p><strong>[00:03:16 : Un titre apparaît à l'écran.]</strong></p>
 

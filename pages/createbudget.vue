@@ -173,7 +173,7 @@
                         <p>Maintenant que vous avez une meilleure idée du cycle financier du gouvernement du Canada et de la façon dont il est relié à votre travail de gestionnaire, revenons à notre processus d'analyse, de prévision et de présentation de budget. </p>
                         <p>Votre budget deviendra de plus en plus précis à force de le faire. Ne vous inquiétez pas, votre aptitude à faire des prévisions précises augmentera avec l'expérience. Vous y arriverez!</p>
                         <p>L'activité suivante vous permettra d'examiner les termes clés des budgets.</p>
-                        <p><strong>[00:05:14 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:05:14 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
                         <p><strong>[00:05:17 : Une fenêtre contextuelle Activité : Analyser un budget - Termes clés apparaît à l’écran.]</strong></p>
                         <p><strong>[00:05:18 : Un titre apparaît à l'écran.]</strong></p>
 
@@ -181,7 +181,7 @@
 
                         <h2>4. Analyser l'information disponible</h2>
                         <p>Maintenant, vous connaissez les termes clés. Vous aurez l'occasion de créer votre budget proposé en utilisant l'information de l'année dernière et de cette année. Cliquez sur les points d'interrogation que vous verrez à l’écran et une question apparaîtra. Une fois que vous y aurez répondu, le chiffre exact apparaîtra dans le budget.</p>
-                        <p><strong>[00:05:26 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:05:26 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
                         <p><strong>[00:05:44 : Une fenêtre contextuelle Activité : Analyser l’information disponible apparaît à l’écran.]</strong></p>
                         <p><strong>[00:05:45 : Un titre apparaît à l'écran.]</strong></p>
 
@@ -189,8 +189,8 @@
 
                         <h2>5. Prévoyez vos besoins budgétaires</h2>
                         <p>Après avoir obtenu tous les renseignements que vous pouvez à partir des budgets de l'année dernière et de l'année en cours, vous constatez qu'il vous faut encore prévoir certains besoins budgétaires. Cliquez sur les points d'interrogation que vous voyez à l’écran et une question apparaîtra. Une fois que vous y aurez répondu, le chiffre correct apparaîtra dans le budget.</p>
-                        <p><strong>[00:06:02 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
-                        <p><strong>[00:06:10 Une fenêtre contextuelle Activité Prévoir vos besoins budgétaires apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:06:02 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:06:10 : Une fenêtre contextuelle Activité Prévoir vos besoins budgétaires apparaît à l’écran.]</strong></p>
                         <p><strong>[00:06:12 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
@@ -211,8 +211,8 @@
                         <p>Un mémoire au Cabinet est utilisé en tout temps de l'année par les ministres qui souhaitent consulter leurs collègues ministériels et prendre une décision du Cabinet. Pour plus d'informations, consultez la boîte à outils.</p>
                         <p>Au cas où vous vous demanderiez ce qu'est un règlement interministériel, il s'agit d'un transfert de sommes entre deux ministères ou organismes qui fonctionnent dans le cadre du Trésor. Par exemple, pensez aux tests linguistiques faits par la Commission de la fonction publique ou encore les services du Bureau de la traduction sous Services publics et Approvisionnements Canada. </p>
                         <p>L'activité qui suit vous permettra d'ajuster votre budget proposé. </p>
-                        <p><strong>[00:09:29 Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
-                        <p><strong>[00:09:33 Une fenêtre contextuelle Activité : Soumettre et ajuster votre budget apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:09:29 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:09:33 : Une fenêtre contextuelle Activité : Soumettre et ajuster votre budget apparaît à l’écran.]</strong></p>
                         <p><strong>[00:09:34 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
@@ -229,7 +229,7 @@
                           </ul></li>
                           <li>Et finalement, le budget d’immobilisations est-il géré de façon centralisée ou individuellement par chaque gestionnaire? </li>
                         </ul>
-                        <p><strong>[00:10:13 Une fenêtre contextuelle Dans la vraie vie apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:10:13 : Une fenêtre contextuelle Dans la vraie vie apparaît à l’écran.]</strong></p>
                         <p><strong>[00:10:14 : Un titre apparaît à l'écran.]</strong></p>
 
                         <hr>
