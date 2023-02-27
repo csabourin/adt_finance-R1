@@ -103,8 +103,8 @@
                         <p>At this point, you should understand the context, both historically and culturally, and be in
                           a position to craft this year’s work plan!</p>
                         <p>Imagine that your director shares with you this coming year’s priorities for your
-                          directorate: <strong>protect aquatic ecosystems, sustain fisheries and manage the issuing of
-                            licences</strong>.</p>
+                          directorate: protect aquatic ecosystems, sustain fisheries and manage the issuing of
+                            licences.</p>
                         <p>Using the drop-down menu, choose the best option for each section of this work plan.</p>
                         <p><strong>[00:03:58 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
                         <p><strong>[00:04:05 An “Activity: Prepare a Work Plan” pop-up text box appears
@@ -122,7 +122,7 @@
                         <hr>
                         <h2>7. Adjust the Work Plan </h2>
                         <p>Alright. Your director tells you that they’ve been to a steering committee meeting and that
-                          they now have <strong>3 new pieces of information</strong> that should be reflected in your
+                          they now have 3 new pieces of information that should be reflected in your
                           work plan:</p>
                         <ol>
                           <li>there will be new software implementation to speed up the issuing of licences</li>
@@ -147,9 +147,6 @@
                         <p><strong>[00:05:29 Text showing the “Take the Quiz!” instruction appears onscreen.]</strong></p>
                         <p><strong>[00:05:30 A “Take the quiz” pop-up text box appears onscreen.]</strong></p>
                         <p><strong>[00:05:32 Text showing “You have completed this section” appears onscreen.]</strong></p>
-                        <hr>
-                        <h2>10. Section Completed</h2>
-                        <p>[Onscreen text showing Section Completed instruction.]</p>
                         <!-- Used to generate buttons to jump to activity
 
                          <button class="accessibilityButton" v-for="(tracks, index) in navBarTracks" :key="index" @click="accessibleModal(index)">{{$t('jumpModalPartsWP') + ' - ' +navBarTracks[index]}}</button> -->
@@ -282,9 +279,6 @@
                         <p><strong>[00:06:14 : Texte indiquant l'instruction Répondez au quiz! apparaît à l’écran.]</strong></p>
                         <p><strong>[00:06:15 : Une fenêtre contextuelle Répondez au quiz apparaît à l’écran.]</strong></p>
                         <p><strong>[00:06:18 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
-                        <hr>
-                        <h2>10. Section complétée</h2>
-                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
                       </span>
                     </b-card-text>
                   </b-card-body>

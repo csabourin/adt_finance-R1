@@ -91,11 +91,6 @@
                         <p><strong>[00:04:17 A pop-up box with “Activity: Try it!” appears onscreen.]</strong></p>
                         <p><strong>[00:04:17 Text showing “You have completed this section” appears onscreen.]</strong></p>
 
-                        <hr>
-
-                        <h2>6. Section Completed</h2>
-                        <p>[Onscreen text showing Section Completed instruction.] </p>
-
                       </span>
                       <span v-if="$i18n.locale=='fr'">
                         <p><strong>[00:00:00 : Un titre apparaît à l'écran.]</strong></p>
@@ -170,10 +165,6 @@
                         <p><strong>[00:04:52 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
                         <p><strong>[00:04:56 : Une fenêtre contextuelle Activité : Essayons-le! apparaît à l’écran.]</strong></p>
                         <p><strong>[00:04:57 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
-
-                        <hr>
-                        <h2>6. Section complétée</h2>
-                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
 
                       </span>
                     </b-card-text>

@@ -74,10 +74,7 @@
                         <p>So now that you know how to initiate expenditures, authorize commitments, exercise financial authority and monitor and control finances, let’s see what you remember by taking this short quiz.</p>
                         <p><strong>[00:04:42 A “Take the Quiz” pop-up box appears onscreen.]</strong></p>
                         <p><strong>[00:04:43 Text showing “You have completed this section” appears onscreen.]</strong></p>
-                        <hr>
 
-                        <h2>5. Section Completed</h2>
-                        <p>[Onscreen text showing Section Completed instruction.]</p>
                       </span>
                       <span v-if="$i18n.locale=='fr'">
 
@@ -133,9 +130,7 @@
                         <p>Maintenant que vous savez comment engager et autoriser des dépenses, exercer des pouvoirs financiers, et surveiller et contrôler les finances, voyons ce dont vous vous souvenez en répondant à ce petit quiz!</p>
                         <p><strong>[00:05:04 : Une fenêtre contextuelle Répondez au quiz apparaît à l’écran.]</strong></p>
                         <p><strong>[00:05:05 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
-                        <hr>
-                        <h2>5. Section complétée</h2>
-                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
+      
                       </span>
                     </b-card-text>
                   </b-card-body>

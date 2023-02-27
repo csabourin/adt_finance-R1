@@ -126,10 +126,7 @@
                         <p><strong>[00:09:26 Text showing the “Take the Quiz!” instruction appears onscreen.]</strong></p>
                         <p><strong>[00:09:29 A “Take the quiz” pop-up text box appears onscreen.]</strong></p>
                         <p><strong>[00:09:30 Text showing “You have completed this section” appears onscreen.]</strong></p>
-                        <hr>
 
-                        <h2>9. Section completed</h2>
-                        <p>[Onscreen text showing Section Completed instruction.]</p>
 
                       </span>
                       <span v-if="$i18n.locale=='fr'">
@@ -239,9 +236,6 @@
                         <p><strong>[00:10:23 : Texte indiquant l'instruction Répondez au quiz! apparaît à l’écran.] </strong></p>
                         <p><strong>[00:10:29 : Une fenêtre contextuelle Répondez au quiz apparaît à l’écran.]</strong></p>
                         <p><strong>[00:10:30 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
-                        <hr>
-                        <h2>9. Section complétée</h2>
-                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
 
                       </span>
                     </b-card-text>

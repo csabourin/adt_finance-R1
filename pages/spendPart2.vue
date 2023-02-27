@@ -87,9 +87,6 @@
                         </ul>
                         <p><strong>[00:02:59 A pop-up box with “Activity: Processing the Invoice” appears onscreen.]</strong></p>
                         <p><strong>[00:03:00 Text showing “You have completed this section” appears onscreen.]</strong></p>
-                        <hr>
-                        <h2>4. Section Completed</h2>
-                        <p>[Onscreen text showing Section Completed instruction.]</p>
 
                       </span>
                       <span v-if="$i18n.locale=='fr'">
@@ -163,10 +160,6 @@
                         </ul>
                         <p><strong>[00:03:16 : Une fenêtre contextuelle Activité : Traitement de la facture apparaît à l’écran.]</strong></p>
                         <p><strong>[00:03:17 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
-
-                        <hr>
-                        <h2>4. Section complétée</h2>
-                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
 
                       </span>
                     </b-card-text>

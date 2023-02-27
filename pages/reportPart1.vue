@@ -75,13 +75,10 @@
                         <p><strong>[00:04:32 Text showing the “Try it!” instruction appears onscreen.]</strong></p>
                         <p><strong>[00:04:34 A pop-up box with “Activity: Updating the Annual Forecast” appears onscreen.]</strong></p>
                         <p><strong>[00:4:35 Text showing “You have completed this section” appears onscreen.]</strong></p>
-                        <hr>
-
-                        <h2>5. Section Completed</h2>
-                        <p>[Onscreen text showing Section Completed instruction.]</p>
+ 
                       </span>
                       <span v-if="$i18n.locale=='fr'">
-                        <p><strong>[00:05:05 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
+                        <p><strong>[00:00:00 : Un titre apparaît à l'écran.]</strong></p>
                         <h2>Module 6. Préparer les rapports sur la situation financière</h2>
                         <p><strong>[00:00:07 : Un titre apparaît à l'écran.]</strong></p>
                         <hr>
@@ -133,9 +130,7 @@
                         <p><strong>[00:05:06 : Texte indiquant l'instruction Essayez-le! apparaît à l’écran.]</strong></p>
                         <p><strong>[00:05:10 : Une fenêtre contextuelle Activité : Mise à jour des prévisions annuelles apparaît à l'écran.]</strong></p>
                         <p><strong>[00:05:11 : Texte indiquant Vous avez complété cette section apparaît à l’écran.]</strong></p>
-                        <hr>
-                        <h2>5. Section complétée</h2>
-                        <p>[Texte à l’écran indiquant l’instruction Section complétée.]</p>
+
                       </span>
                     </b-card-text>
                   </b-card-body>
