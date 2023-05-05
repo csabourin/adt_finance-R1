@@ -23,7 +23,16 @@
               <nuxt-link :to="localePath('planKey')" v-html="$t('KeyMessagesPlan')" />
             </li>
             <li role="menuitem">
-              <nuxt-link :to="localePath('exam1')" v-html="$t('TestPlan')" />
+              <div v-if="$i18n.locale == 'en'">
+                <a href="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4150&ou=7781
+
+" target="_top">Test</a>
+              </div>
+              <div v-if="$i18n.locale == 'fr'">
+                <a href="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4150&ou=7781
+
+" target="_top">Test</a>
+              </div>
             </li>
           </menu>
           <h2 class="colorBar2"><span class="v-inv">{{$t('navigationMenu')}}</span> {{$t('spend')}}</h2>
@@ -41,7 +50,16 @@
               <nuxt-link :to="localePath('spendKey')" v-html="$t('KeyMessagesSpend')" />
             </li>
             <li role="menuitem">
-              <nuxt-link :to="localePath('exam2')" v-html="$t('TestSpend')" />
+              <div v-if="$i18n.locale == 'en'">
+                <a href="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4152&ou=7781
+
+" target="_top">Test</a>
+              </div>
+              <div v-if="$i18n.locale == 'fr'">
+                <a href="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4152&ou=7781
+
+" target="_top">Test</a>
+              </div>
             </li>
           </menu>
           <h2 class="colorBar3"><span class="v-inv">{{$t('navigationMenu')}}</span> {{$t('report')}}</h2>
@@ -56,7 +74,16 @@
               <nuxt-link :to="localePath('reportKey')" v-html="$t('KeyMessagesReport')" />
             </li>
             <li role="menuitem">
-              <nuxt-link :to="localePath('exam3')" v-html="$t('TestReport')" />
+              <div v-if="$i18n.locale == 'en'">
+                <a href="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4151&ou=7781
+
+" target="_top">Test</a>
+              </div>
+              <div v-if="$i18n.locale == 'fr'">
+                <a href="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4151&ou=7781
+
+" target="_top">Test</a>
+              </div>
             </li>
           </menu>
         </div>

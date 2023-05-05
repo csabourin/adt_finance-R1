@@ -420,9 +420,24 @@
       <microlearning path="planKey" time="5" size="140" :completion="$store.state.currentPlaying.kmPlan"
         imagePath="KeyMessP.svg" :text="$t('KeyMessages')" :highlighted="chosenScenario == 'refresh'"
         type="keyMessages" />
-      <microlearning size="140" path="exam1" time="15" :completion="parseInt($store.getters['plan/getScore'], 10)"
-        imagePath="P-Test.svg" :text="$t('Test')" :highlighted="chosenScenario == 'justExam'" type="exam"
-        questionNum="20" />
+        <TestTile
+  size="140"
+  time="15"
+  :completion="parseInt($store.getters['plan/getScore'], 10)"
+  imagePath="P-Test.svg"
+  :text="$t('Test')"
+  :highlighted="chosenScenario == 'justExam'"
+  type="exam"
+  questionNum="20"
+  quizUrl="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4150&ou=7781
+
+"
+/>
+
+
+
+
+
     </div>
   </div>
 </template>
@@ -437,6 +452,7 @@ import adjustWorkplan from '~/components/slides/plan/adjust_workplan'
 import test360 from '~/components/slides/plan/test360'
 import planQuiz from '~/components/slides/plan/planQuiz'
 import continuePopup from '~/components/continuePopup'
+import TestTile from '../components/testTile.vue'
 export default {
   data() {
     return {
@@ -453,8 +469,9 @@ export default {
     completeWorkplan,
     adjustWorkplan,
     planQuiz,
-    continuePopup
-  },
+    continuePopup,
+    TestTile
+},
   methods: {
     resumePlay() {
       this.$refs.vp.resumePlay()

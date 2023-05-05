@@ -90,7 +90,21 @@
       <microlearning path="spendPart2" imagePath="ExerciseFinancialAuthority.svg" size="140" time="20" :completion="$store.state.currentPlaying.spendPart2_player" :text="$t('ExerciseFinancialAuthority')" type="video" />
       <microlearning path="spendPart3" size="140" time="20" :completion="$store.state.currentPlaying.spendPart3_player" imagePath="MonitContFinances.svg" :text="$t('MonitorControlFinances')" type="video" />
        <microlearning time="5" youAreHere path="spendKey" size="140" :completion="$store.state.currentPlaying.kmSpend" imagePath="KeyMessS.svg" :text="$t('KeyMessages')" type="keyMessages" />
-      <microlearning path="exam2" size="140" time="15" imagePath="S-Test.svg" :text="$t('Test')" :completion="parseInt($store.getters['spend/getScore'],10)" :highlighted="chosenScenario == 'justExam'" type="exam" questionNum="20" />
+       <TestTile
+  path="exam2"
+  size="140"
+  time="15"
+  imagePath="S-Test.svg"
+  :text="$t('Test')"
+  :completion="parseInt($store.getters['spend/getScore'], 10)"
+  :highlighted="chosenScenario == 'justExam'"
+  type="exam"
+  questionNum="20"
+  quizUrl="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4152&ou=7781
+
+"
+/>
+
     </div>
   </div>
 </template>
@@ -100,13 +114,15 @@ import download from "~/components/fileDownload"
 import HTMLJobaidLink from "~/components/HTMLJobaidLink"
 import microlearning from "~/components/microlearning"
 import keyMessagesFiles from "~/components/keyMessagesFiles"
+import TestTile from "../components/testTile.vue"
 export default {
   components: {
     microlearning,
     download,
     HTMLJobaidLink,
-    keyMessagesFiles
-  },
+    keyMessagesFiles,
+    TestTile
+},
   computed:{
     chosenScenario: {
       set(scenario) {

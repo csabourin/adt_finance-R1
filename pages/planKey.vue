@@ -118,7 +118,18 @@
       <microlearning path="buildwp" imagePath="BuildWP.svg" size="140" time="20" :completion="$store.state.currentPlaying.buildWP_player" :text="$t('BuildWorkPlan')" type="video" />
       <microlearning size="140" path="createbudget" time="20" :completion="$store.state.currentPlaying.createBudget_player" imagePath="CreateBud.svg" :text="$t('CreateBudget')" type="video" />
       <microlearning path="planKey" time="5" youAreHere size="140" :completion="$store.state.currentPlaying.kmPlan" imagePath="KeyMessP.svg" :text="$t('KeyMessages')" type="keyMessages" />
-      <microlearning size="140" path="exam1" time="15" :completion="parseInt($store.getters['plan/getScore'],10)" imagePath="P-Test.svg" :text="$t('Test')" :highlighted="chosenScenario == 'justExam'" type="exam" questionNum="20" />
+      <TestTile
+  size="140"
+  time="15"
+  :completion="parseInt($store.getters['plan/getScore'], 10)"
+  imagePath="P-Test.svg"
+  :text="$t('Test')"
+  :highlighted="chosenScenario == 'justExam'"
+  type="exam"
+  questionNum="20"
+  quizUrl="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4150&ou=7781
+
+"/>
     </div>
   </div>
 </template>
@@ -130,6 +141,7 @@ import hamburger from "~/components/hamburger"
 import microlearning from "~/components/microlearning"
 import externalLink from "~/components/externalLink"
 import keyMessagesFiles from "~/components/keyMessagesFiles"
+import TestTile from "../components/testTile.vue"
 export default {
   components: {
     hamburger,
@@ -137,8 +149,9 @@ export default {
     download,
     HTMLJobaidLink,
     externalLink,
-    keyMessagesFiles
-  },
+    keyMessagesFiles,
+    TestTile
+},
   computed: {
     pageComplete() {
       return this.$store.state.currentPlaying.kmPlan

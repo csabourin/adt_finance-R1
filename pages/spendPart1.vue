@@ -244,8 +244,21 @@
       <microlearning path="spendPart2"  imagePath="ExerciseFinancialAuthority.svg" size="140" time="20" :completion="$store.state.currentPlaying.spendPart2_player" :text="$t('ExerciseFinancialAuthority')" type="video" />
       <microlearning path="spendPart3" size="140" time="20" :completion="$store.state.currentPlaying.spendPart3_player" imagePath="MonitContFinances.svg" :text="$t('MonitorControlFinances')" type="video" />
       <microlearning path="spendKey" time="5" size="140" :completion="$store.state.currentPlaying.kmSpend" imagePath="KeyMessS.svg" :text="$t('KeyMessages')" :highlighted="chosenScenario == 'refresh'" type="keyMessages" />
-      <microlearning path="exam2" size="140" time="15" imagePath="S-Test.svg" :text="$t('Test')" :completion="parseInt($store.getters['spend/getScore'],10)" :highlighted="chosenScenario == 'justExam'" type="exam" questionNum="20" />
-    </div>
+      <TestTile
+  path="exam2"
+  size="140"
+  time="15"
+  imagePath="S-Test.svg"
+  :text="$t('Test')"
+  :completion="parseInt($store.getters['spend/getScore'], 10)"
+  :highlighted="chosenScenario == 'justExam'"
+  type="exam"
+  questionNum="20"
+  quizUrl="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4152&ou=7781
+
+"
+/>
+</div>
   </div>
 </template>
 <script type="text/javascript">
@@ -256,6 +269,7 @@ import delegAuthority from '~/components/slides/spend/delegAuthority'
 import spendMechanisms from '~/components/slides/spend/spendMechanisms'
 import RecordingFinancialSystem from '~/components/slides/spend/RecordingFinancialSystem'
 import spendS32tryIt from '~/components/slides/spend/spendS32tryIt'
+import TestTile from '../components/testTile.vue'
 export default {
   data() {
     return {
@@ -269,8 +283,9 @@ export default {
     checkBudget,
     spendMechanisms,
     spendS32tryIt,
-    RecordingFinancialSystem
-  },
+    RecordingFinancialSystem,
+    TestTile
+},
   computed:{
     thatPoint(){
       return this.$store.state.currentPlaying.spendPart1

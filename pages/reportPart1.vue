@@ -188,7 +188,21 @@
       <microlearning youAreHere :completion="$store.state.currentPlaying.reportPart1_player" path="reportPart1" imagePath="R-Conduct.svg" size="140" time="20" :text="$t('ConductPeriodicVarianceReporting')" type="video" />
       <microlearning :completion="$store.state.currentPlaying.reportPart2_player" path="reportPart2" imagePath="R-Contribute.svg" size="140" time="20" :text="$t('ContributeReporting')" type="video" />
       <microlearning :completion="$store.state.currentPlaying.kmReport" path="reportKey" time="5" size="140" imagePath="KeyMessR.svg" :text="$t('KeyMessages')" :highlighted="chosenScenario == 'refresh'" type="keyMessages" />
-      <microlearning :completion="parseInt($store.getters['report/getScore'],10)" path="exam3" size="140" time="15" imagePath="R-Test.svg" :text="$t('Test')" :highlighted="chosenScenario == 'justExam'" type="exam" questionNum="20" />
+      <TestTile
+  :completion="parseInt($store.getters['report/getScore'], 10)"
+  path="exam3"
+  size="140"
+  time="15"
+  imagePath="R-Test.svg"
+  :text="$t('Test')"
+  :highlighted="chosenScenario == 'justExam'"
+  type="exam"
+  questionNum="20"
+  quizUrl="https://app.csps-efpc.gc.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=4151&ou=7781
+
+"
+/>
+
     </div>
   </div>
 </template>
@@ -199,6 +213,7 @@ import whatIsFSR from '~/components/slides/report/whatIsFSR'
 import UpdatingAnnualForecast from '~/components/slides/report/UpdatingAnnualForecast'
 import FSRActivities from '~/components/slides/report/FSRActivities'
 import keyPeriods from '~/components/slides/report/keyPeriods'
+import TestTile from '../components/testTile.vue'
 export default {
   data() {
     return {
@@ -211,8 +226,9 @@ export default {
     whatIsFSR,
     FSRActivities,
     keyPeriods,
-    UpdatingAnnualForecast
-  },
+    UpdatingAnnualForecast,
+    TestTile
+},
   computed: {
     thatPoint() {
       return this.$store.state.currentPlaying.reportPart1
